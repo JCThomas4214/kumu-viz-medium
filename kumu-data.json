@@ -1161,7 +1161,7 @@
             "Topic": "Reverse Engineering",
             "OPR": "",
             "Source": [
-                "NCWF A0007"
+                "NCWF"
             ]
         },
         {
@@ -1171,7 +1171,7 @@
             "Topic": "Advanced Math",
             "OPR": "",
             "Source": [
-                "NCWF A0021"
+                "NCWF"
             ]
         },
         {
@@ -1181,7 +1181,7 @@
             "Topic": "Secure Coding",
             "OPR": "",
             "Source": [
-                "NCWF A0047"
+                "NCWF"
             ]
         },
         {
@@ -1191,7 +1191,7 @@
             "Topic": "Organizational Security",
             "OPR": "",
             "Source": [
-                "NCWF A0123"
+                "NCWF"
             ]
         },
         {
@@ -1201,7 +1201,7 @@
             "Topic": "Network Security",
             "OPR": "",
             "Source": [
-                "NCWF A0170"
+                "NCWF"
             ]
         },
         {
@@ -3785,7 +3785,7 @@
             "Topic": "Networking Concepts",
             "OPR": "",
             "Source": [
-                "NCWF K0001"
+                "NCWF"
             ]
         },
         {
@@ -3795,7 +3795,7 @@
             "Topic": "Risk Management",
             "OPR": "",
             "Source": [
-                "NCWF K0002"
+                "NCWF"
             ]
         },
         {
@@ -3805,7 +3805,7 @@
             "Topic": "Laws & Ethics",
             "OPR": "",
             "Source": [
-                "NCWF K0003"
+                "NCWF"
             ]
         },
         {
@@ -3815,7 +3815,7 @@
             "Topic": "Privacy",
             "OPR": "",
             "Source": [
-                "NCWF K0004"
+                "NCWF"
             ]
         },
         {
@@ -3825,7 +3825,7 @@
             "Topic": "Threats & Vulnerabilities",
             "OPR": "",
             "Source": [
-                "NCWF K0005"
+                "NCWF"
             ]
         },
         {
@@ -3835,7 +3835,7 @@
             "Topic": "Threats & Vulnerabilities",
             "OPR": "",
             "Source": [
-                "NCWF K0006"
+                "NCWF"
             ]
         },
         {
@@ -3845,7 +3845,7 @@
             "Topic": "Data Structures",
             "OPR": "",
             "Source": [
-                "NCWF K0014"
+                "NCWF"
             ]
         },
         {
@@ -3855,7 +3855,7 @@
             "Topic": "Software Engineering Fundamentals",
             "OPR": "",
             "Source": [
-                "NCWF K0016"
+                "NCWF"
             ]
         },
         {
@@ -3865,7 +3865,7 @@
             "Topic": "Risk Management",
             "OPR": "",
             "Source": [
-                "NCWF K0027"
+                "NCWF"
             ]
         },
         {
@@ -3875,7 +3875,7 @@
             "Topic": "Risk Management",
             "OPR": "",
             "Source": [
-                "NCWF K0028"
+                "NCWF"
             ]
         },
         {
@@ -3885,7 +3885,7 @@
             "Topic": "Privacy",
             "OPR": "",
             "Source": [
-                "NCWF K0039"
+                "NCWF"
             ]
         },
         {
@@ -3895,7 +3895,7 @@
             "Topic": "Privacy",
             "OPR": "",
             "Source": [
-                "NCWF K0044"
+                "NCWF"
             ]
         },
         {
@@ -3905,7 +3905,7 @@
             "Topic": "Networking Concepts",
             "OPR": "",
             "Source": [
-                "NCWF K0050"
+                "NCWF"
             ]
         },
         {
@@ -3915,7 +3915,7 @@
             "Topic": "Software Engineering",
             "OPR": "",
             "Source": [
-                "NCWF K0051"
+                "NCWF"
             ]
         },
         {
@@ -3925,7 +3925,7 @@
             "Topic": "OS",
             "OPR": "",
             "Source": [
-                "NCWF K0060"
+                "NCWF"
             ]
         },
         {
@@ -3935,7 +3935,7 @@
             "Topic": "Privacy",
             "OPR": "",
             "Source": [
-                "NCWF K0066"
+                "NCWF"
             ]
         },
         {
@@ -3945,7 +3945,7 @@
             "Topic": "Software Engineering Fundamentals",
             "OPR": "",
             "Source": [
-                "NCWF K0068"
+                "NCWF"
             ]
         },
         {
@@ -3955,7 +3955,7 @@
             "Topic": "Threats & Vulnerabilities",
             "OPR": "",
             "Source": [
-                "NCWF K0070"
+                "NCWF"
             ]
         },
         {
@@ -3965,7 +3965,7 @@
             "Topic": "STIGs",
             "OPR": "",
             "Source": [
-                "NCWF K0073"
+                "NCWF"
             ]
         },
         {
@@ -3975,7 +3975,7 @@
             "Topic": "Debugging",
             "OPR": "",
             "Source": [
-                "NCWF K0079"
+                "NCWF"
             ]
         },
         {
@@ -3985,7 +3985,7 @@
             "Topic": "Software Engineering Fundamentals",
             "OPR": "",
             "Source": [
-                "NCWF K0080"
+                "NCWF"
             ]
         },
         {
@@ -3995,7 +3995,7 @@
             "Topic": "Software Development Process",
             "OPR": "",
             "Source": [
-                "NCWF K0081"
+                "NCWF"
             ]
         },
         {
@@ -4005,7 +4005,7 @@
             "Topic": "Software Engineering Fundamentals",
             "OPR": "",
             "Source": [
-                "NCWF K0082"
+                "NCWF"
             ]
         },
         {
@@ -4015,7 +4015,7 @@
             "Topic": "Software Development Process",
             "OPR": "",
             "Source": [
-                "NCWF K0084"
+                "NCWF"
             ]
         },
         {
@@ -4025,7 +4025,7 @@
             "Topic": "Software Engineering Fundamentals",
             "OPR": "",
             "Source": [
-                "NCWF K0086"
+                "NCWF"
             ]
         },
         {
@@ -4035,7 +4035,7 @@
             "Topic": "Architecture Concepts & Models",
             "OPR": "",
             "Source": [
-                "NCWF K0105"
+                "NCWF"
             ]
         },
         {
@@ -4045,7 +4045,7 @@
             "Topic": "Software Engineering Fundamentals",
             "OPR": "",
             "Source": [
-                "NCWF K0139"
+                "NCWF"
             ]
         },
         {
@@ -4055,7 +4055,7 @@
             "Topic": "Secure Coding",
             "OPR": "",
             "Source": [
-                "NCWF K0140"
+                "NCWF"
             ]
         },
         {
@@ -4065,7 +4065,7 @@
             "Topic": "Architecture Concepts & Models",
             "OPR": "",
             "Source": [
-                "NCWF K0152"
+                "NCWF"
             ]
         },
         {
@@ -4075,7 +4075,7 @@
             "Topic": "Quality Assurance",
             "OPR": "",
             "Source": [
-                "NCWF K0153"
+                "NCWF"
             ]
         },
         {
@@ -4085,7 +4085,7 @@
             "Topic": "Risk Management",
             "OPR": "",
             "Source": [
-                "NCWF K0154"
+                "NCWF"
             ]
         },
         {
@@ -4095,7 +4095,7 @@
             "Topic": "Critical Infrastructure",
             "OPR": "",
             "Source": [
-                "NCWF K0170"
+                "NCWF"
             ]
         },
         {
@@ -4105,7 +4105,7 @@
             "Topic": "Architecture Concepts & Models",
             "OPR": "",
             "Source": [
-                "NCWF K0179"
+                "NCWF"
             ]
         },
         {
@@ -4115,7 +4115,7 @@
             "Topic": "Architecture Concepts & Models",
             "OPR": "",
             "Source": [
-                "NCWF K0199"
+                "NCWF"
             ]
         },
         {
@@ -4125,7 +4125,7 @@
             "Topic": "Networking Concepts",
             "OPR": "",
             "Source": [
-                "NCWF K0202"
+                "NCWF"
             ]
         },
         {
@@ -4135,7 +4135,7 @@
             "Topic": "Standards",
             "OPR": "",
             "Source": [
-                "NCWF K0260"
+                "NCWF"
             ]
         },
         {
@@ -4145,7 +4145,7 @@
             "Topic": "Standards",
             "OPR": "",
             "Source": [
-                "NCWF K0261"
+                "NCWF"
             ]
         },
         {
@@ -4155,7 +4155,7 @@
             "Topic": "Standards",
             "OPR": "",
             "Source": [
-                "NCWF K0262"
+                "NCWF"
             ]
         },
         {
@@ -4165,7 +4165,7 @@
             "Topic": "Risk Management",
             "OPR": "",
             "Source": [
-                "NCWF K0263"
+                "NCWF"
             ]
         },
         {
@@ -4175,7 +4175,7 @@
             "Topic": "",
             "OPR": "",
             "Source": [
-                "NCWF K0322"
+                "NCWF"
             ]
         },
         {
@@ -4185,7 +4185,7 @@
             "Topic": "Networking Concepts",
             "OPR": "",
             "Source": [
-                "NCWF K0332"
+                "NCWF"
             ]
         },
         {
@@ -4195,7 +4195,7 @@
             "Topic": "Penetration Testing",
             "OPR": "",
             "Source": [
-                "NCWF K0342"
+                "NCWF"
             ]
         },
         {
@@ -4205,7 +4205,7 @@
             "Topic": "Risk Management",
             "OPR": "",
             "Source": [
-                "NCWF K0343"
+                "NCWF"
             ]
         },
         {
@@ -4215,7 +4215,7 @@
             "Topic": "Threats & Vulnerabilities",
             "OPR": "",
             "Source": [
-                "NCWF K0624"
+                "NCWF"
             ]
         },
         {
@@ -8771,7 +8771,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0001"
+                "NCWF"
             ]
         },
         {
@@ -8781,7 +8781,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0014"
+                "NCWF"
             ]
         },
         {
@@ -8791,7 +8791,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0017"
+                "NCWF"
             ]
         },
         {
@@ -8801,7 +8801,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0022"
+                "NCWF"
             ]
         },
         {
@@ -8811,7 +8811,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0031"
+                "NCWF"
             ]
         },
         {
@@ -8821,7 +8821,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0034"
+                "NCWF"
             ]
         },
         {
@@ -8831,7 +8831,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0060"
+                "NCWF"
             ]
         },
         {
@@ -8841,7 +8841,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0135"
+                "NCWF"
             ]
         },
         {
@@ -8851,7 +8851,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0138"
+                "NCWF"
             ]
         },
         {
@@ -8861,7 +8861,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0149"
+                "NCWF"
             ]
         },
         {
@@ -8871,7 +8871,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0174"
+                "NCWF"
             ]
         },
         {
@@ -8881,7 +8881,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0175"
+                "NCWF"
             ]
         },
         {
@@ -8891,7 +8891,7 @@
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
-                "NCWF S0367"
+                "NCWF"
             ]
         },
         {
