@@ -6469,7 +6469,7 @@
         {
             "Label": "K0658",
             "Type": "Knowledge",
-            "Description": "Identify features associated with Git/Gitlab",
+            "Description": "Identify features associated with Git",
             "Topic": "Git",
             "OPR": "",
             "Source": []
@@ -7077,7 +7077,7 @@
         {
             "Label": "K0726",
             "Type": "Knowledge",
-            "Description": "Describe how to clone a project in Git.",
+            "Description": "Describe how to clone a project in Git",
             "Topic": "Git",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -7085,50 +7085,42 @@
             ]
         },
         {
-            "Label": "K0727",
-            "Type": "Knowledge",
-            "Description": "Describe the steps used to register a runner in Git.",
-            "Topic": "Git",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0728",
             "Type": "Knowledge",
-            "Description": "Describe the purpose of a YAML file in Git.",
-            "Topic": "Git",
+            "Description": "Summarize the purpose of a .gitlab-ci.yml file in GitLab",
+            "Topic": "GitLab",
             "OPR": "",
             "Source": []
         },
         {
             "Label": "K0729",
             "Type": "Knowledge",
-            "Description": "Describe how to configure a YAML file to generate an artifact.",
-            "Topic": "Git",
+            "Description": "Clarify how to configure a .gitlab-ci.yml file to generate an artifact in a GitLab pipeline",
+            "Topic": "GitLab",
             "OPR": "",
             "Source": []
         },
         {
             "Label": "K0730",
             "Type": "Knowledge",
-            "Description": "Describe how to configure a YAML file to store an artifact.",
-            "Topic": "Git",
+            "Description": "Clarify how to configure a .gitlab-ci.yml file to cache files in a GitLab pipeline",
+            "Topic": "GitLab",
             "OPR": "",
             "Source": []
         },
         {
             "Label": "K0731",
             "Type": "Knowledge",
-            "Description": "Describe how to define stages in a YAML file.",
-            "Topic": "Git",
+            "Description": "Clarify how to define stages in a .gitlab-ci.yml file for a GitLab pipeline",
+            "Topic": "GitLab",
             "OPR": "",
             "Source": []
         },
         {
             "Label": "K0732",
             "Type": "Knowledge",
-            "Description": "Describe how to define jobs in a YAML file.",
-            "Topic": "Git",
+            "Description": "Clarify how to define jobs in a .gitlab-ci.yml file for a GitLab pipeline",
+            "Topic": "GitLab",
             "OPR": "",
             "Source": []
         },
@@ -8381,6 +8373,22 @@
             "Type": "Knowledge",
             "Description": "Identify the four Agile values.",
             "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0890",
+            "Type": "Knowledge",
+            "Description": "Recall the purpose of different GitLab repository configuration files ",
+            "Topic": "GitLab",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0891",
+            "Type": "Knowledge",
+            "Description": "Recall how to ask a question the right way",
+            "Topic": "GitLab",
             "OPR": "",
             "Source": []
         },
@@ -11551,6 +11559,14 @@
             "Topic": "Linux Kernel Development",
             "OPR": "",
             "Source": []
+        },
+        {
+            "Label": "S0334",
+            "Type": "Skills",
+            "Description": "Carry out the steps used to register a runner in GitLab",
+            "Topic": "GitLab",
+            "OPR": "",
+            "Source": []
         }
     ],
     "connections": [
@@ -14007,10 +14023,6 @@
             "To": "K0680"
         },
         {
-            "From": "K0727",
-            "To": "S0015"
-        },
-        {
             "From": "K0728",
             "To": "A0694"
         },
@@ -14673,6 +14685,10 @@
         {
             "From": "K0889",
             "To": "A0635"
+        },
+        {
+            "From": "K0890",
+            "To": "S0015"
         },
         {
             "From": "T0005",
@@ -16053,6 +16069,10 @@
         {
             "From": "S0212",
             "To": "A0742"
+        },
+        {
+            "From": "S0334",
+            "To": "S0015"
         }
     ]
 }
