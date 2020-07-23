@@ -441,14 +441,6 @@
             "Source": []
         },
         {
-            "Label": "A0436",
-            "Type": "Abilities",
-            "Description": "Assess the skills, capabilities and practices of a Product Owner to help the organization realize value.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "A0444",
             "Type": "Abilities",
             "Description": "Create a product plan or forecast with stakeholders.",
@@ -457,33 +449,9 @@
             "Source": []
         },
         {
-            "Label": "A0452",
-            "Type": "Abilities",
-            "Description": "Appraise how effectively the Sprint Review is used to inspect and adapt based on the product Increment that was built in the Sprint.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0454",
-            "Type": "Abilities",
-            "Description": "Develop hypotheses for a target customer/user segment and create a plan to test one hypothesis.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "A0459",
             "Type": "Abilities",
-            "Description": "Product Backlog Refinement",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0460",
-            "Type": "Abilities",
-            "Description": "Demonstrate at least one technique to generate new Product Backlog items.",
+            "Description": "Create, Maintain, and Refine the Product Backlog",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -492,22 +460,6 @@
             "Label": "A0461",
             "Type": "Abilities",
             "Description": "Organize and facilitate a session with stakeholders to break down a solution or feature as progressively smaller items that may be completed in Sprints.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0462",
-            "Type": "Abilities",
-            "Description": "Integrate feedback from at least three sources to generate and order Product Backlog items.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0463",
-            "Type": "Abilities",
-            "Description": "Assess how to refine the Product Backlog and recognize at least three ways to improve.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -883,145 +835,9 @@
             "Source": []
         },
         {
-            "Label": "A0634",
-            "Type": "Abilities",
-            "Description": "Define basic programming terminology and be able to relate programming concepts",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0635",
-            "Type": "Abilities",
-            "Description": "Apply knowledge of Agile scrum to manage Epic/user story criteria",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0636",
-            "Type": "Abilities",
-            "Description": "Create documentation relaying leadership/customer vision",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0637",
-            "Type": "Abilities",
-            "Description": "Collaborate with team members to create project charter",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0638",
-            "Type": "Abilities",
-            "Description": "Apply a thorough understanding of tools associated with JIRA to manage development team projects",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0639",
-            "Type": "Abilities",
-            "Description": "Establish a galvanizing environment to improve team collaboration",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0640",
-            "Type": "Abilities",
-            "Description": "Relate and demonstrate tools commonly used by 90 COS dev teams for communication (e.g. Slack)",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0641",
-            "Type": "Abilities",
-            "Description": "Develop and Construct a rapport with leadership",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0642",
-            "Type": "Abilities",
-            "Description": "Identify and weigh product assumptions",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0643",
-            "Type": "Abilities",
-            "Description": "Agile roles and responsibilities",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0644",
-            "Type": "Abilities",
-            "Description": "Formulate and prioritize backlog items",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0645",
-            "Type": "Abilities",
-            "Description": "Relate customer expectations with team members for product development",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0646",
-            "Type": "Abilities",
-            "Description": "Collaborate with tool champion to identify team requirements",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0647",
-            "Type": "Abilities",
-            "Description": "Assess and appraise the use of deliverables at sprint reviews",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0648",
-            "Type": "Abilities",
-            "Description": "Design acceptance criteria.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0649",
-            "Type": "Abilities",
-            "Description": "Apply the required principles to create a definition of done",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "A0650",
             "Type": "Abilities",
-            "Description": "Jira Fundamentals",
-            "Topic": "Jira",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0651",
-            "Type": "Abilities",
-            "Description": "Compile and organize issues within JIRA.",
+            "Description": "Utilize Jira for project and task management.",
             "Topic": "Jira",
             "OPR": "",
             "Source": []
@@ -3381,7 +3197,7 @@
         {
             "Label": "K0260",
             "Type": "Knowledge",
-            "Description": "Creating and Refining Items",
+            "Description": "Identify steps to create or refine a product backlog item",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4217,14 +4033,6 @@
             "Source": [
                 "NCWF"
             ]
-        },
-        {
-            "Label": "K0365",
-            "Type": "Knowledge",
-            "Description": "Fundamentals of the Product Owner Role",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
         },
         {
             "Label": "K0366",
@@ -6406,7 +6214,7 @@
             "Label": "K0650",
             "Type": "Knowledge",
             "Description": "Demonstrate knowledge of presentation and spreadsheet software. (PowerPoint/Excel, etc.)",
-            "Topic": "",
+            "Topic": "Agile",
             "OPR": "",
             "Source": []
         },
@@ -6430,14 +6238,6 @@
             "Label": "K0653",
             "Type": "Knowledge",
             "Description": "Interpret basic computer architecture and networking concepts",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0654",
-            "Type": "Knowledge",
-            "Description": "Identify programming languages commonly used by development teams",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -8389,6 +8189,30 @@
             "Type": "Knowledge",
             "Description": "Recall how to ask a question the right way",
             "Topic": "GitLab",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0892",
+            "Type": "Knowledge",
+            "Description": "Identify agile roles and responsibilities",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0893",
+            "Type": "Knowledge",
+            "Description": "Define basic programming terminology.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0894",
+            "Type": "Knowledge",
+            "Description": "Describe common programming concepts",
+            "Topic": "Agile",
             "OPR": "",
             "Source": []
         },
@@ -11567,6 +11391,166 @@
             "Topic": "GitLab",
             "OPR": "",
             "Source": []
+        },
+        {
+            "Label": "S0335",
+            "Type": "Skills",
+            "Description": "Assess the skills, capabilities and practices of a Product Owner to help the organization realize value.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0336",
+            "Type": "Skills",
+            "Description": "Appraise how effectively the Sprint Review is used to inspect and adapt based on the product Increment that was built in the Sprint.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0337",
+            "Type": "Skills",
+            "Description": "Develop hypotheses for a target customer/user segment and create a plan to test one hypothesis.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0339",
+            "Type": "Skills",
+            "Description": "Integrate feedback from at least three sources to generate and order Product Backlog items.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0340",
+            "Type": "Skills",
+            "Description": "Assess the Product Backlog and propose at least three ways to improve.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0341",
+            "Type": "Skills",
+            "Description": "Utilize tools associated with JIRA to manage development team projects",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0342",
+            "Type": "Skills",
+            "Description": "Relate customer expectations with team members for product development",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0344",
+            "Type": "Skills",
+            "Description": "Develop and manage Epic/user story criteria",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0345",
+            "Type": "Skills",
+            "Description": "Create documentation relaying leadership/customer vision",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0346",
+            "Type": "Skills",
+            "Description": "Collaborate with team members to create project charter",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0348",
+            "Type": "Skills",
+            "Description": "Establish a galvanizing environment to improve team collaboration",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0349",
+            "Type": "Skills",
+            "Description": "Relate and demonstrate tools commonly used by 90 COS dev teams for communication (e.g. Slack)",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0350",
+            "Type": "Skills",
+            "Description": "Develop and Construct a rapport with leadership",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0351",
+            "Type": "Skills",
+            "Description": "Identify and weigh product assumptions",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0352",
+            "Type": "Skills",
+            "Description": "Prioritize backlog items",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0354",
+            "Type": "Skills",
+            "Description": "Collaborate with tool champion to identify team requirements",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0355",
+            "Type": "Skills",
+            "Description": "Assess and appraise the use of deliverables at sprint reviews",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0356",
+            "Type": "Skills",
+            "Description": "Formulate acceptance criteria.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0357",
+            "Type": "Skills",
+            "Description": "Apply the required principles to create a definition of done",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0358",
+            "Type": "Skills",
+            "Description": "Compile and organize issues within JIRA.",
+            "Topic": "Jira",
+            "OPR": "",
+            "Source": []
         }
     ],
     "connections": [
@@ -11811,26 +11795,6 @@
             "To": "A0432"
         },
         {
-            "From": "A0452",
-            "To": "K0405"
-        },
-        {
-            "From": "A0460",
-            "To": "A0459"
-        },
-        {
-            "From": "A0461",
-            "To": "A0459"
-        },
-        {
-            "From": "A0462",
-            "To": "A0459"
-        },
-        {
-            "From": "A0463",
-            "To": "A0459"
-        },
-        {
             "From": "A0563",
             "To": "T0010"
         },
@@ -11885,70 +11849,6 @@
         {
             "From": "A0632",
             "To": "K0071"
-        },
-        {
-            "From": "A0634",
-            "To": "K0365"
-        },
-        {
-            "From": "A0635",
-            "To": "K0655"
-        },
-        {
-            "From": "A0636",
-            "To": "K0365"
-        },
-        {
-            "From": "A0637",
-            "To": "K0365"
-        },
-        {
-            "From": "A0638",
-            "To": "K0365"
-        },
-        {
-            "From": "A0639",
-            "To": "K0365"
-        },
-        {
-            "From": "A0640",
-            "To": "K0365"
-        },
-        {
-            "From": "A0641",
-            "To": "K0399"
-        },
-        {
-            "From": "A0642",
-            "To": "K0365"
-        },
-        {
-            "From": "A0644",
-            "To": "A0643"
-        },
-        {
-            "From": "A0645",
-            "To": "K0399"
-        },
-        {
-            "From": "A0646",
-            "To": "K0399"
-        },
-        {
-            "From": "A0647",
-            "To": "K0365"
-        },
-        {
-            "From": "A0648",
-            "To": "K0365"
-        },
-        {
-            "From": "A0649",
-            "To": "K0365"
-        },
-        {
-            "From": "A0651",
-            "To": "A0650"
         },
         {
             "From": "A0694",
@@ -13147,10 +13047,6 @@
             "To": "S0201"
         },
         {
-            "From": "K0261",
-            "To": "K0260"
-        },
-        {
             "From": "K0264",
             "To": "A0355"
         },
@@ -13477,26 +13373,6 @@
         {
             "From": "K0321",
             "To": "S0017"
-        },
-        {
-            "From": "K0366",
-            "To": "K0365"
-        },
-        {
-            "From": "K0367",
-            "To": "K0365"
-        },
-        {
-            "From": "K0368",
-            "To": "K0365"
-        },
-        {
-            "From": "K0369",
-            "To": "K0365"
-        },
-        {
-            "From": "K0370",
-            "To": "K0365"
         },
         {
             "From": "K0371",
@@ -13831,40 +13707,8 @@
             "To": "S0017"
         },
         {
-            "From": "K0649",
-            "To": "K0365"
-        },
-        {
-            "From": "K0650",
-            "To": "K0365"
-        },
-        {
-            "From": "K0651",
-            "To": "K0365"
-        },
-        {
-            "From": "K0652",
-            "To": "K0365"
-        },
-        {
-            "From": "K0653",
-            "To": "K0365"
-        },
-        {
-            "From": "K0654",
-            "To": "K0365"
-        },
-        {
             "From": "K0656",
             "To": "K0655"
-        },
-        {
-            "From": "K0657",
-            "To": "K0365"
-        },
-        {
-            "From": "K0658",
-            "To": "K0365"
         },
         {
             "From": "K0660",
@@ -13893,10 +13737,6 @@
         {
             "From": "K0668",
             "To": "K0655"
-        },
-        {
-            "From": "K0669",
-            "To": "K0365"
         },
         {
             "From": "K0677",
@@ -16035,6 +15875,10 @@
             "To": "A0355"
         },
         {
+            "From": "S0200",
+            "To": "A0459"
+        },
+        {
             "From": "S0206",
             "To": "A0739"
         },
@@ -16073,6 +15917,22 @@
         {
             "From": "S0334",
             "To": "S0015"
+        },
+        {
+            "From": "S0339",
+            "To": "A0459"
+        },
+        {
+            "From": "S0340",
+            "To": "A0459"
+        },
+        {
+            "From": "S0352",
+            "To": "A0459"
+        },
+        {
+            "From": "S0358",
+            "To": "A0650"
         }
     ]
 }
