@@ -3035,86 +3035,6 @@
             ]
         },
         {
-            "Label": "K0244",
-            "Type": "Knowledge",
-            "Description": "sysenter/sysexit",
-            "Topic": "Assembly Programming",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0245",
-            "Type": "Knowledge",
-            "Description": "sys_read",
-            "Topic": "Assembly Programming",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0246",
-            "Type": "Knowledge",
-            "Description": "sys_write",
-            "Topic": "Assembly Programming",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0247",
-            "Type": "Knowledge",
-            "Description": "sys_open",
-            "Topic": "Assembly Programming",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0248",
-            "Type": "Knowledge",
-            "Description": "sys_mmap",
-            "Topic": "Assembly Programming",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0249",
-            "Type": "Knowledge",
-            "Description": "sys_brk",
-            "Topic": "Assembly Programming",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0250",
-            "Type": "Knowledge",
-            "Description": "sys_exit",
-            "Topic": "Assembly Programming",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0251",
-            "Type": "Knowledge",
-            "Description": "etc",
-            "Topic": "Assembly Programming",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "K0252",
             "Type": "Knowledge",
             "Description": "With references and required resources, describe the purpose and use of memory segmentation and how a system or process' memory is laid into a section.",
@@ -12813,38 +12733,6 @@
         {
             "From": "K0243",
             "To": "S0122"
-        },
-        {
-            "From": "K0244",
-            "To": "K0243"
-        },
-        {
-            "From": "K0245",
-            "To": "K0243"
-        },
-        {
-            "From": "K0246",
-            "To": "K0243"
-        },
-        {
-            "From": "K0247",
-            "To": "K0243"
-        },
-        {
-            "From": "K0248",
-            "To": "K0243"
-        },
-        {
-            "From": "K0249",
-            "To": "K0243"
-        },
-        {
-            "From": "K0250",
-            "To": "K0243"
-        },
-        {
-            "From": "K0251",
-            "To": "K0243"
         },
         {
             "From": "K0252",
