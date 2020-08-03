@@ -8509,6 +8509,14 @@
             ]
         },
         {
+            "Label": "T0038",
+            "Type": "Tasks",
+            "Description": "Create a masterpiece",
+            "Topic": "",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "S0001",
             "Type": "Skills",
             "Description": "Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.",
