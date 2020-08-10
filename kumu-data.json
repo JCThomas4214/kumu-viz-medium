@@ -9285,18 +9285,8 @@
         {
             "Label": "S0082",
             "Type": "Skills",
-            "Description": "Implement if and if/else constructs.",
+            "Description": "Implement conditional control flow constructs.",
             "Topic": "Programming Fundamentals",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "S0083",
-            "Type": "Skills",
-            "Description": "Implement a switch statement.",
-            "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -13728,7 +13718,7 @@
         },
         {
             "From": "K0755",
-            "To": "S0083"
+            "To": "S0082"
         },
         {
             "From": "K0756",
@@ -15125,10 +15115,6 @@
         {
             "From": "S0082",
             "To": "T0010"
-        },
-        {
-            "From": "S0083",
-            "To": "T0009"
         },
         {
             "From": "S0084",
