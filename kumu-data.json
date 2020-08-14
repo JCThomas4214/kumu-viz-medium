@@ -44,7 +44,7 @@
             "Label": "A0061",
             "Type": "Abilities",
             "Description": "Create and implement functions to meet a requirement.",
-            "Topic": "Python",
+            "Topic": "Programming Fundamentals",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -513,14 +513,6 @@
             "Source": []
         },
         {
-            "Label": "A0560",
-            "Type": "Abilities",
-            "Description": "Demonstrate the ability to create a function that does arithmetic conversions.",
-            "Topic": "Python",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "A0561",
             "Type": "Abilities",
             "Description": "Demonstrate the ability to create, reuse and import modules",
@@ -911,14 +903,6 @@
             "Source": [
                 "https://gitlab.com/90cos/public/mttl/-/merge_requests/17"
             ]
-        },
-        {
-            "Label": "A0698",
-            "Type": "Abilities",
-            "Description": "Demonstrate the ability to create and implement functions to meet a requirement.",
-            "Topic": "C",
-            "OPR": "",
-            "Source": []
         },
         {
             "Label": "A0725",
@@ -11509,6 +11493,10 @@
             "To": "T0010"
         },
         {
+            "From": "A0061",
+            "To": "T0009"
+        },
+        {
             "From": "A0077",
             "To": "T0009"
         },
@@ -11777,10 +11765,6 @@
             "To": "T0014"
         },
         {
-            "From": "A0698",
-            "To": "T0009"
-        },
-        {
             "From": "A0726",
             "To": "A0725"
         },
@@ -11849,20 +11833,12 @@
             "To": "A0061"
         },
         {
-            "From": "K0007",
-            "To": "A0698"
-        },
-        {
             "From": "K0008",
             "To": "S0023"
         },
         {
             "From": "K0009",
             "To": "A0061"
-        },
-        {
-            "From": "K0009",
-            "To": "A0698"
         },
         {
             "From": "K0010",
@@ -11873,16 +11849,8 @@
             "To": "A0061"
         },
         {
-            "From": "K0010",
-            "To": "A0698"
-        },
-        {
             "From": "K0011",
             "To": "A0061"
-        },
-        {
-            "From": "K0011",
-            "To": "A0698"
         },
         {
             "From": "K0012",
@@ -12338,7 +12306,7 @@
         },
         {
             "From": "K0093",
-            "To": "A0698"
+            "To": "A0061"
         },
         {
             "From": "K0096",
@@ -14953,40 +14921,24 @@
             "To": "A0061"
         },
         {
-            "From": "S0048",
-            "To": "A0698"
-        },
-        {
             "From": "S0049",
             "To": "A0061"
         },
         {
-            "From": "S0049",
-            "To": "A0698"
-        },
-        {
             "From": "S0050",
             "To": "A0061"
-        },
-        {
-            "From": "S0050",
-            "To": "A0698"
         },
         {
             "From": "S0051",
-            "To": "A0698"
+            "To": "A0061"
         },
         {
             "From": "S0052",
             "To": "A0061"
         },
         {
-            "From": "S0052",
-            "To": "A0698"
-        },
-        {
             "From": "S0053",
-            "To": "A0698"
+            "To": "A0061"
         },
         {
             "From": "S0054",
