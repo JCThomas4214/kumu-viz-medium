@@ -8713,7 +8713,7 @@
         {
             "Label": "S0051",
             "Type": "Skills",
-            "Description": "Implement a function that implements pass by reference input parameters.",
+            "Description": "Implement a function with pass by reference using the & reference operator.",
             "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
