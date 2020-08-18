@@ -225,16 +225,6 @@
             "Source": []
         },
         {
-            "Label": "A0411",
-            "Type": "Abilities",
-            "Description": "Build a Windows tool in C that receives data and writes to disk",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "A0412",
             "Type": "Abilities",
             "Description": "Build a Linux tool in C that receives data and writes to disk",
@@ -259,16 +249,6 @@
             "Source": []
         },
         {
-            "Label": "A0415",
-            "Type": "Abilities",
-            "Description": "Build a Windows tool in C that will list running processes.",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "A0416",
             "Type": "Abilities",
             "Description": "Build a Linux tool in C that will list running processes.",
@@ -281,14 +261,6 @@
             "Type": "Abilities",
             "Description": "Write a DLL that pops a message box with text (or other effect).",
             "Topic": "Tool Development",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0418",
-            "Type": "Abilities",
-            "Description": "Build a client on Windows and server on Linux to transfer files back and forth.",
-            "Topic": "Windows",
             "OPR": "",
             "Source": []
         },
@@ -889,54 +861,12 @@
             ]
         },
         {
-            "Label": "A0725",
-            "Type": "Abilities",
-            "Description": "Demonstrate ability to write object-oriented programs",
-            "Topic": "Python",
-            "OPR": "",
-            "Source": [
-                "90COS"
-            ]
-        },
-        {
-            "Label": "A0726",
-            "Type": "Abilities",
-            "Description": "Create a class",
-            "Topic": "Python",
-            "OPR": "",
-            "Source": [
-                "90COS"
-            ]
-        },
-        {
-            "Label": "A0727",
-            "Type": "Abilities",
-            "Description": "Instantiate objects",
-            "Topic": "Python",
-            "OPR": "",
-            "Source": [
-                "90COS"
-            ]
-        },
-        {
-            "Label": "A0728",
-            "Type": "Abilities",
-            "Description": "Implement inheritence",
-            "Topic": "Python",
-            "OPR": "",
-            "Source": [
-                "90COS"
-            ]
-        },
-        {
             "Label": "A0729",
             "Type": "Abilities",
             "Description": "Create a class constructor or destructor",
             "Topic": "Python",
             "OPR": "",
-            "Source": [
-                "90COS"
-            ]
+            "Source": []
         },
         {
             "Label": "A0730",
@@ -3149,69 +3079,9 @@
             ]
         },
         {
-            "Label": "K0266",
-            "Type": "Knowledge",
-            "Description": "Device Driver Kit (DDK)",
-            "Topic": "Drivers",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0267",
-            "Type": "Knowledge",
-            "Description": "Windows Driver Kit (WDK)",
-            "Topic": "Drivers",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "K0268",
             "Type": "Knowledge",
             "Description": "Describe calling conventions used in Windows API (32it & 64bit)",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0269",
-            "Type": "Knowledge",
-            "Description": "Stdcall",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0270",
-            "Type": "Knowledge",
-            "Description": "cdecl",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0271",
-            "Type": "Knowledge",
-            "Description": "fastcall",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0272",
-            "Type": "Knowledge",
-            "Description": "thiscall",
             "Topic": "Windows",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -3229,46 +3099,6 @@
             ]
         },
         {
-            "Label": "K0274",
-            "Type": "Knowledge",
-            "Description": "Describe the Nt API",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0275",
-            "Type": "Knowledge",
-            "Description": "Describe the Zw API",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0276",
-            "Type": "Knowledge",
-            "Description": "Describe the Rtl API",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0277",
-            "Type": "Knowledge",
-            "Description": "Describe the Ldr API",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "K0278",
             "Type": "Knowledge",
             "Description": "Understand naming conventions and macro theory associated with Windows API",
@@ -3279,79 +3109,9 @@
             ]
         },
         {
-            "Label": "K0279",
-            "Type": "Knowledge",
-            "Description": "Describe Windows data types",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0280",
-            "Type": "Knowledge",
-            "Description": "Describe the Windows naming conventions",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0281",
-            "Type": "Knowledge",
-            "Description": "Describe the Windows API macro theory",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0282",
-            "Type": "Knowledge",
-            "Description": "Describe how using Unicode affects Windows API function calls and data types",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0283",
-            "Type": "Knowledge",
-            "Description": "Describe the date/time convention",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "K0284",
             "Type": "Knowledge",
             "Description": "Understand the Windows Registry",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0285",
-            "Type": "Knowledge",
-            "Description": "Describe registry key",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0286",
-            "Type": "Knowledge",
-            "Description": "Describe registry hive",
             "Topic": "Windows",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -11349,6 +11109,14 @@
             "Topic": "Jira",
             "OPR": "",
             "Source": []
+        },
+        {
+            "Label": "S0379",
+            "Type": "Skills",
+            "Description": "Demonstrate ability to write object-oriented programs",
+            "Topic": "Python",
+            "OPR": "",
+            "Source": []
         }
     ],
     "connections": [
@@ -11497,10 +11265,6 @@
             "To": "A0408"
         },
         {
-            "From": "A0411",
-            "To": "A0408"
-        },
-        {
             "From": "A0412",
             "To": "A0408"
         },
@@ -11513,19 +11277,11 @@
             "To": "A0408"
         },
         {
-            "From": "A0415",
-            "To": "A0408"
-        },
-        {
             "From": "A0416",
             "To": "A0408"
         },
         {
             "From": "A0417",
-            "To": "A0408"
-        },
-        {
-            "From": "A0418",
             "To": "A0408"
         },
         {
@@ -11651,22 +11407,6 @@
         {
             "From": "A0695",
             "To": "T0014"
-        },
-        {
-            "From": "A0726",
-            "To": "A0725"
-        },
-        {
-            "From": "A0727",
-            "To": "A0725"
-        },
-        {
-            "From": "A0728",
-            "To": "A0725"
-        },
-        {
-            "From": "A0729",
-            "To": "A0725"
         },
         {
             "From": "A0735",
@@ -11813,26 +11553,6 @@
             "To": "S0026"
         },
         {
-            "From": "K0026",
-            "To": "A0725"
-        },
-        {
-            "From": "K0027",
-            "To": "A0725"
-        },
-        {
-            "From": "K0028",
-            "To": "A0725"
-        },
-        {
-            "From": "K0029",
-            "To": "A0725"
-        },
-        {
-            "From": "K0030",
-            "To": "A0725"
-        },
-        {
             "From": "K0031",
             "To": "K0030"
         },
@@ -11849,20 +11569,12 @@
             "To": "K0030"
         },
         {
-            "From": "K0034",
-            "To": "A0726"
-        },
-        {
             "From": "K0035",
             "To": "K0030"
         },
         {
             "From": "K0036",
             "To": "K0030"
-        },
-        {
-            "From": "K0036",
-            "To": "A0728"
         },
         {
             "From": "K0037",
@@ -11885,10 +11597,6 @@
             "To": "K0030"
         },
         {
-            "From": "K0039",
-            "To": "A0726"
-        },
-        {
             "From": "K0040",
             "To": "K0030"
         },
@@ -11897,32 +11605,16 @@
             "To": "K0030"
         },
         {
-            "From": "K0041",
-            "To": "A0726"
-        },
-        {
             "From": "K0042",
             "To": "K0030"
-        },
-        {
-            "From": "K0042",
-            "To": "A0726"
         },
         {
             "From": "K0043",
             "To": "K0030"
         },
         {
-            "From": "K0043",
-            "To": "A0726"
-        },
-        {
             "From": "K0044",
             "To": "K0030"
-        },
-        {
-            "From": "K0044",
-            "To": "A0726"
         },
         {
             "From": "K0045",
@@ -12642,35 +12334,7 @@
         },
         {
             "From": "K0265",
-            "To": "A0554"
-        },
-        {
-            "From": "K0266",
-            "To": "K0265"
-        },
-        {
-            "From": "K0266",
             "To": "S0153"
-        },
-        {
-            "From": "K0267",
-            "To": "K0265"
-        },
-        {
-            "From": "K0267",
-            "To": "S0153"
-        },
-        {
-            "From": "K0268",
-            "To": "A0411"
-        },
-        {
-            "From": "K0268",
-            "To": "A0415"
-        },
-        {
-            "From": "K0268",
-            "To": "A0418"
         },
         {
             "From": "K0268",
@@ -12681,100 +12345,12 @@
             "To": "A0433"
         },
         {
-            "From": "K0269",
-            "To": "K0268"
-        },
-        {
-            "From": "K0269",
-            "To": "S0153"
-        },
-        {
-            "From": "K0270",
-            "To": "K0268"
-        },
-        {
-            "From": "K0270",
-            "To": "S0153"
-        },
-        {
-            "From": "K0271",
-            "To": "K0268"
-        },
-        {
-            "From": "K0271",
-            "To": "S0153"
-        },
-        {
-            "From": "K0272",
-            "To": "K0268"
-        },
-        {
-            "From": "K0272",
-            "To": "S0153"
-        },
-        {
-            "From": "K0273",
-            "To": "A0411"
-        },
-        {
-            "From": "K0273",
-            "To": "A0415"
-        },
-        {
-            "From": "K0273",
-            "To": "A0418"
-        },
-        {
             "From": "K0273",
             "To": "A0430"
         },
         {
             "From": "K0273",
             "To": "A0433"
-        },
-        {
-            "From": "K0274",
-            "To": "K0273"
-        },
-        {
-            "From": "K0274",
-            "To": "S0153"
-        },
-        {
-            "From": "K0275",
-            "To": "K0273"
-        },
-        {
-            "From": "K0275",
-            "To": "S0153"
-        },
-        {
-            "From": "K0276",
-            "To": "K0273"
-        },
-        {
-            "From": "K0276",
-            "To": "S0153"
-        },
-        {
-            "From": "K0277",
-            "To": "K0273"
-        },
-        {
-            "From": "K0277",
-            "To": "S0153"
-        },
-        {
-            "From": "K0278",
-            "To": "A0411"
-        },
-        {
-            "From": "K0278",
-            "To": "A0415"
-        },
-        {
-            "From": "K0278",
-            "To": "A0418"
         },
         {
             "From": "K0278",
@@ -12785,59 +12361,7 @@
             "To": "A0433"
         },
         {
-            "From": "K0279",
-            "To": "K0278"
-        },
-        {
-            "From": "K0279",
-            "To": "S0153"
-        },
-        {
-            "From": "K0280",
-            "To": "K0278"
-        },
-        {
-            "From": "K0280",
-            "To": "S0153"
-        },
-        {
-            "From": "K0281",
-            "To": "K0278"
-        },
-        {
-            "From": "K0281",
-            "To": "S0153"
-        },
-        {
-            "From": "K0282",
-            "To": "K0278"
-        },
-        {
-            "From": "K0282",
-            "To": "S0153"
-        },
-        {
-            "From": "K0283",
-            "To": "K0278"
-        },
-        {
-            "From": "K0283",
-            "To": "S0153"
-        },
-        {
-            "From": "K0285",
-            "To": "K0284"
-        },
-        {
-            "From": "K0285",
-            "To": "S0153"
-        },
-        {
-            "From": "K0286",
-            "To": "K0284"
-        },
-        {
-            "From": "K0286",
+            "From": "K0284",
             "To": "S0153"
         },
         {
