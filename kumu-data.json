@@ -7997,6 +7997,14 @@
             "Source": []
         },
         {
+            "Label": "T0039",
+            "Type": "Tasks",
+            "Description": "Program in C++",
+            "Topic": "",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "S0001",
             "Type": "Skills",
             "Description": "Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.",
@@ -11349,6 +11357,30 @@
             "To": "T0010"
         },
         {
+            "From": "A0579",
+            "To": "T0039"
+        },
+        {
+            "From": "A0580",
+            "To": "T0039"
+        },
+        {
+            "From": "A0581",
+            "To": "T0039"
+        },
+        {
+            "From": "A0582",
+            "To": "T0039"
+        },
+        {
+            "From": "A0583",
+            "To": "T0039"
+        },
+        {
+            "From": "A0584",
+            "To": "T0039"
+        },
+        {
             "From": "A0608",
             "To": "T0011"
         },
@@ -12667,6 +12699,34 @@
         {
             "From": "K0505",
             "To": "S0017"
+        },
+        {
+            "From": "K0515",
+            "To": "T0039"
+        },
+        {
+            "From": "K0516",
+            "To": "T0039"
+        },
+        {
+            "From": "K0517",
+            "To": "T0039"
+        },
+        {
+            "From": "K0518",
+            "To": "T0039"
+        },
+        {
+            "From": "K0519",
+            "To": "T0039"
+        },
+        {
+            "From": "K0520",
+            "To": "T0039"
+        },
+        {
+            "From": "K0521",
+            "To": "T0039"
         },
         {
             "From": "K0528",
