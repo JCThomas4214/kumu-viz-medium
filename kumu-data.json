@@ -207,14 +207,6 @@
             ]
         },
         {
-            "Label": "A0381",
-            "Type": "Abilities",
-            "Description": "Utilize Regedit to view a registry key",
-            "Topic": "Windows",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "A0408",
             "Type": "Abilities",
             "Description": "Given a 2-3 person team and customer requirements/assigned scenario, develop a tool.",
@@ -223,14 +215,6 @@
             "Source": [
                 "ACC CCD CDD TTL"
             ]
-        },
-        {
-            "Label": "A0409",
-            "Type": "Abilities",
-            "Description": "Build a tool that writes a registry entry to start a process at boot",
-            "Topic": "Tool Development",
-            "OPR": "",
-            "Source": []
         },
         {
             "Label": "A0410",
@@ -11505,16 +11489,8 @@
             "To": "A0419"
         },
         {
-            "From": "A0381",
-            "To": "A0409"
-        },
-        {
             "From": "A0408",
             "To": "T0005"
-        },
-        {
-            "From": "A0409",
-            "To": "A0408"
         },
         {
             "From": "A0410",
@@ -12847,10 +12823,6 @@
         {
             "From": "K0283",
             "To": "S0153"
-        },
-        {
-            "From": "K0284",
-            "To": "A0381"
         },
         {
             "From": "K0285",
