@@ -751,14 +751,6 @@
             ]
         },
         {
-            "Label": "A0630",
-            "Type": "Abilities",
-            "Description": "Subnets",
-            "Topic": "Networking Concepts",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "A0631",
             "Type": "Abilities",
             "Description": "IPv4 Addressing",
@@ -11507,10 +11499,6 @@
         {
             "From": "A0628",
             "To": "T0009"
-        },
-        {
-            "From": "A0630",
-            "To": "K0071"
         },
         {
             "From": "A0631",
