@@ -8069,6 +8069,14 @@
             "Source": []
         },
         {
+            "Label": "T0040",
+            "Type": "Tasks",
+            "Description": "Create PowerShell tools",
+            "Topic": "",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "S0001",
             "Type": "Skills",
             "Description": "Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.",
@@ -12783,6 +12791,110 @@
         {
             "From": "K0528",
             "To": "S0136"
+        },
+        {
+            "From": "K0532",
+            "To": "T0040"
+        },
+        {
+            "From": "K0533",
+            "To": "T0040"
+        },
+        {
+            "From": "K0534",
+            "To": "T0040"
+        },
+        {
+            "From": "K0535",
+            "To": "T0040"
+        },
+        {
+            "From": "K0536",
+            "To": "T0040"
+        },
+        {
+            "From": "K0537",
+            "To": "T0040"
+        },
+        {
+            "From": "K0538",
+            "To": "T0040"
+        },
+        {
+            "From": "K0539",
+            "To": "T0040"
+        },
+        {
+            "From": "K0540",
+            "To": "T0040"
+        },
+        {
+            "From": "K0541",
+            "To": "T0040"
+        },
+        {
+            "From": "K0542",
+            "To": "T0040"
+        },
+        {
+            "From": "K0543",
+            "To": "T0040"
+        },
+        {
+            "From": "K0544",
+            "To": "T0040"
+        },
+        {
+            "From": "K0545",
+            "To": "T0040"
+        },
+        {
+            "From": "K0546",
+            "To": "T0040"
+        },
+        {
+            "From": "K0547",
+            "To": "T0040"
+        },
+        {
+            "From": "K0548",
+            "To": "T0040"
+        },
+        {
+            "From": "K0549",
+            "To": "T0040"
+        },
+        {
+            "From": "K0550",
+            "To": "T0040"
+        },
+        {
+            "From": "K0551",
+            "To": "T0040"
+        },
+        {
+            "From": "K0552",
+            "To": "T0040"
+        },
+        {
+            "From": "K0553",
+            "To": "T0040"
+        },
+        {
+            "From": "K0554",
+            "To": "T0040"
+        },
+        {
+            "From": "K0555",
+            "To": "T0040"
+        },
+        {
+            "From": "K0556",
+            "To": "T0040"
+        },
+        {
+            "From": "K0557",
+            "To": "T0040"
         },
         {
             "From": "K0600",
