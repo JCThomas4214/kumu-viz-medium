@@ -5219,30 +5219,6 @@
             "Source": []
         },
         {
-            "Label": "K0595",
-            "Type": "Knowledge",
-            "Description": "IDA Extensions",
-            "Topic": "Reverse Engineering",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0596",
-            "Type": "Knowledge",
-            "Description": "IDA Scripting via Python",
-            "Topic": "Reverse Engineering",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0597",
-            "Type": "Knowledge",
-            "Description": "Advanced IDA Features",
-            "Topic": "Reverse Engineering",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0598",
             "Type": "Knowledge",
             "Description": "Hacking operating systems and software",
