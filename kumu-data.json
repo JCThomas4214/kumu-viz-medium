@@ -987,6 +987,22 @@
         {
             "Label": "A0743",
             "Type": "Abilities",
+            "Description": "Configure a virtual machine (EC2) with a block storage volume in a VPC",
+            "Topic": "Cloud Services",
+            "OPR": "90COS/CYN",
+            "Source": []
+        },
+        {
+            "Label": "A0744",
+            "Type": "Abilities",
+            "Description": "Configure object storage (S3) with correct permissions",
+            "Topic": "Cloud Services",
+            "OPR": "90COS/CYN",
+            "Source": []
+        },
+        {
+            "Label": "A0745",
+            "Type": "Abilities",
             "Description": "Analyze and interpret data from Agile reports: Burndown Chart, Control Chart, Cumulative Flow Diagram, Epic Burndown, Epic Report, Sprint Report, Release Burndown, Velocity Chart, Version Report.",
             "Topic": "Jira",
             "OPR": "",
@@ -7617,6 +7633,86 @@
             "Source": []
         },
         {
+            "Label": "K0895",
+            "Type": "Knowledge",
+            "Description": "Explain the steps that should be taken to mitigate potential downtime when introducing new services",
+            "Topic": "Day 2 Operations Concept",
+            "OPR": "90COS/CYN",
+            "Source": []
+        },
+        {
+            "Label": "K0896",
+            "Type": "Knowledge",
+            "Description": "Identify the high-level purpose of the main AWS services",
+            "Topic": "Cloud Services",
+            "OPR": "90COS/CYN",
+            "Source": []
+        },
+        {
+            "Label": "K0897",
+            "Type": "Knowledge",
+            "Description": "Identify the properties of virtualized compute resources (EC2, AMI, ECR, ECS, Elastic Beanstalk)",
+            "Topic": "Cloud Services",
+            "OPR": "90COS/CYN",
+            "Source": []
+        },
+        {
+            "Label": "K0898",
+            "Type": "Knowledge",
+            "Description": "Identify the properties of block level storage (EBS)",
+            "Topic": "Cloud Services",
+            "OPR": "90COS/CYN",
+            "Source": []
+        },
+        {
+            "Label": "K0899",
+            "Type": "Knowledge",
+            "Description": "Identify the properties of object level storage (S3)",
+            "Topic": "Cloud Services",
+            "OPR": "90COS/CYN",
+            "Source": []
+        },
+        {
+            "Label": "K0900",
+            "Type": "Knowledge",
+            "Description": "Understand the relationship between VPCs, subnets, and security groups",
+            "Topic": "Cloud Services",
+            "OPR": "90COS/CYN",
+            "Source": []
+        },
+        {
+            "Label": "K0901",
+            "Type": "Knowledge",
+            "Description": "Explain the purpose of security risk guides (such as OWASP, etc.) and how to apply their recommendations to cloud applications",
+            "Topic": "Securing Cloud Services",
+            "OPR": "90COS/CYN",
+            "Source": []
+        },
+        {
+            "Label": "K0902",
+            "Type": "Knowledge",
+            "Description": "Explain the implications of the vulnerabilities described in the OWASP top 10",
+            "Topic": "Securing Cloud Services",
+            "OPR": "90COS/CYN",
+            "Source": []
+        },
+        {
+            "Label": "K0903",
+            "Type": "Knowledge",
+            "Description": "Explain the implications of the factors in the 12 factor application methodology",
+            "Topic": "Software Architecture",
+            "OPR": "90COS/CYN",
+            "Source": []
+        },
+        {
+            "Label": "K0904",
+            "Type": "Knowledge",
+            "Description": "Explain the purpose of different software architecture methodologies (12 factor, etc.) and how to apply them to cloud applications",
+            "Topic": "Software Architecture",
+            "OPR": "90COS/CYN",
+            "Source": []
+        },
+        {
             "Label": "T0001",
             "Type": "Tasks",
             "Description": "(U) Modify cyber capabilites to detect and disrupt nation-state cyber threat actors across the threat chain (kill chain) of adversary execution",
@@ -11461,11 +11557,11 @@
             "To": "T0014"
         },
         {
-            "From": "A0743",
+            "From": "A0745",
             "To": "T0033"
         },
         {
-            "From": "A0743",
+            "From": "A0745",
             "To": "T0035"
         },
         {
