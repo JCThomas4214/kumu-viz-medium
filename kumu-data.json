@@ -8801,14 +8801,6 @@
             ]
         },
         {
-            "Label": "S0086",
-            "Type": "Skills",
-            "Description": "Implement error handling.",
-            "Topic": "Networking Concepts",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0087",
             "Type": "Skills",
             "Description": "Uilize a JSON Module.",
@@ -14439,10 +14431,6 @@
         {
             "From": "S0085",
             "To": "T0009"
-        },
-        {
-            "From": "S0086",
-            "To": "T0011"
         },
         {
             "From": "S0087",
