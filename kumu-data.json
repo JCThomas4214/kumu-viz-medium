@@ -5477,15 +5477,7 @@
         {
             "Label": "K0629",
             "Type": "Knowledge",
-            "Description": "Writing Executive Summaries",
-            "Topic": "Technical Writing",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0630",
-            "Type": "Knowledge",
-            "Description": "Edit Executive Summaries",
+            "Description": "Write/Modify Executive Summaries",
             "Topic": "Technical Writing",
             "OPR": "",
             "Source": []
@@ -5493,15 +5485,7 @@
         {
             "Label": "K0631",
             "Type": "Knowledge",
-            "Description": "Writing User Guides",
-            "Topic": "Technical Writing",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0632",
-            "Type": "Knowledge",
-            "Description": "Edit User Guides",
+            "Description": "Write/Modify User Guides",
             "Topic": "Technical Writing",
             "OPR": "",
             "Source": []
@@ -5509,7 +5493,7 @@
         {
             "Label": "K0633",
             "Type": "Knowledge",
-            "Description": "Writing Analysis Reports",
+            "Description": "Write/Modify Analysis Reports",
             "Topic": "Technical Writing",
             "OPR": "",
             "Source": []
@@ -5525,15 +5509,7 @@
         {
             "Label": "K0635",
             "Type": "Knowledge",
-            "Description": "Writing Capability Requirements Specifications",
-            "Topic": "Technical Writing",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0636",
-            "Type": "Knowledge",
-            "Description": "Edit Capability Requirements Specifications",
+            "Description": "Write/Modify Capability Requirements Specifications",
             "Topic": "Technical Writing",
             "OPR": "",
             "Source": []
@@ -5541,15 +5517,7 @@
         {
             "Label": "K0637",
             "Type": "Knowledge",
-            "Description": "Writing Statement of Requirements",
-            "Topic": "Technical Writing",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0638",
-            "Type": "Knowledge",
-            "Description": "Edit Statement of Requirements",
+            "Description": "Write/Modify Statement of Requirements",
             "Topic": "Technical Writing",
             "OPR": "",
             "Source": []
@@ -5557,7 +5525,7 @@
         {
             "Label": "K0639",
             "Type": "Knowledge",
-            "Description": "Writing Test Plan/Report",
+            "Description": "Write/Modify Test Plan/Report",
             "Topic": "Technical Writing",
             "OPR": "",
             "Source": []
@@ -12947,6 +12915,34 @@
         {
             "From": "K0625",
             "To": "A0077"
+        },
+        {
+            "From": "K0629",
+            "To": "T0032"
+        },
+        {
+            "From": "K0631",
+            "To": "T0032"
+        },
+        {
+            "From": "K0633",
+            "To": "T0032"
+        },
+        {
+            "From": "K0634",
+            "To": "T0032"
+        },
+        {
+            "From": "K0635",
+            "To": "T0032"
+        },
+        {
+            "From": "K0637",
+            "To": "T0032"
+        },
+        {
+            "From": "K0639",
+            "To": "T0032"
         },
         {
             "From": "K0648",
