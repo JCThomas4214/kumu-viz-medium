@@ -5015,54 +5015,6 @@
             "Source": []
         },
         {
-            "Label": "K0567",
-            "Type": "Knowledge",
-            "Description": "VMWare Sphere",
-            "Topic": "Virtualization Software",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0568",
-            "Type": "Knowledge",
-            "Description": "VMWare Workstation",
-            "Topic": "Virtualization Software",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0569",
-            "Type": "Knowledge",
-            "Description": "VMWare Using Command Line CLI",
-            "Topic": "Virtualization Software",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0570",
-            "Type": "Knowledge",
-            "Description": "WMWare vCenter Converter Stand Alone Client",
-            "Topic": "Virtualization Software",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0571",
-            "Type": "Knowledge",
-            "Description": "Core Concepts",
-            "Topic": "Virtualization Software",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0572",
-            "Type": "Knowledge",
-            "Description": "Tracking Issues",
-            "Topic": "Virtualization Software",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0574",
             "Type": "Knowledge",
             "Description": "Search Projects",
@@ -8020,6 +7972,14 @@
             "Label": "T0040",
             "Type": "Tasks",
             "Description": "Create PowerShell tools",
+            "Topic": "",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "T0042",
+            "Type": "Tasks",
+            "Description": "Utilize virtualization software to develop, emulate, and execute tools and systems",
             "Topic": "",
             "OPR": "",
             "Source": []
