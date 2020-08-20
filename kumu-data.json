@@ -2109,8 +2109,8 @@
         {
             "Label": "K0148",
             "Type": "Knowledge",
-            "Description": "Describe creating and controlling processes in an OS Virtualization environment.",
-            "Topic": "OS",
+            "Description": "Describe creating and controlling processes",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2119,8 +2119,8 @@
         {
             "Label": "K0149",
             "Type": "Knowledge",
-            "Description": "Describe CPU scheduling management in an OS Virtualization environment.",
-            "Topic": "OS",
+            "Description": "Describe CPU scheduling management",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2129,8 +2129,8 @@
         {
             "Label": "K0150",
             "Type": "Knowledge",
-            "Description": "Understand how paging tables are used in an OS Virtualization environment.",
-            "Topic": "OS",
+            "Description": "Understand how paging tables are used",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2139,8 +2139,8 @@
         {
             "Label": "K0151",
             "Type": "Knowledge",
-            "Description": "Describe caching in an OS Virtualization environment.",
-            "Topic": "OS",
+            "Description": "Describe caching",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2150,7 +2150,7 @@
             "Label": "K0152",
             "Type": "Knowledge",
             "Description": "Differentiate between kernel and user-mode memory",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2160,7 +2160,7 @@
             "Label": "K0154",
             "Type": "Knowledge",
             "Description": "Describe threading.",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2170,7 +2170,7 @@
             "Label": "K0155",
             "Type": "Knowledge",
             "Description": "Describe lock implementation",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2180,7 +2180,7 @@
             "Label": "K0156",
             "Type": "Knowledge",
             "Description": "Identify causes of race conditions",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2190,7 +2190,7 @@
             "Label": "K0157",
             "Type": "Knowledge",
             "Description": "Identify causes of deadlocks",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2200,7 +2200,7 @@
             "Label": "K0158",
             "Type": "Knowledge",
             "Description": "Differentiate between types of scheduling algorithms.",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2210,7 +2210,7 @@
             "Label": "K0160",
             "Type": "Knowledge",
             "Description": "Describe Von Nuemann Architecture",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2220,7 +2220,7 @@
             "Label": "K0161",
             "Type": "Knowledge",
             "Description": "Describe Harvard Architecture",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2230,7 +2230,7 @@
             "Label": "K0162",
             "Type": "Knowledge",
             "Description": "Understand file system structures",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2240,7 +2240,7 @@
             "Label": "K0163",
             "Type": "Knowledge",
             "Description": "Understand the boot process",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2250,7 +2250,7 @@
             "Label": "K0164",
             "Type": "Knowledge",
             "Description": "Understand Inter Process Communication (IPC) fundamentals",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2260,7 +2260,7 @@
             "Label": "K0165",
             "Type": "Knowledge",
             "Description": "Describe shared memory utilization ",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2270,7 +2270,7 @@
             "Label": "K0166",
             "Type": "Knowledge",
             "Description": "Describe output redirection using pipes",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2280,7 +2280,7 @@
             "Label": "K0168",
             "Type": "Knowledge",
             "Description": "Understand operating system memory hierarchy",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2290,7 +2290,7 @@
             "Label": "K0170",
             "Type": "Knowledge",
             "Description": "Describe virtual memory utilization ",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2300,7 +2300,7 @@
             "Label": "K0171",
             "Type": "Knowledge",
             "Description": "Understand operating system virtualization concepts",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -3382,7 +3382,7 @@
             "Label": "K0316",
             "Type": "Knowledge",
             "Description": "Knowledge of operating systems.",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "",
             "Source": [
                 "NCWF"
@@ -5800,7 +5800,7 @@
             "Label": "K0685",
             "Type": "Knowledge",
             "Description": "(U) Explain terms and concepts of operating system fundamentals (e.g. File systems, I/O, Memory Management, Process Abstraction, etc.)",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "USCYBERCOM/J7",
             "Source": [
                 "JCT&CS"
@@ -9552,7 +9552,7 @@
             "Label": "S0175",
             "Type": "Skills",
             "Description": "Implement a thread in an OS utility.",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -9562,7 +9562,7 @@
             "Label": "S0176",
             "Type": "Skills",
             "Description": "Implement an OS utility that requires a lock.",
-            "Topic": "OS",
+            "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -10174,7 +10174,7 @@
             "Label": "S0246",
             "Type": "Skills",
             "Description": "Create and utilize processes",
-            "Topic": "Windows Operating System",
+            "Topic": "Operating System",
             "OPR": "",
             "Source": []
         },
@@ -10182,7 +10182,7 @@
             "Label": "S0247",
             "Type": "Skills",
             "Description": "Create and utilize threads",
-            "Topic": "Windows Operating System",
+            "Topic": "Operating System",
             "OPR": "",
             "Source": []
         },
@@ -10190,7 +10190,7 @@
             "Label": "S0248",
             "Type": "Skills",
             "Description": "Synchronize threads",
-            "Topic": "Windows Operating System",
+            "Topic": "Operating System",
             "OPR": "",
             "Source": []
         },
@@ -12029,6 +12029,14 @@
             "To": "T0011"
         },
         {
+            "From": "K0148",
+            "To": "S0246"
+        },
+        {
+            "From": "K0154",
+            "To": "S0247"
+        },
+        {
             "From": "K0164",
             "To": "A0408"
         },
@@ -12042,7 +12050,7 @@
         },
         {
             "From": "K0166",
-            "To": "K0164"
+            "To": "S0296"
         },
         {
             "From": "K0173",
