@@ -209,7 +209,7 @@
         {
             "Label": "A0408",
             "Type": "Abilities",
-            "Description": "Given a 2-3 person team and customer requirements/assigned scenario, develop a tool.",
+            "Description": "Given a 4-6 person team and customer requirements/assigned scenario, develop a tool.",
             "Topic": "Tool Development",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -267,7 +267,7 @@
         {
             "Label": "A0419",
             "Type": "Abilities",
-            "Description": "Given a 2-3 person team and incomplete customer requirements/assigned scenario, develop a tool.",
+            "Description": "Given a 4-6 person team and incomplete customer requirements/assigned scenario, develop a tool.",
             "Topic": "Tool Development",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -343,16 +343,6 @@
             "Source": []
         },
         {
-            "Label": "A0428",
-            "Type": "Abilities",
-            "Description": "Given a 4-6 person team and incomplete customer requirements/assigned scenario, develop a tool.",
-            "Topic": "Linux",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "A0429",
             "Type": "Abilities",
             "Description": "Build a Linux tool in C to spoof ARP for host to assume MITM",
@@ -369,16 +359,6 @@
             "Topic": "Windows",
             "OPR": "",
             "Source": []
-        },
-        {
-            "Label": "A0432",
-            "Type": "Abilities",
-            "Description": "Given a 4-6 person team and customer requirements/assigned scenario, develop a tool.",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
         },
         {
             "Label": "A0433",
@@ -11361,30 +11341,6 @@
             "To": "A0419"
         },
         {
-            "From": "A0428",
-            "To": "T0005"
-        },
-        {
-            "From": "A0429",
-            "To": "A0428"
-        },
-        {
-            "From": "A0430",
-            "To": "A0428"
-        },
-        {
-            "From": "A0432",
-            "To": "T0005"
-        },
-        {
-            "From": "A0433",
-            "To": "A0432"
-        },
-        {
-            "From": "A0434",
-            "To": "A0432"
-        },
-        {
             "From": "A0563",
             "To": "T0010"
         },
@@ -12119,14 +12075,6 @@
         {
             "From": "K0164",
             "To": "A0419"
-        },
-        {
-            "From": "K0164",
-            "To": "A0428"
-        },
-        {
-            "From": "K0164",
-            "To": "A0432"
         },
         {
             "From": "K0165",
@@ -14923,14 +14871,6 @@
         {
             "From": "S0155",
             "To": "A0419"
-        },
-        {
-            "From": "S0155",
-            "To": "A0428"
-        },
-        {
-            "From": "S0155",
-            "To": "A0432"
         },
         {
             "From": "S0156",
