@@ -7977,6 +7977,14 @@
             "Source": []
         },
         {
+            "Label": "T0041",
+            "Type": "Tasks",
+            "Description": "Vulnerabilitiy Research to develop valuable tools",
+            "Topic": "",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "T0042",
             "Type": "Tasks",
             "Description": "Utilize virtualization software to develop, emulate, and execute tools and systems",
@@ -11365,6 +11373,38 @@
             "To": "T0022"
         },
         {
+            "From": "A0617",
+            "To": "T0041"
+        },
+        {
+            "From": "A0618",
+            "To": "T0041"
+        },
+        {
+            "From": "A0619",
+            "To": "T0041"
+        },
+        {
+            "From": "A0620",
+            "To": "T0041"
+        },
+        {
+            "From": "A0621",
+            "To": "T0041"
+        },
+        {
+            "From": "A0622",
+            "To": "T0041"
+        },
+        {
+            "From": "A0623",
+            "To": "T0041"
+        },
+        {
+            "From": "A0624",
+            "To": "T0041"
+        },
+        {
             "From": "A0628",
             "To": "T0009"
         },
@@ -12785,6 +12825,42 @@
             "To": "S0147"
         },
         {
+            "From": "K0601",
+            "To": "T0041"
+        },
+        {
+            "From": "K0602",
+            "To": "T0041"
+        },
+        {
+            "From": "K0603",
+            "To": "T0041"
+        },
+        {
+            "From": "K0604",
+            "To": "T0041"
+        },
+        {
+            "From": "K0605",
+            "To": "T0041"
+        },
+        {
+            "From": "K0606",
+            "To": "T0041"
+        },
+        {
+            "From": "K0607",
+            "To": "T0041"
+        },
+        {
+            "From": "K0608",
+            "To": "T0041"
+        },
+        {
+            "From": "K0609",
+            "To": "T0041"
+        },
+        {
             "From": "K0610",
             "To": "A0117"
         },
@@ -14181,6 +14257,10 @@
             "To": "T0004"
         },
         {
+            "From": "T0041",
+            "To": "T0022"
+        },
+        {
             "From": "S0002",
             "To": "T0009"
         },
@@ -14979,6 +15059,10 @@
         {
             "From": "S0200",
             "To": "A0459"
+        },
+        {
+            "From": "S0204",
+            "To": "T0041"
         },
         {
             "From": "S0206",
