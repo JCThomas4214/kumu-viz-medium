@@ -3697,7 +3697,7 @@
         {
             "Label": "K0368",
             "Type": "Knowledge",
-            "Description": "Describe two benefits of mastering the role.",
+            "Description": "Describe benifits of mastering the Product Owner role.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3713,7 +3713,7 @@
         {
             "Label": "K0370",
             "Type": "Knowledge",
-            "Description": "Describe at least three types of organizational contexts that affect the approach to the  Owner role.",
+            "Description": "Describe organizational contexts that affect the approach to the Product Owner role.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3721,7 +3721,7 @@
         {
             "Label": "K0371",
             "Type": "Knowledge",
-            "Description": "Describe at least three techniques to engage stakeholders to gather information or insights.",
+            "Description": "Describe techniques to engage stakeholders to gather information.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3729,7 +3729,7 @@
         {
             "Label": "K0372",
             "Type": "Knowledge",
-            "Description": "List at least three different decision-making approaches a Product Owner might use.",
+            "Description": "Understand decision-making approaches a Product Owner might use.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3737,7 +3737,7 @@
         {
             "Label": "K0373",
             "Type": "Knowledge",
-            "Description": "Describe at least two situations where the Product Owner might act as a neutral facilitator and when they might use a different engagement approach.",
+            "Description": "Describe situations where the Product Owner might act as a neutral facilitator and when they might use a different engagement approach.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3745,7 +3745,7 @@
         {
             "Label": "K0374",
             "Type": "Knowledge",
-            "Description": "Identify at least four major stakeholder groups.",
+            "Description": "Identify stakeholder groups.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3753,7 +3753,7 @@
         {
             "Label": "K0375",
             "Type": "Knowledge",
-            "Description": "Describe at least three techniques to collaborate with the key stakeholders.",
+            "Description": "Describe techniques to collaborate with the key stakeholders.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3761,7 +3761,7 @@
         {
             "Label": "K0376",
             "Type": "Knowledge",
-            "Description": "Using two concrete examples, recognize when the Product Owner should not act as the facilitator for the stakeholders.",
+            "Description": "Identify in a scenario when the Product Owner should not act as the facilitator for the stakeholders.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3769,7 +3769,7 @@
         {
             "Label": "K0377",
             "Type": "Knowledge",
-            "Description": "List at least three alternatives to open discussion.",
+            "Description": "Identify alternatives to open discussion.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3777,7 +3777,7 @@
         {
             "Label": "K0378",
             "Type": "Knowledge",
-            "Description": "Identify at least three indicators when a group is engaged in divergent thinking and at least three indicators where a group is engaged in convergent thinking.",
+            "Description": "Identify indicators when a group is engaged in divergent thinking and indicators where a group is engaged in convergent thinking.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3785,7 +3785,7 @@
         {
             "Label": "K0379",
             "Type": "Knowledge",
-            "Description": "Describe at least three challenges of integrating multiple perspectives.",
+            "Description": "Describe challenges of integrating multiple perspectives.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3793,7 +3793,7 @@
         {
             "Label": "K0380",
             "Type": "Knowledge",
-            "Description": "Describe at least three ways a group of stakeholders could reach their final decision.",
+            "Description": "Describe ways a group of stakeholders could reach their final decision.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3817,7 +3817,7 @@
         {
             "Label": "K0384",
             "Type": "Knowledge",
-            "Description": "List at least five development practices that will help Scrum Teams deliver a high-quality product Increment and reduce technical debt each Sprint.",
+            "Description": "Identify development practices that will help Scrum Teams deliver a high-quality product Increment and reduce technical debt each Sprint.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3825,7 +3825,7 @@
         {
             "Label": "K0385",
             "Type": "Knowledge",
-            "Description": "List at least three ways development practices may impact the Product Owner's ability to maximize business value each Sprint.",
+            "Description": "Identify ways development practices may impact the Product Owner's ability to maximize business value each Sprint.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3841,7 +3841,7 @@
         {
             "Label": "K0387",
             "Type": "Knowledge",
-            "Description": "List at least three challenges of being a Product Owner with multiple teams.",
+            "Description": "Identify challenges of being a Product Owner with multiple teams.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3849,7 +3849,7 @@
         {
             "Label": "K0388",
             "Type": "Knowledge",
-            "Description": "Describe at least two different scaling frameworks or approaches.",
+            "Description": "Understand different scaling frameworks or approaches.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3857,7 +3857,7 @@
         {
             "Label": "K0389",
             "Type": "Knowledge",
-            "Description": "Describe the benefits of managing dependencies when compared to reducing/removing dependencies.",
+            "Description": "Understand the benefits of managing dependencies when compared to reducing/removing dependencies.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3865,7 +3865,7 @@
         {
             "Label": "K0390",
             "Type": "Knowledge",
-            "Description": "Describe at least three techniques for visualizing, managing, or reducing dependencies or constraints.",
+            "Description": "Understand techniques for visualizing, managing, or reducing dependencies or constraints.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3873,7 +3873,7 @@
         {
             "Label": "K0392",
             "Type": "Knowledge",
-            "Description": "Describe vision and practice the creation of a product vision.",
+            "Description": "Understand product vision.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3881,7 +3881,7 @@
         {
             "Label": "K0393",
             "Type": "Knowledge",
-            "Description": "Describe strategy and relate it to mission and goals.",
+            "Description": "Understand strategy and relate it to mission and goals.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3897,7 +3897,7 @@
         {
             "Label": "K0395",
             "Type": "Knowledge",
-            "Description": "Describe at least three different strategies for the incremental delivery of a product.",
+            "Description": "Understand strategies for the incremental delivery of a product.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3905,7 +3905,7 @@
         {
             "Label": "K0396",
             "Type": "Knowledge",
-            "Description": "Explain at least three techniques to plan product delivery over time.",
+            "Description": "Understand techniques to plan product delivery over time.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3929,7 +3929,7 @@
         {
             "Label": "K0400",
             "Type": "Knowledge",
-            "Description": "Describe why a Product Owner performs discovery and validation work.",
+            "Description": "Understand why a Product Owner performs discovery and validation work.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3937,7 +3937,7 @@
         {
             "Label": "K0401",
             "Type": "Knowledge",
-            "Description": "Illustrate at least one approach for segmenting customers and users.",
+            "Description": "Understand approaches for segmenting customers and users.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3945,7 +3945,7 @@
         {
             "Label": "K0402",
             "Type": "Knowledge",
-            "Description": "Describe at least three aspects of product discovery and identify how each contributes to successful product outcomes.",
+            "Description": "Understand aspects of product discovery and identify how each contributes to successful product outcomes.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3953,7 +3953,7 @@
         {
             "Label": "K0403",
             "Type": "Knowledge",
-            "Description": "List at least three ways to connect the Development Team directly to customers and users.",
+            "Description": "Understand how to connect the Development Team directly to customers and users.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3961,7 +3961,7 @@
         {
             "Label": "K0404",
             "Type": "Knowledge",
-            "Description": "Describe at least three benefits of Development Team direct interactions.",
+            "Description": "Identify benefits of Development Team direct interactions.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3977,7 +3977,7 @@
         {
             "Label": "K0406",
             "Type": "Knowledge",
-            "Description": "Describe how Scrum supports validating product assumptions.",
+            "Description": "Understand how Scrum supports validating product assumptions.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3985,7 +3985,7 @@
         {
             "Label": "K0407",
             "Type": "Knowledge",
-            "Description": "List at least three approaches to validating assumptions by their cost and the quality of learning.",
+            "Description": "Understand approaches to validating assumptions by their cost and the quality of learning.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3993,7 +3993,7 @@
         {
             "Label": "K0408",
             "Type": "Knowledge",
-            "Description": "Describe at least one approach to choosing which assumption should be validated first.",
+            "Description": "Understand approaches to choosing which assumption should be validated first.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4001,7 +4001,7 @@
         {
             "Label": "K0409",
             "Type": "Knowledge",
-            "Description": "List two cognitive biases that may impact the Product Owner's capability to effectively deliver business value.",
+            "Description": "Identify biases that may impact the Product Owner's capability to effectively deliver business value.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4009,7 +4009,7 @@
         {
             "Label": "K0410",
             "Type": "Knowledge",
-            "Description": "Compare at least three approaches to validating assumptions by their cost and the quality of learning.",
+            "Description": "Understand approaches to validate assumptions by their cost and the quality of learning.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4025,7 +4025,7 @@
         {
             "Label": "K0412",
             "Type": "Knowledge",
-            "Description": "Describe the relationship between outcome and output.",
+            "Description": "Understand the relationship between outcome and output.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4033,7 +4033,7 @@
         {
             "Label": "K0413",
             "Type": "Knowledge",
-            "Description": "Describe at least three attributes of a Product Backlog item that help assess maximizing outcome.",
+            "Description": "Understand attributes of a Product Backlog item that help assess maximizing outcome.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4041,7 +4041,7 @@
         {
             "Label": "K0415",
             "Type": "Knowledge",
-            "Description": "Define value and list at least two techniques to measure value.",
+            "Description": "Understand value and techniques to measure value.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4049,7 +4049,7 @@
         {
             "Label": "K0416",
             "Type": "Knowledge",
-            "Description": "Describe value from the perspective of at least three different stakeholder groups.",
+            "Description": "Describe value from the perspective of stakeholder groups.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4065,7 +4065,7 @@
         {
             "Label": "K0419",
             "Type": "Knowledge",
-            "Description": "Describe at least three criteria for ordering the Product Backlog.",
+            "Description": "Understand criteria for ordering the Product Backlog.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4073,7 +4073,7 @@
         {
             "Label": "K0420",
             "Type": "Knowledge",
-            "Description": "Identify at least three sources of Product Backlog items.",
+            "Description": "Identify sources of Product Backlog items.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4081,7 +4081,7 @@
         {
             "Label": "K0421",
             "Type": "Knowledge",
-            "Description": "Describe at least three techniques for generating new Product Backlog items ",
+            "Description": "Understand techniques for generating new Product Backlog items ",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4089,7 +4089,7 @@
         {
             "Label": "K0422",
             "Type": "Knowledge",
-            "Description": "Explain the pros and cons of a \"just-in-time\" approach for Product Backlog refinement vs. an \"all-at-once\" approach.",
+            "Description": "Understand the pros and cons of a \"just-in-time\" approach for Product Backlog refinement vs. an \"all-at-once\" approach.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4111,25 +4111,9 @@
             "Source": []
         },
         {
-            "Label": "K0425",
-            "Type": "Knowledge",
-            "Description": "Differentiate between at least four techniques to order a Product Backlog.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0426",
-            "Type": "Knowledge",
-            "Description": "Illustrate how the Product Owner can ensure that enough Product Backlog items are \"ready\" for the upcoming Sprint.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0431",
             "Type": "Knowledge",
-            "Description": "List the three types of acceptance criteria and give an example of each.",
+            "Description": "Understand different types of acceptance criteria.",
             "Topic": "90 MQT",
             "OPR": "",
             "Source": []
@@ -4137,7 +4121,7 @@
         {
             "Label": "K0441",
             "Type": "Knowledge",
-            "Description": "Describe the advantages and disadvantages of using burn-down charts.",
+            "Description": "Understand the advantages and disadvantages of using burn-down charts.",
             "Topic": "90 MQT",
             "OPR": "",
             "Source": []
@@ -5583,14 +5567,6 @@
             "Source": []
         },
         {
-            "Label": "K0661",
-            "Type": "Knowledge",
-            "Description": "Identify the types/use of phone systems located within the 90th COS (e.g. DSN, Classified phone, and long distance)",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0663",
             "Type": "Knowledge",
             "Description": "Interpret velocity and how it used to create the sprint goal.",
@@ -5615,17 +5591,9 @@
             "Source": []
         },
         {
-            "Label": "K0666",
-            "Type": "Knowledge",
-            "Description": "Scrum Development",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0667",
             "Type": "Knowledge",
-            "Description": "Demonstrate and in depth understanding of Cyber Development within the 90th COS",
+            "Description": "Understand Cyber Development and Front-Door policy within the 90th COS",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -5633,7 +5601,7 @@
         {
             "Label": "K0668",
             "Type": "Knowledge",
-            "Description": "Describe the 12 principles of agile (refer to manifesto)",
+            "Description": "Understand the 12 principles of agile (refer to manifesto)",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -7480,22 +7448,6 @@
             "Label": "K0892",
             "Type": "Knowledge",
             "Description": "Identify agile roles and responsibilities",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0893",
-            "Type": "Knowledge",
-            "Description": "Define basic programming terminology.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0894",
-            "Type": "Knowledge",
-            "Description": "Describe common programming concepts",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -9701,14 +9653,6 @@
             "Source": []
         },
         {
-            "Label": "S0191",
-            "Type": "Skills",
-            "Description": "Demonstrate alternatives to open discussion.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0192",
             "Type": "Skills",
             "Description": "Identify purpose or define strategy.",
@@ -9728,14 +9672,6 @@
             "Label": "S0194",
             "Type": "Skills",
             "Description": "Prioritize between conflicting customer (or user) needs.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0195",
-            "Type": "Skills",
-            "Description": "Describe users and customers, their jobs, activities, pains, and gains.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -9776,14 +9712,6 @@
             "Label": "S0200",
             "Type": "Skills",
             "Description": "Create Product Backlog item that includes description of desired outcome and value.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0201",
-            "Type": "Skills",
-            "Description": "Utilize tools to communicate the purpose and intent of Product Backlog items to improve the Development Team's shared understanding.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -10805,7 +10733,7 @@
         {
             "Label": "S0339",
             "Type": "Skills",
-            "Description": "Integrate feedback from at least three sources to generate and order Product Backlog items.",
+            "Description": "Integrate feedback to generate and order Product Backlog items.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -10813,7 +10741,7 @@
         {
             "Label": "S0340",
             "Type": "Skills",
-            "Description": "Assess the Product Backlog and propose at least three ways to improve.",
+            "Description": "Assess the Product Backlog and propose ways to improve.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -10957,7 +10885,7 @@
         {
             "Label": "S0361",
             "Type": "Skills",
-            "Description": "Explain the differences between acceptance criteria, users stories, and the definition of done.",
+            "Description": "Explain the relationships between users stories, acceptance criteria, and the definition of done.",
             "Topic": "90 MQT",
             "OPR": "",
             "Source": []
@@ -10981,7 +10909,7 @@
         {
             "Label": "S0364",
             "Type": "Skills",
-            "Description": "Explain how to create an effective release plan.",
+            "Description": "Create a release plan.",
             "Topic": "90 MQT",
             "OPR": "",
             "Source": []
@@ -11022,14 +10950,6 @@
             "Label": "S0369",
             "Type": "Skills",
             "Description": "Create a product burn-down chart.",
-            "Topic": "90 MQT",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0370",
-            "Type": "Skills",
-            "Description": "Create Jira issues.",
             "Topic": "90 MQT",
             "OPR": "",
             "Source": []
@@ -11103,6 +11023,14 @@
             "Type": "Skills",
             "Description": "Demonstrate ability to write object-oriented programs",
             "Topic": "Python",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0380",
+            "Type": "Skills",
+            "Description": "Create a sufficient number of  \"ready\" Product Backlog items for the upcoming Sprint.",
+            "Topic": "Agile",
             "OPR": "",
             "Source": []
         }
@@ -11307,6 +11235,10 @@
         {
             "From": "A0427",
             "To": "A0419"
+        },
+        {
+            "From": "A0459",
+            "To": "T0035"
         },
         {
             "From": "A0563",
@@ -12341,10 +12273,6 @@
             "To": "S0200"
         },
         {
-            "From": "K0260",
-            "To": "S0201"
-        },
-        {
             "From": "K0264",
             "To": "A0355"
         },
@@ -12609,44 +12537,20 @@
             "To": "S0200"
         },
         {
-            "From": "K0420",
-            "To": "S0201"
-        },
-        {
             "From": "K0421",
             "To": "S0200"
-        },
-        {
-            "From": "K0421",
-            "To": "S0201"
         },
         {
             "From": "K0422",
             "To": "S0200"
         },
         {
-            "From": "K0422",
-            "To": "S0201"
-        },
-        {
             "From": "K0423",
             "To": "S0200"
-        },
-        {
-            "From": "K0423",
-            "To": "S0201"
         },
         {
             "From": "K0424",
             "To": "K0411"
-        },
-        {
-            "From": "K0425",
-            "To": "A0459"
-        },
-        {
-            "From": "K0426",
-            "To": "A0459"
         },
         {
             "From": "K0431",
@@ -12943,10 +12847,6 @@
         {
             "From": "K0648",
             "To": "S0017"
-        },
-        {
-            "From": "K0667",
-            "To": "K0666"
         },
         {
             "From": "K0677",
@@ -15242,18 +15142,6 @@
         },
         {
             "From": "S0369",
-            "To": "T0035"
-        },
-        {
-            "From": "S0370",
-            "To": "T0007"
-        },
-        {
-            "From": "S0370",
-            "To": "T0033"
-        },
-        {
-            "From": "S0370",
             "To": "T0035"
         },
         {
