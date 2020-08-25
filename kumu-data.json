@@ -6081,7 +6081,7 @@
         {
             "Label": "K0721",
             "Type": "Knowledge",
-            "Description": "Describe commands used to snapshot a Git projecty.",
+            "Description": "Describe commands used to snapshot a Git project.",
             "Topic": "Git",
             "OPR": "",
             "Source": []
@@ -6356,14 +6356,6 @@
             "Label": "K0755",
             "Type": "Knowledge",
             "Description": "Understand how to implement a switch statement.",
-            "Topic": "C",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0756",
-            "Type": "Knowledge",
-            "Description": "Understand the process of compiling and linking a program.",
             "Topic": "C",
             "OPR": "",
             "Source": []
@@ -13103,10 +13095,6 @@
         {
             "From": "K0755",
             "To": "S0082"
-        },
-        {
-            "From": "K0756",
-            "To": "S0084"
         },
         {
             "From": "K0757",
