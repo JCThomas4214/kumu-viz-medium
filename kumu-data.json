@@ -7525,418 +7525,6 @@
             "Source": []
         },
         {
-            "Label": "T0001",
-            "Type": "Tasks",
-            "Description": "(U) Modify cyber capabilites to detect and disrupt nation-state cyber threat actors across the threat chain (kill chain) of adversary execution",
-            "Topic": "Mission",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0002",
-            "Type": "Tasks",
-            "Description": "(U) Create or enhance cyberspace capabilities to compromise, deny, degrade, disrupt, destroy, or manipulate automated information systems.",
-            "Topic": "Mission",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0003",
-            "Type": "Tasks",
-            "Description": "(U) Create or enhance cyberspace solutions to enable surveillance and reconnaissance of automated information systems.",
-            "Topic": "Mission",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0004",
-            "Type": "Tasks",
-            "Description": "(U) Create or enhance cyberspace solutions to enable the defense of national interests.",
-            "Topic": "Mission",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0005",
-            "Type": "Tasks",
-            "Description": "(U) Interpret customer requirements and evaluate resource and system constraints to create solution design specifications.",
-            "Topic": "Agile",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0006",
-            "Type": "Tasks",
-            "Description": "(U) Reference capability repositories and other sources to identify existing capabilities which fully/partially meet customer requirements (with or without modification).",
-            "Topic": "Agile",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0007",
-            "Type": "Tasks",
-            "Description": "(U) Collaborate with stakeholders to identify and/or develop appropriate cyberspace solutions.",
-            "Topic": "Agile",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0008",
-            "Type": "Tasks",
-            "Description": "(U) Analyze, modify, develop, debug and document software and applications which run in kernel and user space.",
-            "Topic": "Kernel Development",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0009",
-            "Type": "Tasks",
-            "Description": "(U) Analyze, modify, develop, debug and document software and applications in C programming language.",
-            "Topic": "C",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0010",
-            "Type": "Tasks",
-            "Description": "(U) Analyze, modify, develop, debug and document software and applications in Python programming language.",
-            "Topic": "Python",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0011",
-            "Type": "Tasks",
-            "Description": "(U) Analyze, modify, develop, debug and document software and applications utilizing standard, non-standard, specialized, and/or unique network communication protocols.",
-            "Topic": "Network Analysis/Programming",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0012",
-            "Type": "Tasks",
-            "Description": "(U) Analyze, modify, develop, debug and document custom interface specifications between interconnected systems.",
-            "Topic": "Software Engineering",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0013",
-            "Type": "Tasks",
-            "Description": "(U) Manage source code using version control (e.g. Git)",
-            "Topic": "Version Control",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS",
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "T0014",
-            "Type": "Tasks",
-            "Description": "(U) Develop, modify, and utilize automation technologies to enable employment of capabilities as efficiently as possible (e.g. TDD, CI/CD, etc.)",
-            "Topic": "DevOps",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0015",
-            "Type": "Tasks",
-            "Description": "(U) Build, test, and modify prototypes using representative environments.",
-            "Topic": "Software Testing",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0016",
-            "Type": "Tasks",
-            "Description": "(U) Analyze and correct technical problems encountered during testing and implementation of cyberspace solutions.",
-            "Topic": "Software Testing",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0017",
-            "Type": "Tasks",
-            "Description": "(U) Analyze, modify, develop, debug and document software and applications using assembly languages.",
-            "Topic": "Assembly Programming",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS",
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "T0018",
-            "Type": "Tasks",
-            "Description": "(U) Utilize tools to decompile, disassembe, analzye, and reverse engineer compiled binaries.",
-            "Topic": "Reverse Engineering",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0019",
-            "Type": "Tasks",
-            "Description": "(U) Make use of compiler attributes and platform-specific features.",
-            "Topic": "Programming",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0020",
-            "Type": "Tasks",
-            "Description": "(U) Perform static and dynamic analysis in order to find errors and flaws.",
-            "Topic": "Debugging",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0021",
-            "Type": "Tasks",
-            "Description": "(U) Conduct hardware and/or software static and dynamic analysis to reverse engineer malicious or benign systems",
-            "Topic": "Reverse Engineering",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0022",
-            "Type": "Tasks",
-            "Description": "(U) Research, reference, discover, analyze, modify, develop and document known and new vulnerabilities in computer systems.",
-            "Topic": "Vulnerability Research",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0023",
-            "Type": "Tasks",
-            "Description": "(U) Design and develop data requirements, database structure, process flow, systematic procedures, algorithms, data analysis, and file structures.",
-            "Topic": "Software Engineering",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0024",
-            "Type": "Tasks",
-            "Description": "(U) Utilize data structures to organize, sort, and manipulate elements of information",
-            "Topic": "Data Structures",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0025",
-            "Type": "Tasks",
-            "Description": "(U) Design and develop user interfaces (e.g. web pages, GUIs, CLIs, Console Interfaces)",
-            "Topic": "Software Engineering",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0026",
-            "Type": "Tasks",
-            "Description": "(U) Utilize secure coding techniques during development of software and applications",
-            "Topic": "Software Engineering",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0027",
-            "Type": "Tasks",
-            "Description": "(U) Employ tradecraft to provide confidentiality, integrity, availability, authentication, and non-repudiation of developed accesses, payloads and tools.",
-            "Topic": "Implement Security Measures",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0028",
-            "Type": "Tasks",
-            "Description": "(U) Apply cryptography primitives to protect the confidentiality and integrity of sensitive data.",
-            "Topic": "Implement Security Measures",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0029",
-            "Type": "Tasks",
-            "Description": "(U) Perform code review and analysis to inform OPSEC analysis and application (attribution, sanitization, etc.)",
-            "Topic": "Secure Coding",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0030",
-            "Type": "Tasks",
-            "Description": "(U) Produce artifacts to inform risk analysis, acceptance testing, and legal review.",
-            "Topic": "Secure Coding",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0031",
-            "Type": "Tasks",
-            "Description": "(U) Locate and utilize technical specifications and industry standards (e.g. Internet Engineering Task Force (IETF), IEEE, IEC, International Standards Organization (ISO)).",
-            "Topic": "Standards",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0032",
-            "Type": "Tasks",
-            "Description": "(U) Deliver technical documentation (e.g. user guides, design documentation, test plans, change logs, training materials, etc.) to end users.",
-            "Topic": "Technical Writing",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0033",
-            "Type": "Tasks",
-            "Description": "(U) Implement project management, software engineering philosophies, modern capability development methodologies (Agile, TDD, CI/CD, etc)",
-            "Topic": "Project Management",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0034",
-            "Type": "Tasks",
-            "Description": "(U) Apply software engineering best practices to enable sustainability and extesibility.",
-            "Topic": "Software Engineering",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0035",
-            "Type": "Tasks",
-            "Description": "(U) Enter work into Task and project management tools used for software development (e.g. Jira, Confluence, Trac, MediaWiki, etc.)",
-            "Topic": "Project Management Tools",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0036",
-            "Type": "Tasks",
-            "Description": "(U) Enhance capability design strategies and tactics by synthesizing information, processes, and techniques in the areas of malicious software, vulnerabilities, reverse engineering, secure software engineering, and exploitation.",
-            "Topic": "Software Engineering",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0037",
-            "Type": "Tasks",
-            "Description": "(U) Document and communicate tradecraft, best practices, TTPs, training, briefings, presentations, papers, studies, lessons learned, etc. to both technical and non-technical audiences",
-            "Topic": "Lessons Learned",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "T0038",
-            "Type": "Tasks",
-            "Description": "Create a masterpiece",
-            "Topic": "",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "T0039",
-            "Type": "Tasks",
-            "Description": "Program in C++",
-            "Topic": "",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "T0040",
-            "Type": "Tasks",
-            "Description": "Create PowerShell tools",
-            "Topic": "",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "T0041",
-            "Type": "Tasks",
-            "Description": "Vulnerabilitiy Research to develop valuable tools",
-            "Topic": "",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "T0042",
-            "Type": "Tasks",
-            "Description": "Utilize virtualization software to develop, emulate, and execute tools and systems",
-            "Topic": "",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0001",
             "Type": "Skills",
             "Description": "Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.",
@@ -11025,6 +10613,418 @@
             "Topic": "Agile",
             "OPR": "",
             "Source": []
+        },
+        {
+            "Label": "T0001",
+            "Type": "Tasks",
+            "Description": "(U) Modify cyber capabilites to detect and disrupt nation-state cyber threat actors across the threat chain (kill chain) of adversary execution",
+            "Topic": "Mission",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0002",
+            "Type": "Tasks",
+            "Description": "(U) Create or enhance cyberspace capabilities to compromise, deny, degrade, disrupt, destroy, or manipulate automated information systems.",
+            "Topic": "Mission",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0003",
+            "Type": "Tasks",
+            "Description": "(U) Create or enhance cyberspace solutions to enable surveillance and reconnaissance of automated information systems.",
+            "Topic": "Mission",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0004",
+            "Type": "Tasks",
+            "Description": "(U) Create or enhance cyberspace solutions to enable the defense of national interests.",
+            "Topic": "Mission",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0005",
+            "Type": "Tasks",
+            "Description": "(U) Interpret customer requirements and evaluate resource and system constraints to create solution design specifications.",
+            "Topic": "Agile",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0006",
+            "Type": "Tasks",
+            "Description": "(U) Reference capability repositories and other sources to identify existing capabilities which fully/partially meet customer requirements (with or without modification).",
+            "Topic": "Agile",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0007",
+            "Type": "Tasks",
+            "Description": "(U) Collaborate with stakeholders to identify and/or develop appropriate cyberspace solutions.",
+            "Topic": "Agile",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0008",
+            "Type": "Tasks",
+            "Description": "(U) Analyze, modify, develop, debug and document software and applications which run in kernel and user space.",
+            "Topic": "Kernel Development",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0009",
+            "Type": "Tasks",
+            "Description": "(U) Analyze, modify, develop, debug and document software and applications in C programming language.",
+            "Topic": "C",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0010",
+            "Type": "Tasks",
+            "Description": "(U) Analyze, modify, develop, debug and document software and applications in Python programming language.",
+            "Topic": "Python",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0011",
+            "Type": "Tasks",
+            "Description": "(U) Analyze, modify, develop, debug and document software and applications utilizing standard, non-standard, specialized, and/or unique network communication protocols.",
+            "Topic": "Network Analysis/Programming",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0012",
+            "Type": "Tasks",
+            "Description": "(U) Analyze, modify, develop, debug and document custom interface specifications between interconnected systems.",
+            "Topic": "Software Engineering",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0013",
+            "Type": "Tasks",
+            "Description": "(U) Manage source code using version control (e.g. Git)",
+            "Topic": "Version Control",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS",
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "T0014",
+            "Type": "Tasks",
+            "Description": "(U) Develop, modify, and utilize automation technologies to enable employment of capabilities as efficiently as possible (e.g. TDD, CI/CD, etc.)",
+            "Topic": "DevOps",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0015",
+            "Type": "Tasks",
+            "Description": "(U) Build, test, and modify prototypes using representative environments.",
+            "Topic": "Software Testing",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0016",
+            "Type": "Tasks",
+            "Description": "(U) Analyze and correct technical problems encountered during testing and implementation of cyberspace solutions.",
+            "Topic": "Software Testing",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0017",
+            "Type": "Tasks",
+            "Description": "(U) Analyze, modify, develop, debug and document software and applications using assembly languages.",
+            "Topic": "Assembly Programming",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS",
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "T0018",
+            "Type": "Tasks",
+            "Description": "(U) Utilize tools to decompile, disassembe, analzye, and reverse engineer compiled binaries.",
+            "Topic": "Reverse Engineering",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0019",
+            "Type": "Tasks",
+            "Description": "(U) Make use of compiler attributes and platform-specific features.",
+            "Topic": "Programming",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0020",
+            "Type": "Tasks",
+            "Description": "(U) Perform static and dynamic analysis in order to find errors and flaws.",
+            "Topic": "Debugging",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0021",
+            "Type": "Tasks",
+            "Description": "(U) Conduct hardware and/or software static and dynamic analysis to reverse engineer malicious or benign systems",
+            "Topic": "Reverse Engineering",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0022",
+            "Type": "Tasks",
+            "Description": "(U) Research, reference, discover, analyze, modify, develop and document known and new vulnerabilities in computer systems.",
+            "Topic": "Vulnerability Research",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0023",
+            "Type": "Tasks",
+            "Description": "(U) Design and develop data requirements, database structure, process flow, systematic procedures, algorithms, data analysis, and file structures.",
+            "Topic": "Software Engineering",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0024",
+            "Type": "Tasks",
+            "Description": "(U) Utilize data structures to organize, sort, and manipulate elements of information",
+            "Topic": "Data Structures",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0025",
+            "Type": "Tasks",
+            "Description": "(U) Design and develop user interfaces (e.g. web pages, GUIs, CLIs, Console Interfaces)",
+            "Topic": "Software Engineering",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0026",
+            "Type": "Tasks",
+            "Description": "(U) Utilize secure coding techniques during development of software and applications",
+            "Topic": "Software Engineering",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0027",
+            "Type": "Tasks",
+            "Description": "(U) Employ tradecraft to provide confidentiality, integrity, availability, authentication, and non-repudiation of developed accesses, payloads and tools.",
+            "Topic": "Implement Security Measures",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0028",
+            "Type": "Tasks",
+            "Description": "(U) Apply cryptography primitives to protect the confidentiality and integrity of sensitive data.",
+            "Topic": "Implement Security Measures",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0029",
+            "Type": "Tasks",
+            "Description": "(U) Perform code review and analysis to inform OPSEC analysis and application (attribution, sanitization, etc.)",
+            "Topic": "Secure Coding",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0030",
+            "Type": "Tasks",
+            "Description": "(U) Produce artifacts to inform risk analysis, acceptance testing, and legal review.",
+            "Topic": "Secure Coding",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0031",
+            "Type": "Tasks",
+            "Description": "(U) Locate and utilize technical specifications and industry standards (e.g. Internet Engineering Task Force (IETF), IEEE, IEC, International Standards Organization (ISO)).",
+            "Topic": "Standards",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0032",
+            "Type": "Tasks",
+            "Description": "(U) Deliver technical documentation (e.g. user guides, design documentation, test plans, change logs, training materials, etc.) to end users.",
+            "Topic": "Technical Writing",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0033",
+            "Type": "Tasks",
+            "Description": "(U) Implement project management, software engineering philosophies, modern capability development methodologies (Agile, TDD, CI/CD, etc)",
+            "Topic": "Project Management",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0034",
+            "Type": "Tasks",
+            "Description": "(U) Apply software engineering best practices to enable sustainability and extesibility.",
+            "Topic": "Software Engineering",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0035",
+            "Type": "Tasks",
+            "Description": "(U) Enter work into Task and project management tools used for software development (e.g. Jira, Confluence, Trac, MediaWiki, etc.)",
+            "Topic": "Project Management Tools",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0036",
+            "Type": "Tasks",
+            "Description": "(U) Enhance capability design strategies and tactics by synthesizing information, processes, and techniques in the areas of malicious software, vulnerabilities, reverse engineering, secure software engineering, and exploitation.",
+            "Topic": "Software Engineering",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0037",
+            "Type": "Tasks",
+            "Description": "(U) Document and communicate tradecraft, best practices, TTPs, training, briefings, presentations, papers, studies, lessons learned, etc. to both technical and non-technical audiences",
+            "Topic": "Lessons Learned",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "T0038",
+            "Type": "Tasks",
+            "Description": "Create a masterpiece",
+            "Topic": "",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "T0039",
+            "Type": "Tasks",
+            "Description": "Program in C++",
+            "Topic": "",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "T0040",
+            "Type": "Tasks",
+            "Description": "Create PowerShell tools",
+            "Topic": "",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "T0041",
+            "Type": "Tasks",
+            "Description": "Vulnerabilitiy Research to develop valuable tools",
+            "Topic": "",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "T0042",
+            "Type": "Tasks",
+            "Description": "Utilize virtualization software to develop, emulate, and execute tools and systems",
+            "Topic": "",
+            "OPR": "",
+            "Source": []
         }
     ],
     "connections": [
@@ -13629,526 +13629,6 @@
             "To": "S0015"
         },
         {
-            "From": "T0005",
-            "To": "T0001"
-        },
-        {
-            "From": "T0005",
-            "To": "T0002"
-        },
-        {
-            "From": "T0005",
-            "To": "T0003"
-        },
-        {
-            "From": "T0005",
-            "To": "T0004"
-        },
-        {
-            "From": "T0006",
-            "To": "T0001"
-        },
-        {
-            "From": "T0006",
-            "To": "T0002"
-        },
-        {
-            "From": "T0006",
-            "To": "T0003"
-        },
-        {
-            "From": "T0006",
-            "To": "T0004"
-        },
-        {
-            "From": "T0007",
-            "To": "T0001"
-        },
-        {
-            "From": "T0007",
-            "To": "T0002"
-        },
-        {
-            "From": "T0007",
-            "To": "T0003"
-        },
-        {
-            "From": "T0007",
-            "To": "T0004"
-        },
-        {
-            "From": "T0008",
-            "To": "T0001"
-        },
-        {
-            "From": "T0008",
-            "To": "T0002"
-        },
-        {
-            "From": "T0008",
-            "To": "T0003"
-        },
-        {
-            "From": "T0008",
-            "To": "T0004"
-        },
-        {
-            "From": "T0009",
-            "To": "T0001"
-        },
-        {
-            "From": "T0009",
-            "To": "T0002"
-        },
-        {
-            "From": "T0009",
-            "To": "T0003"
-        },
-        {
-            "From": "T0009",
-            "To": "T0004"
-        },
-        {
-            "From": "T0009",
-            "To": "T0008"
-        },
-        {
-            "From": "T0010",
-            "To": "T0001"
-        },
-        {
-            "From": "T0010",
-            "To": "T0002"
-        },
-        {
-            "From": "T0010",
-            "To": "T0003"
-        },
-        {
-            "From": "T0010",
-            "To": "T0004"
-        },
-        {
-            "From": "T0011",
-            "To": "T0001"
-        },
-        {
-            "From": "T0011",
-            "To": "T0002"
-        },
-        {
-            "From": "T0011",
-            "To": "T0003"
-        },
-        {
-            "From": "T0011",
-            "To": "T0004"
-        },
-        {
-            "From": "T0012",
-            "To": "T0001"
-        },
-        {
-            "From": "T0012",
-            "To": "T0002"
-        },
-        {
-            "From": "T0012",
-            "To": "T0003"
-        },
-        {
-            "From": "T0012",
-            "To": "T0004"
-        },
-        {
-            "From": "T0013",
-            "To": "T0001"
-        },
-        {
-            "From": "T0013",
-            "To": "T0002"
-        },
-        {
-            "From": "T0013",
-            "To": "T0003"
-        },
-        {
-            "From": "T0013",
-            "To": "T0004"
-        },
-        {
-            "From": "T0014",
-            "To": "T0001"
-        },
-        {
-            "From": "T0014",
-            "To": "T0002"
-        },
-        {
-            "From": "T0014",
-            "To": "T0003"
-        },
-        {
-            "From": "T0014",
-            "To": "T0004"
-        },
-        {
-            "From": "T0016",
-            "To": "T0001"
-        },
-        {
-            "From": "T0016",
-            "To": "T0002"
-        },
-        {
-            "From": "T0016",
-            "To": "T0003"
-        },
-        {
-            "From": "T0016",
-            "To": "T0004"
-        },
-        {
-            "From": "T0017",
-            "To": "T0001"
-        },
-        {
-            "From": "T0017",
-            "To": "T0002"
-        },
-        {
-            "From": "T0017",
-            "To": "T0003"
-        },
-        {
-            "From": "T0017",
-            "To": "T0004"
-        },
-        {
-            "From": "T0018",
-            "To": "T0001"
-        },
-        {
-            "From": "T0018",
-            "To": "T0002"
-        },
-        {
-            "From": "T0018",
-            "To": "T0003"
-        },
-        {
-            "From": "T0018",
-            "To": "T0004"
-        },
-        {
-            "From": "T0019",
-            "To": "T0001"
-        },
-        {
-            "From": "T0019",
-            "To": "T0002"
-        },
-        {
-            "From": "T0019",
-            "To": "T0003"
-        },
-        {
-            "From": "T0019",
-            "To": "T0004"
-        },
-        {
-            "From": "T0020",
-            "To": "T0001"
-        },
-        {
-            "From": "T0020",
-            "To": "T0002"
-        },
-        {
-            "From": "T0020",
-            "To": "T0003"
-        },
-        {
-            "From": "T0020",
-            "To": "T0004"
-        },
-        {
-            "From": "T0021",
-            "To": "T0001"
-        },
-        {
-            "From": "T0021",
-            "To": "T0002"
-        },
-        {
-            "From": "T0021",
-            "To": "T0003"
-        },
-        {
-            "From": "T0021",
-            "To": "T0004"
-        },
-        {
-            "From": "T0022",
-            "To": "T0001"
-        },
-        {
-            "From": "T0022",
-            "To": "T0002"
-        },
-        {
-            "From": "T0022",
-            "To": "T0003"
-        },
-        {
-            "From": "T0022",
-            "To": "T0004"
-        },
-        {
-            "From": "T0023",
-            "To": "T0001"
-        },
-        {
-            "From": "T0023",
-            "To": "T0002"
-        },
-        {
-            "From": "T0023",
-            "To": "T0003"
-        },
-        {
-            "From": "T0023",
-            "To": "T0004"
-        },
-        {
-            "From": "T0024",
-            "To": "T0001"
-        },
-        {
-            "From": "T0024",
-            "To": "T0002"
-        },
-        {
-            "From": "T0024",
-            "To": "T0003"
-        },
-        {
-            "From": "T0024",
-            "To": "T0004"
-        },
-        {
-            "From": "T0025",
-            "To": "T0001"
-        },
-        {
-            "From": "T0025",
-            "To": "T0002"
-        },
-        {
-            "From": "T0025",
-            "To": "T0003"
-        },
-        {
-            "From": "T0025",
-            "To": "T0004"
-        },
-        {
-            "From": "T0026",
-            "To": "T0001"
-        },
-        {
-            "From": "T0026",
-            "To": "T0002"
-        },
-        {
-            "From": "T0026",
-            "To": "T0003"
-        },
-        {
-            "From": "T0026",
-            "To": "T0004"
-        },
-        {
-            "From": "T0027",
-            "To": "T0001"
-        },
-        {
-            "From": "T0027",
-            "To": "T0002"
-        },
-        {
-            "From": "T0027",
-            "To": "T0003"
-        },
-        {
-            "From": "T0027",
-            "To": "T0004"
-        },
-        {
-            "From": "T0028",
-            "To": "T0001"
-        },
-        {
-            "From": "T0028",
-            "To": "T0002"
-        },
-        {
-            "From": "T0028",
-            "To": "T0003"
-        },
-        {
-            "From": "T0028",
-            "To": "T0004"
-        },
-        {
-            "From": "T0029",
-            "To": "T0001"
-        },
-        {
-            "From": "T0029",
-            "To": "T0002"
-        },
-        {
-            "From": "T0029",
-            "To": "T0003"
-        },
-        {
-            "From": "T0029",
-            "To": "T0004"
-        },
-        {
-            "From": "T0030",
-            "To": "T0001"
-        },
-        {
-            "From": "T0030",
-            "To": "T0002"
-        },
-        {
-            "From": "T0030",
-            "To": "T0003"
-        },
-        {
-            "From": "T0030",
-            "To": "T0004"
-        },
-        {
-            "From": "T0031",
-            "To": "T0001"
-        },
-        {
-            "From": "T0031",
-            "To": "T0002"
-        },
-        {
-            "From": "T0031",
-            "To": "T0003"
-        },
-        {
-            "From": "T0031",
-            "To": "T0004"
-        },
-        {
-            "From": "T0032",
-            "To": "T0001"
-        },
-        {
-            "From": "T0032",
-            "To": "T0002"
-        },
-        {
-            "From": "T0032",
-            "To": "T0003"
-        },
-        {
-            "From": "T0032",
-            "To": "T0004"
-        },
-        {
-            "From": "T0033",
-            "To": "T0001"
-        },
-        {
-            "From": "T0033",
-            "To": "T0002"
-        },
-        {
-            "From": "T0033",
-            "To": "T0003"
-        },
-        {
-            "From": "T0033",
-            "To": "T0004"
-        },
-        {
-            "From": "T0034",
-            "To": "T0001"
-        },
-        {
-            "From": "T0034",
-            "To": "T0002"
-        },
-        {
-            "From": "T0034",
-            "To": "T0003"
-        },
-        {
-            "From": "T0034",
-            "To": "T0004"
-        },
-        {
-            "From": "T0035",
-            "To": "T0001"
-        },
-        {
-            "From": "T0035",
-            "To": "T0002"
-        },
-        {
-            "From": "T0035",
-            "To": "T0003"
-        },
-        {
-            "From": "T0035",
-            "To": "T0004"
-        },
-        {
-            "From": "T0036",
-            "To": "T0001"
-        },
-        {
-            "From": "T0036",
-            "To": "T0002"
-        },
-        {
-            "From": "T0036",
-            "To": "T0003"
-        },
-        {
-            "From": "T0036",
-            "To": "T0004"
-        },
-        {
-            "From": "T0037",
-            "To": "T0001"
-        },
-        {
-            "From": "T0037",
-            "To": "T0002"
-        },
-        {
-            "From": "T0037",
-            "To": "T0003"
-        },
-        {
-            "From": "T0037",
-            "To": "T0004"
-        },
-        {
-            "From": "T0041",
-            "To": "T0022"
-        },
-        {
             "From": "S0002",
             "To": "T0009"
         },
@@ -15191,6 +14671,526 @@
         {
             "From": "S0378",
             "To": "T0033"
+        },
+        {
+            "From": "T0005",
+            "To": "T0001"
+        },
+        {
+            "From": "T0005",
+            "To": "T0002"
+        },
+        {
+            "From": "T0005",
+            "To": "T0003"
+        },
+        {
+            "From": "T0005",
+            "To": "T0004"
+        },
+        {
+            "From": "T0006",
+            "To": "T0001"
+        },
+        {
+            "From": "T0006",
+            "To": "T0002"
+        },
+        {
+            "From": "T0006",
+            "To": "T0003"
+        },
+        {
+            "From": "T0006",
+            "To": "T0004"
+        },
+        {
+            "From": "T0007",
+            "To": "T0001"
+        },
+        {
+            "From": "T0007",
+            "To": "T0002"
+        },
+        {
+            "From": "T0007",
+            "To": "T0003"
+        },
+        {
+            "From": "T0007",
+            "To": "T0004"
+        },
+        {
+            "From": "T0008",
+            "To": "T0001"
+        },
+        {
+            "From": "T0008",
+            "To": "T0002"
+        },
+        {
+            "From": "T0008",
+            "To": "T0003"
+        },
+        {
+            "From": "T0008",
+            "To": "T0004"
+        },
+        {
+            "From": "T0009",
+            "To": "T0001"
+        },
+        {
+            "From": "T0009",
+            "To": "T0002"
+        },
+        {
+            "From": "T0009",
+            "To": "T0003"
+        },
+        {
+            "From": "T0009",
+            "To": "T0004"
+        },
+        {
+            "From": "T0009",
+            "To": "T0008"
+        },
+        {
+            "From": "T0010",
+            "To": "T0001"
+        },
+        {
+            "From": "T0010",
+            "To": "T0002"
+        },
+        {
+            "From": "T0010",
+            "To": "T0003"
+        },
+        {
+            "From": "T0010",
+            "To": "T0004"
+        },
+        {
+            "From": "T0011",
+            "To": "T0001"
+        },
+        {
+            "From": "T0011",
+            "To": "T0002"
+        },
+        {
+            "From": "T0011",
+            "To": "T0003"
+        },
+        {
+            "From": "T0011",
+            "To": "T0004"
+        },
+        {
+            "From": "T0012",
+            "To": "T0001"
+        },
+        {
+            "From": "T0012",
+            "To": "T0002"
+        },
+        {
+            "From": "T0012",
+            "To": "T0003"
+        },
+        {
+            "From": "T0012",
+            "To": "T0004"
+        },
+        {
+            "From": "T0013",
+            "To": "T0001"
+        },
+        {
+            "From": "T0013",
+            "To": "T0002"
+        },
+        {
+            "From": "T0013",
+            "To": "T0003"
+        },
+        {
+            "From": "T0013",
+            "To": "T0004"
+        },
+        {
+            "From": "T0014",
+            "To": "T0001"
+        },
+        {
+            "From": "T0014",
+            "To": "T0002"
+        },
+        {
+            "From": "T0014",
+            "To": "T0003"
+        },
+        {
+            "From": "T0014",
+            "To": "T0004"
+        },
+        {
+            "From": "T0016",
+            "To": "T0001"
+        },
+        {
+            "From": "T0016",
+            "To": "T0002"
+        },
+        {
+            "From": "T0016",
+            "To": "T0003"
+        },
+        {
+            "From": "T0016",
+            "To": "T0004"
+        },
+        {
+            "From": "T0017",
+            "To": "T0001"
+        },
+        {
+            "From": "T0017",
+            "To": "T0002"
+        },
+        {
+            "From": "T0017",
+            "To": "T0003"
+        },
+        {
+            "From": "T0017",
+            "To": "T0004"
+        },
+        {
+            "From": "T0018",
+            "To": "T0001"
+        },
+        {
+            "From": "T0018",
+            "To": "T0002"
+        },
+        {
+            "From": "T0018",
+            "To": "T0003"
+        },
+        {
+            "From": "T0018",
+            "To": "T0004"
+        },
+        {
+            "From": "T0019",
+            "To": "T0001"
+        },
+        {
+            "From": "T0019",
+            "To": "T0002"
+        },
+        {
+            "From": "T0019",
+            "To": "T0003"
+        },
+        {
+            "From": "T0019",
+            "To": "T0004"
+        },
+        {
+            "From": "T0020",
+            "To": "T0001"
+        },
+        {
+            "From": "T0020",
+            "To": "T0002"
+        },
+        {
+            "From": "T0020",
+            "To": "T0003"
+        },
+        {
+            "From": "T0020",
+            "To": "T0004"
+        },
+        {
+            "From": "T0021",
+            "To": "T0001"
+        },
+        {
+            "From": "T0021",
+            "To": "T0002"
+        },
+        {
+            "From": "T0021",
+            "To": "T0003"
+        },
+        {
+            "From": "T0021",
+            "To": "T0004"
+        },
+        {
+            "From": "T0022",
+            "To": "T0001"
+        },
+        {
+            "From": "T0022",
+            "To": "T0002"
+        },
+        {
+            "From": "T0022",
+            "To": "T0003"
+        },
+        {
+            "From": "T0022",
+            "To": "T0004"
+        },
+        {
+            "From": "T0023",
+            "To": "T0001"
+        },
+        {
+            "From": "T0023",
+            "To": "T0002"
+        },
+        {
+            "From": "T0023",
+            "To": "T0003"
+        },
+        {
+            "From": "T0023",
+            "To": "T0004"
+        },
+        {
+            "From": "T0024",
+            "To": "T0001"
+        },
+        {
+            "From": "T0024",
+            "To": "T0002"
+        },
+        {
+            "From": "T0024",
+            "To": "T0003"
+        },
+        {
+            "From": "T0024",
+            "To": "T0004"
+        },
+        {
+            "From": "T0025",
+            "To": "T0001"
+        },
+        {
+            "From": "T0025",
+            "To": "T0002"
+        },
+        {
+            "From": "T0025",
+            "To": "T0003"
+        },
+        {
+            "From": "T0025",
+            "To": "T0004"
+        },
+        {
+            "From": "T0026",
+            "To": "T0001"
+        },
+        {
+            "From": "T0026",
+            "To": "T0002"
+        },
+        {
+            "From": "T0026",
+            "To": "T0003"
+        },
+        {
+            "From": "T0026",
+            "To": "T0004"
+        },
+        {
+            "From": "T0027",
+            "To": "T0001"
+        },
+        {
+            "From": "T0027",
+            "To": "T0002"
+        },
+        {
+            "From": "T0027",
+            "To": "T0003"
+        },
+        {
+            "From": "T0027",
+            "To": "T0004"
+        },
+        {
+            "From": "T0028",
+            "To": "T0001"
+        },
+        {
+            "From": "T0028",
+            "To": "T0002"
+        },
+        {
+            "From": "T0028",
+            "To": "T0003"
+        },
+        {
+            "From": "T0028",
+            "To": "T0004"
+        },
+        {
+            "From": "T0029",
+            "To": "T0001"
+        },
+        {
+            "From": "T0029",
+            "To": "T0002"
+        },
+        {
+            "From": "T0029",
+            "To": "T0003"
+        },
+        {
+            "From": "T0029",
+            "To": "T0004"
+        },
+        {
+            "From": "T0030",
+            "To": "T0001"
+        },
+        {
+            "From": "T0030",
+            "To": "T0002"
+        },
+        {
+            "From": "T0030",
+            "To": "T0003"
+        },
+        {
+            "From": "T0030",
+            "To": "T0004"
+        },
+        {
+            "From": "T0031",
+            "To": "T0001"
+        },
+        {
+            "From": "T0031",
+            "To": "T0002"
+        },
+        {
+            "From": "T0031",
+            "To": "T0003"
+        },
+        {
+            "From": "T0031",
+            "To": "T0004"
+        },
+        {
+            "From": "T0032",
+            "To": "T0001"
+        },
+        {
+            "From": "T0032",
+            "To": "T0002"
+        },
+        {
+            "From": "T0032",
+            "To": "T0003"
+        },
+        {
+            "From": "T0032",
+            "To": "T0004"
+        },
+        {
+            "From": "T0033",
+            "To": "T0001"
+        },
+        {
+            "From": "T0033",
+            "To": "T0002"
+        },
+        {
+            "From": "T0033",
+            "To": "T0003"
+        },
+        {
+            "From": "T0033",
+            "To": "T0004"
+        },
+        {
+            "From": "T0034",
+            "To": "T0001"
+        },
+        {
+            "From": "T0034",
+            "To": "T0002"
+        },
+        {
+            "From": "T0034",
+            "To": "T0003"
+        },
+        {
+            "From": "T0034",
+            "To": "T0004"
+        },
+        {
+            "From": "T0035",
+            "To": "T0001"
+        },
+        {
+            "From": "T0035",
+            "To": "T0002"
+        },
+        {
+            "From": "T0035",
+            "To": "T0003"
+        },
+        {
+            "From": "T0035",
+            "To": "T0004"
+        },
+        {
+            "From": "T0036",
+            "To": "T0001"
+        },
+        {
+            "From": "T0036",
+            "To": "T0002"
+        },
+        {
+            "From": "T0036",
+            "To": "T0003"
+        },
+        {
+            "From": "T0036",
+            "To": "T0004"
+        },
+        {
+            "From": "T0037",
+            "To": "T0001"
+        },
+        {
+            "From": "T0037",
+            "To": "T0002"
+        },
+        {
+            "From": "T0037",
+            "To": "T0003"
+        },
+        {
+            "From": "T0037",
+            "To": "T0004"
+        },
+        {
+            "From": "T0041",
+            "To": "T0022"
         }
     ]
 }
