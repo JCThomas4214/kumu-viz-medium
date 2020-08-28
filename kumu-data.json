@@ -3695,30 +3695,6 @@
             "Source": []
         },
         {
-            "Label": "K0368",
-            "Type": "Knowledge",
-            "Description": "Describe benifits of mastering the Product Owner role.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0369",
-            "Type": "Knowledge",
-            "Description": "Identify the impact on a Scrum Team and organization anti-patterns that might exist for Product Owners.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0370",
-            "Type": "Knowledge",
-            "Description": "Describe organizational contexts that affect the approach to the Product Owner role.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0371",
             "Type": "Knowledge",
             "Description": "Describe techniques to engage stakeholders to gather information.",
@@ -3730,14 +3706,6 @@
             "Label": "K0372",
             "Type": "Knowledge",
             "Description": "Understand decision-making approaches a Product Owner might use.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0373",
-            "Type": "Knowledge",
-            "Description": "Describe situations where the Product Owner might act as a neutral facilitator and when they might use a different engagement approach.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3879,22 +3847,6 @@
             "Source": []
         },
         {
-            "Label": "K0393",
-            "Type": "Knowledge",
-            "Description": "Understand strategy and relate it to mission and goals.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0394",
-            "Type": "Knowledge",
-            "Description": "Product Planning and Forecasting",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0395",
             "Type": "Knowledge",
             "Description": "Understand strategies for the incremental delivery of a product.",
@@ -3967,33 +3919,9 @@
             "Source": []
         },
         {
-            "Label": "K0405",
-            "Type": "Knowledge",
-            "Description": "Validating Product Assumptions",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0406",
             "Type": "Knowledge",
             "Description": "Understand how Scrum supports validating product assumptions.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0407",
-            "Type": "Knowledge",
-            "Description": "Understand approaches to validating assumptions by their cost and the quality of learning.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0408",
-            "Type": "Knowledge",
-            "Description": "Understand approaches to choosing which assumption should be validated first.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4010,14 +3938,6 @@
             "Label": "K0410",
             "Type": "Knowledge",
             "Description": "Understand approaches to validate assumptions by their cost and the quality of learning.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0411",
-            "Type": "Knowledge",
-            "Description": "Differentiating Outcome and Output",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -4055,14 +3975,6 @@
             "Source": []
         },
         {
-            "Label": "K0417",
-            "Type": "Knowledge",
-            "Description": "List at least five terms and definitions related to product economics that contribute to financial success.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0419",
             "Type": "Knowledge",
             "Description": "Understand criteria for ordering the Product Backlog.",
@@ -4090,14 +4002,6 @@
             "Label": "K0422",
             "Type": "Knowledge",
             "Description": "Understand the pros and cons of a \"just-in-time\" approach for Product Backlog refinement vs. an \"all-at-once\" approach.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0423",
-            "Type": "Knowledge",
-            "Description": "Explain at least two approaches to identify small, valuable, and releasable subsets of a big idea or feature.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -10319,25 +10223,9 @@
             "Source": []
         },
         {
-            "Label": "S0340",
-            "Type": "Skills",
-            "Description": "Assess the Product Backlog and propose ways to improve.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0341",
             "Type": "Skills",
             "Description": "Utilize tools associated with JIRA to manage development team projects",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0342",
-            "Type": "Skills",
-            "Description": "Relate customer expectations with team members for product development",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -10391,14 +10279,6 @@
             "Source": []
         },
         {
-            "Label": "S0351",
-            "Type": "Skills",
-            "Description": "Identify and weigh product assumptions",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0352",
             "Type": "Skills",
             "Description": "Prioritize backlog items",
@@ -10410,14 +10290,6 @@
             "Label": "S0354",
             "Type": "Skills",
             "Description": "Collaborate with tool champion to identify team requirements",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0355",
-            "Type": "Skills",
-            "Description": "Assess and appraise the use of deliverables at sprint reviews",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -10435,30 +10307,6 @@
             "Type": "Skills",
             "Description": "Apply the required principles to create a definition of done",
             "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0358",
-            "Type": "Skills",
-            "Description": "Compile and organize issues within JIRA.",
-            "Topic": "Jira",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0359",
-            "Type": "Skills",
-            "Description": "Create a project charter in accordance with squadron standards.",
-            "Topic": "90 MQT",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0360",
-            "Type": "Skills",
-            "Description": "Define acceptance criteria and explain its purpose.",
-            "Topic": "90 MQT",
             "OPR": "",
             "Source": []
         },
@@ -12429,10 +12277,6 @@
             "To": "S0189"
         },
         {
-            "From": "K0373",
-            "To": "S0189"
-        },
-        {
             "From": "K0374",
             "To": "S0189"
         },
@@ -12477,52 +12321,8 @@
             "To": "K0386"
         },
         {
-            "From": "K0395",
-            "To": "K0394"
-        },
-        {
-            "From": "K0396",
-            "To": "K0394"
-        },
-        {
             "From": "K0398",
             "To": "K0397"
-        },
-        {
-            "From": "K0405",
-            "To": "S0199"
-        },
-        {
-            "From": "K0405",
-            "To": "S0337"
-        },
-        {
-            "From": "K0406",
-            "To": "K0405"
-        },
-        {
-            "From": "K0407",
-            "To": "K0405"
-        },
-        {
-            "From": "K0408",
-            "To": "K0405"
-        },
-        {
-            "From": "K0409",
-            "To": "K0405"
-        },
-        {
-            "From": "K0410",
-            "To": "K0405"
-        },
-        {
-            "From": "K0412",
-            "To": "K0411"
-        },
-        {
-            "From": "K0413",
-            "To": "K0411"
         },
         {
             "From": "K0420",
@@ -12535,14 +12335,6 @@
         {
             "From": "K0422",
             "To": "S0200"
-        },
-        {
-            "From": "K0423",
-            "To": "S0200"
-        },
-        {
-            "From": "K0424",
-            "To": "K0411"
         },
         {
             "From": "K0431",
@@ -14477,40 +14269,8 @@
             "To": "A0459"
         },
         {
-            "From": "S0340",
-            "To": "A0459"
-        },
-        {
             "From": "S0352",
             "To": "A0459"
-        },
-        {
-            "From": "S0358",
-            "To": "A0650"
-        },
-        {
-            "From": "S0359",
-            "To": "T0007"
-        },
-        {
-            "From": "S0359",
-            "To": "T0033"
-        },
-        {
-            "From": "S0359",
-            "To": "T0035"
-        },
-        {
-            "From": "S0360",
-            "To": "T0007"
-        },
-        {
-            "From": "S0360",
-            "To": "T0033"
-        },
-        {
-            "From": "S0360",
-            "To": "T0035"
         },
         {
             "From": "S0361",
