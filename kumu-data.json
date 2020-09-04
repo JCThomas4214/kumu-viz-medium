@@ -7429,6 +7429,30 @@
             "Source": []
         },
         {
+            "Label": "K0905",
+            "Type": "Knowledge",
+            "Description": "Describe the purpose of an Agile Development Sprint",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0906",
+            "Type": "Knowledge",
+            "Description": "Identify artifacts of a Sprint Planning meeting.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0907",
+            "Type": "Knowledge",
+            "Description": "Describe what actions to take if the Development team cannot complete work by the end of the Sprint.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "S0001",
             "Type": "Skills",
             "Description": "Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.",
