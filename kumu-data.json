@@ -2693,7 +2693,7 @@
         {
             "Label": "K0220",
             "Type": "Knowledge",
-            "Description": "Restrictions",
+            "Description": "Identify the underlying restrictions to low level memory access",
             "Topic": "Assembly Programming",
             "OPR": "ACC A3/2/6KO",
             "Source": [
