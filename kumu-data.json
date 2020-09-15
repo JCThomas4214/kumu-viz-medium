@@ -53,7 +53,7 @@
         {
             "Label": "A0077",
             "Type": "Abilities",
-            "Description": "Conduct unit testing to validate program functionality",
+            "Description": "Create and execute unit testing to validate program functionality",
             "Topic": "Agile Development",
             "OPR": "ACC A3/2/6KO",
             "Source": [
