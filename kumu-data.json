@@ -321,7 +321,7 @@
         {
             "Label": "A0425",
             "Type": "Abilities",
-            "Description": "Build a console application in C that makes an API call to retrieve information, writes the data (ecrypted) to the disk",
+            "Description": "Build a console application in C that makes an API call to retrieve information, writes the data (encrypted) to the disk",
             "Topic": "Tool Development",
             "OPR": "",
             "Source": []
@@ -8251,7 +8251,7 @@
         {
             "Label": "S0087",
             "Type": "Skills",
-            "Description": "Uilize a JSON Module.",
+            "Description": "Utilize a JSON Module.",
             "Topic": "Networking Concepts",
             "OPR": "ACC A3/2/6KO",
             "Source": [
