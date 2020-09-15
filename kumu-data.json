@@ -161,7 +161,7 @@
         {
             "Label": "A0355",
             "Type": "Abilities",
-            "Description": "Package an applicaton/tool for delivery.",
+            "Description": "Package an application/tool for delivery.",
             "Topic": "Development Operations",
             "OPR": "",
             "Source": []
@@ -403,7 +403,7 @@
         {
             "Label": "A0466",
             "Type": "Abilities",
-            "Description": "Develop an applicaton using Win32 Project",
+            "Description": "Develop an application using Win32 Project",
             "Topic": "Windows Operating System",
             "OPR": "",
             "Source": []
@@ -411,7 +411,7 @@
         {
             "Label": "A0479",
             "Type": "Abilities",
-            "Description": "Develop a Win32 application that is Win64 compatibile",
+            "Description": "Develop a Win32 application that is Win64 compatible",
             "Topic": "Windows Operating System",
             "OPR": "",
             "Source": []
@@ -419,7 +419,7 @@
         {
             "Label": "A0508",
             "Type": "Abilities",
-            "Description": "Devlope a Simple Driver",
+            "Description": "Develop a Simple Driver",
             "Topic": "Windows Kernel Development",
             "OPR": "",
             "Source": []
@@ -723,7 +723,7 @@
         {
             "Label": "A0628",
             "Type": "Abilities",
-            "Description": "Demonstrate the ability to devleop C client/server network programs.",
+            "Description": "Demonstrate the ability to develop C client/server network programs.",
             "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -951,7 +951,7 @@
         {
             "Label": "A0742",
             "Type": "Abilities",
-            "Description": "Create a service in docker (http, database, etc.) with persistant storage",
+            "Description": "Create a service in docker (http, database, etc.) with persistent storage",
             "Topic": "Docker",
             "OPR": "",
             "Source": []
@@ -1964,7 +1964,7 @@
             "Label": "K0130",
             "Type": "Knowledge",
             "Description": "Interpret logic from pseudocode",
-            "Topic": "Pseudocode",
+            "Topic": "Programming Fundamentals",
             "OPR": "",
             "Source": []
         },
@@ -5751,7 +5751,7 @@
         {
             "Label": "K0693",
             "Type": "Knowledge",
-            "Description": "(U) Explain what it is to decompile, disassembe, analzye, and reverse engineer compiled binaries.",
+            "Description": "(U) Explain what it is to decompile, disassemble, analyze, and reverse engineer compiled binaries.",
             "Topic": "Reverse Engineering",
             "OPR": "USCYBERCOM/J7",
             "Source": [
@@ -5761,7 +5761,7 @@
         {
             "Label": "K0694",
             "Type": "Knowledge",
-            "Description": "(U) Identify commonly used tools to decompile, disassembe, analzye, and reverse engineer compiled binaries.",
+            "Description": "(U) Identify commonly used tools to decompile, disassemble, analyze, and reverse engineer compiled binaries.",
             "Topic": "Reverse Engineering",
             "OPR": "USCYBERCOM/J7",
             "Source": [
@@ -5821,7 +5821,7 @@
         {
             "Label": "K0700",
             "Type": "Knowledge",
-            "Description": "(U) Explain the concepts and terminology of datastructures and associated algorithms (e.g., search, sort, traverse, insert, delete).",
+            "Description": "(U) Explain the concepts and terminology of data structures and associated algorithms (e.g., search, sort, traverse, insert, delete).",
             "Topic": "Data Structures",
             "OPR": "USCYBERCOM/J7",
             "Source": [
@@ -7713,7 +7713,7 @@
         {
             "Label": "S0029",
             "Type": "Skills",
-            "Description": "Utilize arithmetic operators (PEMDAS +, -, *, /, %) in mathmatical equations.",
+            "Description": "Utilize arithmetic operators (PEMDAS +, -, *, /, %) in mathematical equations.",
             "Topic": "Programming Fundamentals",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -7759,7 +7759,7 @@
         {
             "Label": "S0034",
             "Type": "Skills",
-            "Description": "Declare and implement appropriate data types for program requirments.",
+            "Description": "Declare and implement appropriate data types for program requirements.",
             "Topic": "C",
             "OPR": "",
             "Source": []
@@ -7767,7 +7767,7 @@
         {
             "Label": "S0035",
             "Type": "Skills",
-            "Description": "Declare and/or implement of arrays and muli-dimensioanl arrays.",
+            "Description": "Declare and/or implement of arrays and multi-dimensional arrays.",
             "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -8739,7 +8739,7 @@
         {
             "Label": "S0144",
             "Type": "Skills",
-            "Description": "Utilize threads in a multithreaded program.",
+            "Description": "Utilize threads in a multi-threaded program.",
             "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -8749,7 +8749,7 @@
         {
             "Label": "S0145",
             "Type": "Skills",
-            "Description": "Utilize a semaphore in a multithreaded program.",
+            "Description": "Utilize a semaphore in a multi-threaded program.",
             "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -8769,7 +8769,7 @@
         {
             "Label": "S0147",
             "Type": "Skills",
-            "Description": "Remediate formmating string vulnerabilities.",
+            "Description": "Remediate formatting string vulnerabilities.",
             "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -9047,7 +9047,7 @@
         {
             "Label": "S0178",
             "Type": "Skills",
-            "Description": "Reverse engineer a basic binary program to write high-level psuedocode.",
+            "Description": "Reverse engineer a basic binary program to write high-level pseudocode.",
             "Topic": "Reverse Engineering",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -9283,7 +9283,7 @@
         {
             "Label": "S0210",
             "Type": "Skills",
-            "Description": "Use docker documentation to solve docker problemsets",
+            "Description": "Use docker documentation to solve docker problem sets",
             "Topic": "Docker",
             "OPR": "",
             "Source": []
@@ -9291,7 +9291,7 @@
         {
             "Label": "S0211",
             "Type": "Skills",
-            "Description": "Carry out the configuration of docker commands to use persistant storage",
+            "Description": "Carry out the configuration of docker commands to use persistent storage",
             "Topic": "Docker",
             "OPR": "",
             "Source": []
@@ -10121,7 +10121,7 @@
         {
             "Label": "S0321",
             "Type": "Skills",
-            "Description": "Utiize Man pages",
+            "Description": "Utilize Man pages",
             "Topic": "Linux Kernel Development",
             "OPR": "",
             "Source": []
@@ -10489,7 +10489,7 @@
         {
             "Label": "T0001",
             "Type": "Tasks",
-            "Description": "(U) Modify cyber capabilites to detect and disrupt nation-state cyber threat actors across the threat chain (kill chain) of adversary execution",
+            "Description": "(U) Modify cyber capabilities to detect and disrupt nation-state cyber threat actors across the threat chain (kill chain) of adversary execution",
             "Topic": "Mission",
             "OPR": "USCYBERCOM/J7",
             "Source": [
@@ -10661,7 +10661,7 @@
         {
             "Label": "T0018",
             "Type": "Tasks",
-            "Description": "(U) Utilize tools to decompile, disassembe, analzye, and reverse engineer compiled binaries.",
+            "Description": "(U) Utilize tools to decompile, disassemble, analyze, and reverse engineer compiled binaries.",
             "Topic": "Reverse Engineering",
             "OPR": "USCYBERCOM/J7",
             "Source": [
@@ -10821,7 +10821,7 @@
         {
             "Label": "T0034",
             "Type": "Tasks",
-            "Description": "(U) Apply software engineering best practices to enable sustainability and extesibility.",
+            "Description": "(U) Apply software engineering best practices to enable sustainability and extensibility.",
             "Topic": "Software Engineering",
             "OPR": "USCYBERCOM/J7",
             "Source": [
