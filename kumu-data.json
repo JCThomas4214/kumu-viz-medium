@@ -747,14 +747,6 @@
             "Source": []
         },
         {
-            "Label": "A0633",
-            "Type": "Abilities",
-            "Description": "Peer Review",
-            "Topic": "Software Development Process",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "A0650",
             "Type": "Abilities",
             "Description": "Utilize Jira for project and task management.",
@@ -10483,6 +10475,14 @@
             "Type": "Skills",
             "Description": "Create a sufficient number of  \"ready\" Product Backlog items for the upcoming Sprint.",
             "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0381",
+            "Type": "Skills",
+            "Description": "Peer Review code and provide critical feedback to developer.",
+            "Topic": "Software Development Process",
             "OPR": "",
             "Source": []
         },
