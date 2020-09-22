@@ -6299,23 +6299,7 @@
         {
             "Label": "K0767",
             "Type": "Knowledge",
-            "Description": "Understand the purpose of the mov instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0768",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the movx instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0769",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the movzx instruction.",
+            "Description": "Understand move instructions.",
             "Topic": "Assembly Programming",
             "OPR": "",
             "Source": []
@@ -6339,31 +6323,7 @@
         {
             "Label": "K0772",
             "Type": "Knowledge",
-            "Description": "Understand the purpose of the push instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0773",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the pop instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0774",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the pushf instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0775",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the popf instruction.",
+            "Description": "Understand stack instructions.",
             "Topic": "Assembly Programming",
             "OPR": "",
             "Source": []
@@ -6387,47 +6347,7 @@
         {
             "Label": "K0778",
             "Type": "Knowledge",
-            "Description": "Understand the purpose of the add instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0779",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the sub instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0780",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the mul instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0781",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the div instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0782",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the inc instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0783",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the dec instruction.",
+            "Description": "Understand mathematical instructions.",
             "Topic": "Assembly Programming",
             "OPR": "",
             "Source": []
@@ -6435,15 +6355,7 @@
         {
             "Label": "K0784",
             "Type": "Knowledge",
-            "Description": "Understand the purpose of the shl instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0785",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the shr instruction.",
+            "Description": "Understand the shift instructions.",
             "Topic": "Assembly Programming",
             "OPR": "",
             "Source": []
@@ -6451,31 +6363,7 @@
         {
             "Label": "K0786",
             "Type": "Knowledge",
-            "Description": "Understand the purpose of the and instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0787",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the or instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0788",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the not instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0789",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the xor instruction.",
+            "Description": "Understand logical instructions.",
             "Topic": "Assembly Programming",
             "OPR": "",
             "Source": []
@@ -6483,31 +6371,7 @@
         {
             "Label": "K0790",
             "Type": "Knowledge",
-            "Description": "Understand the purpose of the rol instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0791",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the ror instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0792",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the sar instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0793",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the sal instruction.",
+            "Description": "Understand the rotate instructions.",
             "Topic": "Assembly Programming",
             "OPR": "",
             "Source": []
@@ -6516,14 +6380,6 @@
             "Label": "K0794",
             "Type": "Knowledge",
             "Description": "Understand the purpose of the cmp instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0795",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the test instruction.",
             "Topic": "Assembly Programming",
             "OPR": "",
             "Source": []
@@ -6547,15 +6403,7 @@
         {
             "Label": "K0798",
             "Type": "Knowledge",
-            "Description": "Understand the purpose of the scas instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0799",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the stos instruction.",
+            "Description": "Understand string instructions.",
             "Topic": "Assembly Programming",
             "OPR": "",
             "Source": []
@@ -6564,46 +6412,6 @@
             "Label": "K0800",
             "Type": "Knowledge",
             "Description": "Understand the purpose of the lods instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0801",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the movs instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0802",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the cmps instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0803",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the rep instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0804",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the repne instruction.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0805",
-            "Type": "Knowledge",
-            "Description": "Understand the purpose of the repe instruction.",
             "Topic": "Assembly Programming",
             "OPR": "",
             "Source": []
@@ -12905,14 +12713,6 @@
             "To": "S0125"
         },
         {
-            "From": "K0768",
-            "To": "S0125"
-        },
-        {
-            "From": "K0769",
-            "To": "S0125"
-        },
-        {
             "From": "K0770",
             "To": "S0125"
         },
@@ -12922,18 +12722,6 @@
         },
         {
             "From": "K0772",
-            "To": "S0125"
-        },
-        {
-            "From": "K0773",
-            "To": "S0125"
-        },
-        {
-            "From": "K0774",
-            "To": "S0125"
-        },
-        {
-            "From": "K0775",
             "To": "S0125"
         },
         {
@@ -12949,31 +12737,7 @@
             "To": "S0126"
         },
         {
-            "From": "K0779",
-            "To": "S0126"
-        },
-        {
-            "From": "K0780",
-            "To": "S0126"
-        },
-        {
-            "From": "K0781",
-            "To": "S0126"
-        },
-        {
-            "From": "K0782",
-            "To": "S0126"
-        },
-        {
-            "From": "K0783",
-            "To": "S0126"
-        },
-        {
             "From": "K0784",
-            "To": "S0139"
-        },
-        {
-            "From": "K0785",
             "To": "S0139"
         },
         {
@@ -12981,39 +12745,11 @@
             "To": "S0139"
         },
         {
-            "From": "K0787",
-            "To": "S0139"
-        },
-        {
-            "From": "K0788",
-            "To": "S0139"
-        },
-        {
-            "From": "K0789",
-            "To": "S0139"
-        },
-        {
             "From": "K0790",
             "To": "S0139"
         },
         {
-            "From": "K0791",
-            "To": "S0139"
-        },
-        {
-            "From": "K0792",
-            "To": "S0139"
-        },
-        {
-            "From": "K0793",
-            "To": "S0139"
-        },
-        {
             "From": "K0794",
-            "To": "S0128"
-        },
-        {
-            "From": "K0795",
             "To": "S0128"
         },
         {
@@ -13029,31 +12765,7 @@
             "To": "S0129"
         },
         {
-            "From": "K0799",
-            "To": "S0129"
-        },
-        {
             "From": "K0800",
-            "To": "S0129"
-        },
-        {
-            "From": "K0801",
-            "To": "S0129"
-        },
-        {
-            "From": "K0802",
-            "To": "S0129"
-        },
-        {
-            "From": "K0803",
-            "To": "S0129"
-        },
-        {
-            "From": "K0804",
-            "To": "S0129"
-        },
-        {
-            "From": "K0805",
             "To": "S0129"
         },
         {
