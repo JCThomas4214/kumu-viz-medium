@@ -257,14 +257,6 @@
             "Source": []
         },
         {
-            "Label": "A0417",
-            "Type": "Abilities",
-            "Description": "Write a DLL that pops a message box with text (or other effect).",
-            "Topic": "Tool Development",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "A0419",
             "Type": "Abilities",
             "Description": "Given a 4-6 person team and incomplete customer requirements/assigned scenario, develop a tool.",
@@ -507,22 +499,6 @@
             "Source": []
         },
         {
-            "Label": "A0583",
-            "Type": "Abilities",
-            "Description": "Unique C++ Tools",
-            "Topic": "C++",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0584",
-            "Type": "Abilities",
-            "Description": "C++ Types",
-            "Topic": "C++",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "A0602",
             "Type": "Abilities",
             "Description": "Conditional Statements",
@@ -637,14 +613,6 @@
             "Type": "Abilities",
             "Description": "Static/Dynamic Tools",
             "Topic": "Reverse Engineering",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0617",
-            "Type": "Abilities",
-            "Description": "Concepts",
-            "Topic": "Vulnerability Research",
             "OPR": "",
             "Source": []
         },
@@ -823,14 +791,6 @@
             "Source": [
                 "https://gitlab.com/90cos/public/mttl/-/merge_requests/17"
             ]
-        },
-        {
-            "Label": "A0729",
-            "Type": "Abilities",
-            "Description": "Create a class constructor or destructor",
-            "Topic": "Python",
-            "OPR": "",
-            "Source": []
         },
         {
             "Label": "A0730",
@@ -10487,6 +10447,14 @@
             "Source": []
         },
         {
+            "Label": "S0382",
+            "Type": "Skills",
+            "Description": "Create a class constructor or destructor",
+            "Topic": "Python",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "T0001",
             "Type": "Tasks",
             "Description": "(U) Modify cyber capabilities to detect and disrupt nation-state cyber threat actors across the threat chain (kill chain) of adversary execution",
@@ -11061,10 +11029,6 @@
             "To": "A0408"
         },
         {
-            "From": "A0417",
-            "To": "A0408"
-        },
-        {
             "From": "A0419",
             "To": "T0005"
         },
@@ -11125,14 +11089,6 @@
             "To": "T0039"
         },
         {
-            "From": "A0583",
-            "To": "T0039"
-        },
-        {
-            "From": "A0584",
-            "To": "T0039"
-        },
-        {
             "From": "A0608",
             "To": "T0011"
         },
@@ -11167,10 +11123,6 @@
         {
             "From": "A0612",
             "To": "T0022"
-        },
-        {
-            "From": "A0617",
-            "To": "T0041"
         },
         {
             "From": "A0618",
@@ -11402,7 +11354,7 @@
         },
         {
             "From": "K0038",
-            "To": "A0729"
+            "To": "S0382"
         },
         {
             "From": "K0039",
