@@ -7383,7 +7383,7 @@
         {
             "Label": "S0018",
             "Type": "Skills",
-            "Description": "Snapshot a project",
+            "Description": "Commit changes to a working branch.",
             "Topic": "Git",
             "OPR": "",
             "Source": []
@@ -7391,7 +7391,7 @@
         {
             "Label": "S0019",
             "Type": "Skills",
-            "Description": "Create a branch and merge into a project",
+            "Description": "Create and checkout a branch.",
             "Topic": "Git",
             "OPR": "",
             "Source": []
@@ -10259,6 +10259,54 @@
             "Type": "Skills",
             "Description": "Create a class constructor or destructor",
             "Topic": "Python",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0383",
+            "Type": "Skills",
+            "Description": "Merge a branch.",
+            "Topic": "GitLab",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0384",
+            "Type": "Skills",
+            "Description": "Create an issue.",
+            "Topic": "GitLab",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0385",
+            "Type": "Skills",
+            "Description": "Create a merge request.",
+            "Topic": "GitLab",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0386",
+            "Type": "Skills",
+            "Description": "Checkout an existing branch.",
+            "Topic": "Git",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0389",
+            "Type": "Skills",
+            "Description": "Commit changes to the working branch.",
+            "Topic": "GitLab",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0390",
+            "Type": "Skills",
+            "Description": "Merge a branch.",
+            "Topic": "Git",
             "OPR": "",
             "Source": []
         },
