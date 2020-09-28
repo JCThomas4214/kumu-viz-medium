@@ -3069,69 +3069,9 @@
             ]
         },
         {
-            "Label": "K0288",
-            "Type": "Knowledge",
-            "Description": "etc",
-            "Topic": "Linux",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0289",
-            "Type": "Knowledge",
-            "Description": "init",
-            "Topic": "Linux",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0290",
-            "Type": "Knowledge",
-            "Description": "rc scripts",
-            "Topic": "Linux",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0291",
-            "Type": "Knowledge",
-            "Description": "systemd",
-            "Topic": "Linux",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0292",
             "Type": "Knowledge",
             "Description": "Understand process fundamentals in Linux",
-            "Topic": "Linux",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0293",
-            "Type": "Knowledge",
-            "Description": "Parentage",
-            "Topic": "Linux",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0294",
-            "Type": "Knowledge",
-            "Description": "Daemons",
-            "Topic": "Linux",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0295",
-            "Type": "Knowledge",
-            "Description": "Resource Limits",
             "Topic": "Linux",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -3147,48 +3087,6 @@
             "Source": [
                 "ACC CCD CDD TTL"
             ]
-        },
-        {
-            "Label": "K0297",
-            "Type": "Knowledge",
-            "Description": "Ignore",
-            "Topic": "Linux",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0298",
-            "Type": "Knowledge",
-            "Description": "Catch",
-            "Topic": "Linux",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0299",
-            "Type": "Knowledge",
-            "Description": "Handle",
-            "Topic": "Linux",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0300",
-            "Type": "Knowledge",
-            "Description": "Default Action",
-            "Topic": "Linux",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0301",
-            "Type": "Knowledge",
-            "Description": "Supported Signals",
-            "Topic": "Linux",
-            "OPR": "",
-            "Source": []
         },
         {
             "Label": "K0302",
@@ -4066,7 +3964,7 @@
             "Label": "K0462",
             "Type": "Knowledge",
             "Description": "90 IOS-Supported Organizations",
-            "Topic": "Supporting/Supported Organizations",
+            "Topic": "Organization Overview",
             "OPR": "",
             "Source": []
         },
@@ -4074,7 +3972,7 @@
             "Label": "K0463",
             "Type": "Knowledge",
             "Description": "Organizations Supporting 90 IOS",
-            "Topic": "Supporting/Supported Organizations",
+            "Topic": "Organization Overview",
             "OPR": "",
             "Source": []
         },
@@ -4082,7 +3980,7 @@
             "Label": "K0464",
             "Type": "Knowledge",
             "Description": "Mission Area Responsibilities of Supported/Supporting Organizations",
-            "Topic": "Supporting/Supported Organizations",
+            "Topic": "Organization Overview",
             "OPR": "",
             "Source": []
         },
@@ -5434,14 +5332,6 @@
             "Label": "K0664",
             "Type": "Knowledge",
             "Description": "Distinguish between user stories, tasks, and subtasks.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0665",
-            "Type": "Knowledge",
-            "Description": "List internal and external organizations associated with 90 COS (90 COS, dev teams, etc)",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -11997,26 +11887,6 @@
             "To": "A0429"
         },
         {
-            "From": "K0288",
-            "To": "K0287"
-        },
-        {
-            "From": "K0289",
-            "To": "K0287"
-        },
-        {
-            "From": "K0290",
-            "To": "K0287"
-        },
-        {
-            "From": "K0290",
-            "To": "S0155"
-        },
-        {
-            "From": "K0291",
-            "To": "K0287"
-        },
-        {
             "From": "K0292",
             "To": "A0412"
         },
@@ -12033,22 +11903,6 @@
             "To": "A0429"
         },
         {
-            "From": "K0293",
-            "To": "K0292"
-        },
-        {
-            "From": "K0294",
-            "To": "K0292"
-        },
-        {
-            "From": "K0295",
-            "To": "K0292"
-        },
-        {
-            "From": "K0295",
-            "To": "S0155"
-        },
-        {
             "From": "K0296",
             "To": "A0412"
         },
@@ -12063,30 +11917,6 @@
         {
             "From": "K0296",
             "To": "A0429"
-        },
-        {
-            "From": "K0297",
-            "To": "K0296"
-        },
-        {
-            "From": "K0298",
-            "To": "K0296"
-        },
-        {
-            "From": "K0299",
-            "To": "K0296"
-        },
-        {
-            "From": "K0300",
-            "To": "K0296"
-        },
-        {
-            "From": "K0300",
-            "To": "S0155"
-        },
-        {
-            "From": "K0301",
-            "To": "K0296"
         },
         {
             "From": "K0308",
