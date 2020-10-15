@@ -933,6 +933,14 @@
             "Source": []
         },
         {
+            "Label": "A0746",
+            "Type": "Abilities",
+            "Description": "Modify the Master Training Task List (MTTL).",
+            "Topic": "",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "K0001",
             "Type": "Knowledge",
             "Description": "Understand different Git workflows",
@@ -3923,7 +3931,7 @@
         {
             "Label": "K0457",
             "Type": "Knowledge",
-            "Description": "90 IOS Mission and Vision",
+            "Description": "90 COS Mission and Vision",
             "Topic": "Organization Overview",
             "OPR": "",
             "Source": []
@@ -3931,7 +3939,7 @@
         {
             "Label": "K0458",
             "Type": "Knowledge",
-            "Description": "90 IOS Organizational Structure",
+            "Description": "90 COS Organizational Structure",
             "Topic": "Organization Overview",
             "OPR": "",
             "Source": []
@@ -3963,7 +3971,7 @@
         {
             "Label": "K0462",
             "Type": "Knowledge",
-            "Description": "90 IOS-Supported Organizations",
+            "Description": "90 COS-Supported Organizations",
             "Topic": "Organization Overview",
             "OPR": "",
             "Source": []
@@ -3971,7 +3979,7 @@
         {
             "Label": "K0463",
             "Type": "Knowledge",
-            "Description": "Organizations Supporting 90 IOS",
+            "Description": "Organizations Supporting 90 COS",
             "Topic": "Organization Overview",
             "OPR": "",
             "Source": []
@@ -3981,14 +3989,6 @@
             "Type": "Knowledge",
             "Description": "Mission Area Responsibilities of Supported/Supporting Organizations",
             "Topic": "Organization Overview",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0465",
-            "Type": "Knowledge",
-            "Description": "90 IOS Operations",
-            "Topic": "Current 90 IOS Operations",
             "OPR": "",
             "Source": []
         },
@@ -4003,7 +4003,7 @@
         {
             "Label": "K0467",
             "Type": "Knowledge",
-            "Description": "90 IOS CMF-Role",
+            "Description": "90 COS CMF-Roles",
             "Topic": "Cyber Mission Forces",
             "OPR": "",
             "Source": []
@@ -4019,7 +4019,7 @@
         {
             "Label": "K0469",
             "Type": "Knowledge",
-            "Description": "90 IOS CMF Teams",
+            "Description": "90 COS CMF Teams",
             "Topic": "Cyber Mission Forces",
             "OPR": "",
             "Source": []
@@ -4027,24 +4027,8 @@
         {
             "Label": "K0470",
             "Type": "Knowledge",
-            "Description": "90 IOS CMF Team Back-Shop Support Requests/Receipt",
+            "Description": "90 COS CMF Team Back-Shop Support Requests/Receipt",
             "Topic": "Cyber Mission Forces",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0471",
-            "Type": "Knowledge",
-            "Description": "Common 90 IOS Exercises",
-            "Topic": "Exercises",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0472",
-            "Type": "Knowledge",
-            "Description": "Typical 90 IOS Exercise Roles",
-            "Topic": "Exercises",
             "OPR": "",
             "Source": []
         },
@@ -7099,6 +7083,134 @@
             "Type": "Knowledge",
             "Description": "Describe what actions to take if the Development team cannot complete work by the end of the Sprint.",
             "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0908",
+            "Type": "Knowledge",
+            "Description": "Identify the members of the flight and their roles",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0909",
+            "Type": "Knowledge",
+            "Description": "Identify which Policy documents govern our function and where to locate them.",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0910",
+            "Type": "Knowledge",
+            "Description": "Recognize the major courses which are in each workroles training roadmap.",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0911",
+            "Type": "Knowledge",
+            "Description": "Describe the flights products and/or deliverables to the unit.",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0912",
+            "Type": "Knowledge",
+            "Description": "Describe the steps and/or events in evaluations process.",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0913",
+            "Type": "Knowledge",
+            "Description": "Summarize the CYT flight's working agreement.",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0914",
+            "Type": "Knowledge",
+            "Description": "List information about examination scheduling",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0915",
+            "Type": "Knowledge",
+            "Description": "Describe the process to contribute to the Master Training Task List (MTTL).",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0916",
+            "Type": "Knowledge",
+            "Description": "Describe the four KSATs (Knowledge, Skills, Abilities, Tasks).",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0917",
+            "Type": "Knowledge",
+            "Description": "Describe the process to request training.",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0918",
+            "Type": "Knowledge",
+            "Description": "Describe the process to request a Stan/Eval evaluation.",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0919",
+            "Type": "Knowledge",
+            "Description": "Describe the role of a Stan/Eval Examiner (SEE).",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0920",
+            "Type": "Knowledge",
+            "Description": "Describe a Virtual Training Record and its purpose.",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0921",
+            "Type": "Knowledge",
+            "Description": "Describe the software systems used by the flight to perform it's mission",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0922",
+            "Type": "Knowledge",
+            "Description": "Describe the steps and/or events in training process.",
+            "Topic": "CYT Admin",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0923",
+            "Type": "Knowledge",
+            "Description": "Describe the Flight methods and systems for task tracking",
+            "Topic": "CYT Admin",
             "OPR": "",
             "Source": []
         },
@@ -10609,6 +10721,14 @@
             "Type": "Tasks",
             "Description": "Utilize virtualization software to develop, emulate, and execute tools and systems",
             "Topic": "",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "T0043",
+            "Type": "Tasks",
+            "Description": "Conduct an Evaluation.",
+            "Topic": "see",
             "OPR": "",
             "Source": []
         }
