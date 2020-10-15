@@ -10313,6 +10313,14 @@
             "Source": []
         },
         {
+            "Label": "S0391",
+            "Type": "Skills",
+            "Description": "Create and utilize a function prototype",
+            "Topic": "C",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "T0001",
             "Type": "Tasks",
             "Description": "(U) Modify cyber capabilities to detect and disrupt nation-state cyber threat actors across the threat chain (kill chain) of adversary execution",
