@@ -355,7 +355,7 @@
         {
             "Label": "A0433",
             "Type": "Abilities",
-            "Description": "Develop a Windows Remote Access Tool & a Linus Remote Access Tool",
+            "Description": "Develop a Windows Remote Access Tool & a Linux Remote Access Tool",
             "Topic": "Windows",
             "OPR": "",
             "Source": []
@@ -1498,7 +1498,7 @@
             "Label": "K0062",
             "Type": "Knowledge",
             "Description": "Describe the libraries commonly used to aid in serialization.",
-            "Topic": "Python",
+            "Topic": "Python, C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2050,16 +2050,6 @@
             "Label": "K0145",
             "Type": "Knowledge",
             "Description": "Describe calling a library module via its Application Binary Interface (ABI)",
-            "Topic": "C",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0146",
-            "Type": "Knowledge",
-            "Description": "Describe the libraries commonly used to aid in serialization.",
             "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -11685,10 +11675,6 @@
         {
             "From": "K0139",
             "To": "A0093"
-        },
-        {
-            "From": "K0146",
-            "To": "T0011"
         },
         {
             "From": "K0148",
