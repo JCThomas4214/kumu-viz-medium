@@ -1,16 +1,6 @@
 {
     "elements": [
         {
-            "Label": "A0004",
-            "Type": "Abilities",
-            "Description": "Write pseudocode to solve a programming problem",
-            "Topic": "Programming Fundamentals",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "A0018",
             "Type": "Abilities",
             "Description": "Analyze a problem to formulate a software solution.",
@@ -35,6 +25,16 @@
             "Type": "Abilities",
             "Description": "Implement file management operations.",
             "Topic": "Python",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "A0061",
+            "Type": "Abilities",
+            "Description": "Create and implement functions to meet a requirement.",
+            "Topic": "Programming Fundamentals",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -91,12 +91,14 @@
             ]
         },
         {
-            "Label": "A0117",
+            "Label": "A0004",
             "Type": "Abilities",
-            "Description": "Develop client/server network programs.",
-            "Topic": "Python",
-            "OPR": "",
-            "Source": []
+            "Description": "Write pseudocode to solve a programming problem",
+            "Topic": "Programming Fundamentals",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
         },
         {
             "Label": "A0179",
@@ -167,10 +169,10 @@
             ]
         },
         {
-            "Label": "A0061",
+            "Label": "A0358",
             "Type": "Abilities",
-            "Description": "Create and implement functions to meet a requirement.",
-            "Topic": "Programming Fundamentals",
+            "Description": "Write application/tool installation documentation",
+            "Topic": "Development Operations",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -197,10 +199,10 @@
             ]
         },
         {
-            "Label": "A0358",
+            "Label": "A0408",
             "Type": "Abilities",
-            "Description": "Write application/tool installation documentation",
-            "Topic": "Development Operations",
+            "Description": "Given a 4-6 person team and customer requirements/assigned scenario, develop a tool.",
+            "Topic": "Tool Development",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -325,6 +327,14 @@
             "Source": []
         },
         {
+            "Label": "A0117",
+            "Type": "Abilities",
+            "Description": "Develop client/server network programs.",
+            "Topic": "Python",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "A0429",
             "Type": "Abilities",
             "Description": "Build a Linux tool in C to spoof ARP for host to assume MITM",
@@ -343,30 +353,12 @@
             "Source": []
         },
         {
-            "Label": "A0433",
-            "Type": "Abilities",
-            "Description": "Develop a Windows Remote Access Tool & a Linux Remote Access Tool",
-            "Topic": "Windows",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "A0434",
             "Type": "Abilities",
             "Description": "Develop Remote Access Trojan Operator Interface",
             "Topic": "Tool Development",
             "OPR": "",
             "Source": []
-        },
-        {
-            "Label": "A0408",
-            "Type": "Abilities",
-            "Description": "Given a 4-6 person team and customer requirements/assigned scenario, develop a tool.",
-            "Topic": "Tool Development",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
         },
         {
             "Label": "A0444",
@@ -377,10 +369,18 @@
             "Source": []
         },
         {
-            "Label": "A0461",
+            "Label": "A0459",
             "Type": "Abilities",
-            "Description": "Organize and facilitate a session with stakeholders to break down a solution or feature as progressively smaller items that may be completed in Sprints.",
+            "Description": "Create, Maintain, and Refine the Product Backlog",
             "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "A0433",
+            "Type": "Abilities",
+            "Description": "Develop a Windows Remote Access Tool & a Linux Remote Access Tool",
+            "Topic": "Windows",
             "OPR": "",
             "Source": []
         },
@@ -401,10 +401,10 @@
             "Source": []
         },
         {
-            "Label": "A0508",
+            "Label": "A0461",
             "Type": "Abilities",
-            "Description": "Develop a Simple Driver",
-            "Topic": "Windows Kernel Development",
+            "Description": "Organize and facilitate a session with stakeholders to break down a solution or feature as progressively smaller items that may be completed in Sprints.",
+            "Topic": "Agile",
             "OPR": "",
             "Source": []
         },
@@ -413,6 +413,14 @@
             "Type": "Abilities",
             "Description": "Develop a system program (Kernel)",
             "Topic": "Linux Kernel Development",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "A0508",
+            "Type": "Abilities",
+            "Description": "Develop a Simple Driver",
+            "Topic": "Windows Kernel Development",
             "OPR": "",
             "Source": []
         },
@@ -433,14 +441,6 @@
             "Source": []
         },
         {
-            "Label": "A0561",
-            "Type": "Abilities",
-            "Description": "Demonstrate the ability to create, reuse and import modules",
-            "Topic": "Python",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "A0563",
             "Type": "Abilities",
             "Description": "Programming with Functions and Metaclasses",
@@ -451,18 +451,18 @@
             ]
         },
         {
-            "Label": "A0564",
+            "Label": "A0561",
             "Type": "Abilities",
-            "Description": "Multi-threading",
+            "Description": "Demonstrate the ability to create, reuse and import modules",
             "Topic": "Python",
             "OPR": "",
             "Source": []
         },
         {
-            "Label": "A0579",
+            "Label": "A0564",
             "Type": "Abilities",
-            "Description": "Shared Pointers",
-            "Topic": "C++",
+            "Description": "Multi-threading",
+            "Topic": "Python",
             "OPR": "",
             "Source": []
         },
@@ -475,9 +475,9 @@
             "Source": []
         },
         {
-            "Label": "A0581",
+            "Label": "A0579",
             "Type": "Abilities",
-            "Description": "Classes",
+            "Description": "Shared Pointers",
             "Topic": "C++",
             "OPR": "",
             "Source": []
@@ -499,10 +499,10 @@
             "Source": []
         },
         {
-            "Label": "A0605",
+            "Label": "A0581",
             "Type": "Abilities",
-            "Description": "Packet Capture (PCAP) File Analysis",
-            "Topic": "Networking Concepts",
+            "Description": "Classes",
+            "Topic": "C++",
             "OPR": "",
             "Source": []
         },
@@ -511,14 +511,6 @@
             "Type": "Abilities",
             "Description": "Capture Filters",
             "Topic": "Networking Concepts",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "A0459",
-            "Type": "Abilities",
-            "Description": "Create, Maintain, and Refine the Product Backlog",
-            "Topic": "Agile",
             "OPR": "",
             "Source": []
         },
@@ -541,22 +533,28 @@
             ]
         },
         {
+            "Label": "A0605",
+            "Type": "Abilities",
+            "Description": "Packet Capture (PCAP) File Analysis",
+            "Topic": "Networking Concepts",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "A0610",
+            "Type": "Abilities",
+            "Description": "Disassemble Binary",
+            "Topic": "Reverse Engineering",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "A0609",
             "Type": "Abilities",
             "Description": "WinDbg Dynamic Analysis",
             "Topic": "Reverse Engineering",
             "OPR": "",
             "Source": []
-        },
-        {
-            "Label": "A0611",
-            "Type": "Abilities",
-            "Description": "Static Analysis",
-            "Topic": "Reverse Engineering",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
         },
         {
             "Label": "A0612",
@@ -593,12 +591,14 @@
             "Source": []
         },
         {
-            "Label": "A0616",
+            "Label": "A0611",
             "Type": "Abilities",
-            "Description": "Static/Dynamic Tools",
+            "Description": "Static Analysis",
             "Topic": "Reverse Engineering",
-            "OPR": "",
-            "Source": []
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
         },
         {
             "Label": "A0621",
@@ -633,22 +633,20 @@
             "Source": []
         },
         {
+            "Label": "A0616",
+            "Type": "Abilities",
+            "Description": "Static/Dynamic Tools",
+            "Topic": "Reverse Engineering",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "A0627",
             "Type": "Abilities",
             "Description": "Bitwise Protocol",
             "Topic": "Networking Concepts",
             "OPR": "",
             "Source": []
-        },
-        {
-            "Label": "A0628",
-            "Type": "Abilities",
-            "Description": "Demonstrate the ability to develop C client/server network programs.",
-            "Topic": "C",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
         },
         {
             "Label": "A0650",
@@ -689,12 +687,14 @@
             ]
         },
         {
-            "Label": "A0610",
+            "Label": "A0733",
             "Type": "Abilities",
-            "Description": "Disassemble Binary",
-            "Topic": "Reverse Engineering",
+            "Description": "Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).",
+            "Topic": "Organizational Security",
             "OPR": "",
-            "Source": []
+            "Source": [
+                "NCWF"
+            ]
         },
         {
             "Label": "A0734",
@@ -755,12 +755,14 @@
             "Source": []
         },
         {
-            "Label": "A0742",
+            "Label": "A0628",
             "Type": "Abilities",
-            "Description": "Create a service in docker (http, database, etc.) with persistent storage",
-            "Topic": "Docker",
-            "OPR": "",
-            "Source": []
+            "Description": "Demonstrate the ability to develop C client/server network programs.",
+            "Topic": "C",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
         },
         {
             "Label": "A0743",
@@ -787,14 +789,12 @@
             "Source": []
         },
         {
-            "Label": "A0733",
+            "Label": "A0742",
             "Type": "Abilities",
-            "Description": "Ability to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation).",
-            "Topic": "Organizational Security",
+            "Description": "Create a service in docker (http, database, etc.) with persistent storage",
+            "Topic": "Docker",
             "OPR": "",
-            "Source": [
-                "NCWF"
-            ]
+            "Source": []
         },
         {
             "Label": "K0001",
@@ -887,6 +887,16 @@
             ]
         },
         {
+            "Label": "K0011",
+            "Type": "Knowledge",
+            "Description": "Understand the scope of a declared variable.",
+            "Topic": "Programming Fundamentals",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
             "Label": "K0012",
             "Type": "Knowledge",
             "Description": "Understand how return values are used in a function.",
@@ -907,10 +917,10 @@
             ]
         },
         {
-            "Label": "K0011",
+            "Label": "K0014",
             "Type": "Knowledge",
-            "Description": "Understand the scope of a declared variable.",
-            "Topic": "Programming Fundamentals",
+            "Description": "Understand how to declare and implement a Dictionary.",
+            "Topic": "Python",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -965,9 +975,9 @@
             ]
         },
         {
-            "Label": "K0014",
+            "Label": "K0021",
             "Type": "Knowledge",
-            "Description": "Understand how to declare and implement a Dictionary.",
+            "Description": "Describe standards in Python Enhancement Proposal (PEP8)",
             "Topic": "Python",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -988,16 +998,6 @@
             "Label": "K0023",
             "Type": "Knowledge",
             "Description": "Identify differences between Python 2 vs Python 3",
-            "Topic": "Python",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0024",
-            "Type": "Knowledge",
-            "Description": "Understand how to use the Python Standard Library",
             "Topic": "Python",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -1185,20 +1185,20 @@
             ]
         },
         {
-            "Label": "K0021",
+            "Label": "K0045",
             "Type": "Knowledge",
-            "Description": "Describe standards in Python Enhancement Proposal (PEP8)",
-            "Topic": "Python",
+            "Description": "Describe the concepts associated with traversal techniques.",
+            "Topic": "Algorithms",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
             ]
         },
         {
-            "Label": "K0045",
+            "Label": "K0024",
             "Type": "Knowledge",
-            "Description": "Describe the concepts associated with traversal techniques.",
-            "Topic": "Algorithms",
+            "Description": "Understand how to use the Python Standard Library",
+            "Topic": "Python",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -1218,6 +1218,16 @@
             "Label": "K0048",
             "Type": "Knowledge",
             "Description": "Describe techniques to determine the weight of a given path in a weighted graph.",
+            "Topic": "Algorithms",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "K0046",
+            "Type": "Knowledge",
+            "Description": "Describe the behavior of depth first traversal.",
             "Topic": "Algorithms",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -1259,16 +1269,6 @@
             "Topic": "Algorithms",
             "OPR": "",
             "Source": []
-        },
-        {
-            "Label": "K0053",
-            "Type": "Knowledge",
-            "Description": "Describe the causes and techniques to avoid hash collisions",
-            "Topic": "Algorithms",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
         },
         {
             "Label": "K0055",
@@ -1379,19 +1379,19 @@
             ]
         },
         {
-            "Label": "K0046",
+            "Label": "K0066",
             "Type": "Knowledge",
-            "Description": "Describe the behavior of depth first traversal.",
-            "Topic": "Algorithms",
+            "Description": "Describe the Open Systems Interconnect (OSI) model",
+            "Topic": "Networking Concepts",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
             ]
         },
         {
-            "Label": "K0066",
+            "Label": "K0068",
             "Type": "Knowledge",
-            "Description": "Describe the Open Systems Interconnect (OSI) model",
+            "Description": "Understand how to use functions and components of the Socket Library",
             "Topic": "Networking Concepts",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -1439,10 +1439,10 @@
             ]
         },
         {
-            "Label": "K0081",
+            "Label": "K0053",
             "Type": "Knowledge",
-            "Description": "Understand how an IPv4 address is constructed.",
-            "Topic": "Networking Concepts",
+            "Description": "Describe the causes and techniques to avoid hash collisions",
+            "Topic": "Algorithms",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -1569,20 +1569,10 @@
             ]
         },
         {
-            "Label": "K0068",
+            "Label": "K0081",
             "Type": "Knowledge",
-            "Description": "Understand how to use functions and components of the Socket Library",
+            "Description": "Understand how an IPv4 address is constructed.",
             "Topic": "Networking Concepts",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0103",
-            "Type": "Knowledge",
-            "Description": "Understand how to create and utilize pointers",
-            "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -1602,6 +1592,16 @@
             "Label": "K0105",
             "Type": "Knowledge",
             "Description": "Understand the purpose of the pre-processor.",
+            "Topic": "C",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "K0106",
+            "Type": "Knowledge",
+            "Description": "Understand how to utilize type casting",
             "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -1647,10 +1647,10 @@
             "Source": []
         },
         {
-            "Label": "K0106",
+            "Label": "K0111",
             "Type": "Knowledge",
-            "Description": "Understand how to utilize type casting",
-            "Topic": "C",
+            "Description": "Identify and understand bitwise operators. ",
+            "Topic": "Programming Fundamentals",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -1757,10 +1757,10 @@
             ]
         },
         {
-            "Label": "K0129",
+            "Label": "K0103",
             "Type": "Knowledge",
-            "Description": "Describe the storage considerations of using Unicode",
-            "Topic": "Unicode",
+            "Description": "Understand how to create and utilize pointers",
+            "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -1775,10 +1775,10 @@
             "Source": []
         },
         {
-            "Label": "K0132",
+            "Label": "K0129",
             "Type": "Knowledge",
-            "Description": "Understand the varying degrees of Asymptotic notation (Big-O) pertaining to algorithms.",
-            "Topic": "Algorithms",
+            "Description": "Describe the storage considerations of using Unicode",
+            "Topic": "Unicode",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -1825,10 +1825,10 @@
             ]
         },
         {
-            "Label": "K0111",
+            "Label": "K0137",
             "Type": "Knowledge",
-            "Description": "Identify and understand bitwise operators. ",
-            "Topic": "Programming Fundamentals",
+            "Description": "Know the runtime efficiency for a Quick Sort",
+            "Topic": "Algorithms",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -1853,10 +1853,10 @@
             "Source": []
         },
         {
-            "Label": "K0137",
+            "Label": "K0141",
             "Type": "Knowledge",
-            "Description": "Know the runtime efficiency for a Quick Sort",
-            "Topic": "Algorithms",
+            "Description": "Describe a portable executable (PE) file.",
+            "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -1963,6 +1963,16 @@
             ]
         },
         {
+            "Label": "K0132",
+            "Type": "Knowledge",
+            "Description": "Understand the varying degrees of Asymptotic notation (Big-O) pertaining to algorithms.",
+            "Topic": "Algorithms",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
             "Label": "K0155",
             "Type": "Knowledge",
             "Description": "Describe lock implementation",
@@ -1976,16 +1986,6 @@
             "Label": "K0156",
             "Type": "Knowledge",
             "Description": "Identify causes of race conditions",
-            "Topic": "Operating System",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0157",
-            "Type": "Knowledge",
-            "Description": "Identify causes of deadlocks",
             "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -2043,16 +2043,6 @@
             ]
         },
         {
-            "Label": "K0141",
-            "Type": "Knowledge",
-            "Description": "Describe a portable executable (PE) file.",
-            "Topic": "C",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "K0164",
             "Type": "Knowledge",
             "Description": "Understand Inter Process Communication (IPC) fundamentals",
@@ -2076,6 +2066,16 @@
             "Label": "K0166",
             "Type": "Knowledge",
             "Description": "Describe output redirection using pipes",
+            "Topic": "Operating System",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "K0168",
+            "Type": "Knowledge",
+            "Description": "Understand operating system memory hierarchy",
             "Topic": "Operating System",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -2239,16 +2239,6 @@
             ]
         },
         {
-            "Label": "K0168",
-            "Type": "Knowledge",
-            "Description": "Understand operating system memory hierarchy",
-            "Topic": "Operating System",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "K0191",
             "Type": "Knowledge",
             "Description": "Understand how to prevent a buffer overflow",
@@ -2319,6 +2309,16 @@
             ]
         },
         {
+            "Label": "K0157",
+            "Type": "Knowledge",
+            "Description": "Identify causes of deadlocks",
+            "Topic": "Operating System",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
             "Label": "K0198",
             "Type": "Knowledge",
             "Description": "Describe characteristics of a secure cryptographic hash",
@@ -2332,16 +2332,6 @@
             "Label": "K0201",
             "Type": "Knowledge",
             "Description": "Describe specifics about the x86 architecture.",
-            "Topic": "Assembly Programming",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0202",
-            "Type": "Knowledge",
-            "Description": "Describe specifics about the x86-64 architecture",
             "Topic": "Assembly Programming",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -2419,6 +2409,16 @@
             ]
         },
         {
+            "Label": "K0211",
+            "Type": "Knowledge",
+            "Description": "Describe how to find two's complement of a binary number.",
+            "Topic": "Assembly Programming",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
             "Label": "K0213",
             "Type": "Knowledge",
             "Description": "Identify and describe the 64-bit registers",
@@ -2439,9 +2439,9 @@
             ]
         },
         {
-            "Label": "K0215",
+            "Label": "K0202",
             "Type": "Knowledge",
-            "Description": "Identify and describe the lower 16-bit registers",
+            "Description": "Describe specifics about the x86-64 architecture",
             "Topic": "Assembly Programming",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -2459,9 +2459,9 @@
             ]
         },
         {
-            "Label": "K0217",
+            "Label": "K0215",
             "Type": "Knowledge",
-            "Description": "Identify and describe the lower 8-bit registers",
+            "Description": "Identify and describe the lower 16-bit registers",
             "Topic": "Assembly Programming",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -2575,16 +2575,6 @@
             ]
         },
         {
-            "Label": "K0211",
-            "Type": "Knowledge",
-            "Description": "Describe how to find two's complement of a binary number.",
-            "Topic": "Assembly Programming",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "K0229",
             "Type": "Knowledge",
             "Description": "Push/pop/ret",
@@ -2608,6 +2598,16 @@
             "Label": "K0231",
             "Type": "Knowledge",
             "Description": "Relationship to functions",
+            "Topic": "Assembly Programming",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "K0232",
+            "Type": "Knowledge",
+            "Description": "With references and required resources, describe the purpose and use of functions with respect to use in assembly.",
             "Topic": "Assembly Programming",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -2645,6 +2645,16 @@
             ]
         },
         {
+            "Label": "K0217",
+            "Type": "Knowledge",
+            "Description": "Identify and describe the lower 8-bit registers",
+            "Topic": "Assembly Programming",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
             "Label": "K0236",
             "Type": "Knowledge",
             "Description": "Name mangling",
@@ -2655,19 +2665,9 @@
             ]
         },
         {
-            "Label": "K0237",
+            "Label": "K0238",
             "Type": "Knowledge",
-            "Description": "With references and required resources, describe the purpose and use of the various system flag registers.",
-            "Topic": "Assembly Programming",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0232",
-            "Type": "Knowledge",
-            "Description": "With references and required resources, describe the purpose and use of functions with respect to use in assembly.",
+            "Description": "How assembly programs set flags",
             "Topic": "Assembly Programming",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -2695,9 +2695,9 @@
             ]
         },
         {
-            "Label": "K0238",
+            "Label": "K0241",
             "Type": "Knowledge",
-            "Description": "How assembly programs set flags",
+            "Description": "With references and required resources, describe the purpose and use of system interrupts.",
             "Topic": "Assembly Programming",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -2833,6 +2833,16 @@
             ]
         },
         {
+            "Label": "K0237",
+            "Type": "Knowledge",
+            "Description": "With references and required resources, describe the purpose and use of the various system flag registers.",
+            "Topic": "Assembly Programming",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
             "Label": "K0263",
             "Type": "Knowledge",
             "Description": "Describe Development Operations (DevOps)",
@@ -2863,30 +2873,10 @@
             ]
         },
         {
-            "Label": "K0268",
-            "Type": "Knowledge",
-            "Description": "Describe calling conventions used in Windows API (32it & 64bit)",
-            "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "K0273",
             "Type": "Knowledge",
             "Description": "Understand the different Windows APIs",
             "Topic": "Windows",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "K0241",
-            "Type": "Knowledge",
-            "Description": "With references and required resources, describe the purpose and use of system interrupts.",
-            "Topic": "Assembly Programming",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -2923,6 +2913,16 @@
             ]
         },
         {
+            "Label": "K0292",
+            "Type": "Knowledge",
+            "Description": "Understand process fundamentals in Linux",
+            "Topic": "Linux",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
             "Label": "K0296",
             "Type": "Knowledge",
             "Description": "Understand signal fundamentals in Linux",
@@ -2943,20 +2943,20 @@
             ]
         },
         {
+            "Label": "K0268",
+            "Type": "Knowledge",
+            "Description": "Describe calling conventions used in Windows API (32it & 64bit)",
+            "Topic": "Windows",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
             "Label": "K0303",
             "Type": "Knowledge",
             "Description": "Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).",
             "Topic": "Risk Management",
-            "OPR": "",
-            "Source": [
-                "NCWF"
-            ]
-        },
-        {
-            "Label": "K0304",
-            "Type": "Knowledge",
-            "Description": "Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy. ",
-            "Topic": "Laws & Ethics",
             "OPR": "",
             "Source": [
                 "NCWF"
@@ -3023,10 +3023,10 @@
             ]
         },
         {
-            "Label": "K0311",
+            "Label": "K0304",
             "Type": "Knowledge",
-            "Description": "Knowledge of organization's evaluation and validation requirements.",
-            "Topic": "Risk Management",
+            "Description": "Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy. ",
+            "Topic": "Laws & Ethics",
             "OPR": "",
             "Source": [
                 "NCWF"
@@ -3103,16 +3103,6 @@
             ]
         },
         {
-            "Label": "K0292",
-            "Type": "Knowledge",
-            "Description": "Understand process fundamentals in Linux",
-            "Topic": "Linux",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "K0319",
             "Type": "Knowledge",
             "Description": "Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, Procedural Language/Structured Query Language [PL/SQL] and injections, race conditions, covert channel, replay, return-oriented attacks, malicious code).",
@@ -3133,10 +3123,10 @@
             ]
         },
         {
-            "Label": "K0321",
+            "Label": "K0311",
             "Type": "Knowledge",
-            "Description": "Knowledge of software debugging principles.",
-            "Topic": "Debugging",
+            "Description": "Knowledge of organization's evaluation and validation requirements.",
+            "Topic": "Risk Management",
             "OPR": "",
             "Source": [
                 "NCWF"
@@ -3153,10 +3143,20 @@
             ]
         },
         {
-            "Label": "K0324",
+            "Label": "K0323",
             "Type": "Knowledge",
-            "Description": "Knowledge of software engineering.",
-            "Topic": "Software Engineering Fundamentals",
+            "Description": "Knowledge of software development models (e.g., Waterfall Model, Spiral Model).",
+            "Topic": "Software Development Process",
+            "OPR": "",
+            "Source": [
+                "NCWF"
+            ]
+        },
+        {
+            "Label": "K0321",
+            "Type": "Knowledge",
+            "Description": "Knowledge of software debugging principles.",
+            "Topic": "Debugging",
             "OPR": "",
             "Source": [
                 "NCWF"
@@ -3263,16 +3263,6 @@
             ]
         },
         {
-            "Label": "K0323",
-            "Type": "Knowledge",
-            "Description": "Knowledge of software development models (e.g., Waterfall Model, Spiral Model).",
-            "Topic": "Software Development Process",
-            "OPR": "",
-            "Source": [
-                "NCWF"
-            ]
-        },
-        {
             "Label": "K0335",
             "Type": "Knowledge",
             "Description": "Knowledge of security architecture concepts and enterprise architecture reference models (e.g., Zachman, Federal Enterprise Architecture [FEA]).",
@@ -3313,6 +3303,16 @@
             ]
         },
         {
+            "Label": "K0339",
+            "Type": "Knowledge",
+            "Description": "Knowledge of Personal Health Information (PHI) data security standards.",
+            "Topic": "Standards",
+            "OPR": "",
+            "Source": [
+                "NCWF"
+            ]
+        },
+        {
             "Label": "K0340",
             "Type": "Knowledge",
             "Description": "Knowledge of information technology (IT) risk management policies, requirements, and procedures.",
@@ -3337,6 +3337,16 @@
             "Type": "Knowledge",
             "Description": "Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services.",
             "Topic": "Networking Concepts",
+            "OPR": "",
+            "Source": [
+                "NCWF"
+            ]
+        },
+        {
+            "Label": "K0324",
+            "Type": "Knowledge",
+            "Description": "Knowledge of software engineering.",
+            "Topic": "Software Engineering Fundamentals",
             "OPR": "",
             "Source": [
                 "NCWF"
@@ -3373,22 +3383,12 @@
             ]
         },
         {
-            "Label": "K0366",
+            "Label": "K0367",
             "Type": "Knowledge",
-            "Description": "Describe the responsibilities of the Product Owner.",
+            "Description": "Distinguish between the responsibilities of the Product Owner and the rest of the scrum team.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
-        },
-        {
-            "Label": "K0339",
-            "Type": "Knowledge",
-            "Description": "Knowledge of Personal Health Information (PHI) data security standards.",
-            "Topic": "Standards",
-            "OPR": "",
-            "Source": [
-                "NCWF"
-            ]
         },
         {
             "Label": "K0371",
@@ -3527,6 +3527,14 @@
             "Source": []
         },
         {
+            "Label": "K0366",
+            "Type": "Knowledge",
+            "Description": "Describe the responsibilities of the Product Owner.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "K0392",
             "Type": "Knowledge",
             "Description": "Understand product vision.",
@@ -3546,14 +3554,6 @@
             "Label": "K0396",
             "Type": "Knowledge",
             "Description": "Understand techniques to plan product delivery over time.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0397",
-            "Type": "Knowledge",
-            "Description": "Developing Practical Product Strategies",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3615,6 +3615,14 @@
             "Source": []
         },
         {
+            "Label": "K0397",
+            "Type": "Knowledge",
+            "Description": "Developing Practical Product Strategies",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "K0409",
             "Type": "Knowledge",
             "Description": "Identify biases that may impact the Product Owner's capability to effectively deliver business value.",
@@ -3631,9 +3639,9 @@
             "Source": []
         },
         {
-            "Label": "K0367",
+            "Label": "K0413",
             "Type": "Knowledge",
-            "Description": "Distinguish between the responsibilities of the Product Owner and the rest of the scrum team.",
+            "Description": "Understand attributes of a Product Backlog item that help assess maximizing outcome.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3647,14 +3655,6 @@
             "Source": []
         },
         {
-            "Label": "K0413",
-            "Type": "Knowledge",
-            "Description": "Understand attributes of a Product Backlog item that help assess maximizing outcome.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0416",
             "Type": "Knowledge",
             "Description": "Describe value from the perspective of stakeholder groups.",
@@ -3663,9 +3663,9 @@
             "Source": []
         },
         {
-            "Label": "K0419",
+            "Label": "K0415",
             "Type": "Knowledge",
-            "Description": "Understand criteria for ordering the Product Backlog.",
+            "Description": "Understand value and techniques to measure value.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -3799,14 +3799,6 @@
             "Source": []
         },
         {
-            "Label": "K0415",
-            "Type": "Knowledge",
-            "Description": "Understand value and techniques to measure value.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0462",
             "Type": "Knowledge",
             "Description": "90 COS-Supported Organizations",
@@ -3827,6 +3819,14 @@
             "Type": "Knowledge",
             "Description": "Mission Area Responsibilities of Supported/Supporting Organizations",
             "Topic": "Organization Overview",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0466",
+            "Type": "Knowledge",
+            "Description": "Cyber Mission Forces (CMF) Teams",
+            "Topic": "Cyber Mission Forces",
             "OPR": "",
             "Source": []
         },
@@ -3975,14 +3975,6 @@
             "Source": []
         },
         {
-            "Label": "K0466",
-            "Type": "Knowledge",
-            "Description": "Cyber Mission Forces (CMF) Teams",
-            "Topic": "Cyber Mission Forces",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0488",
             "Type": "Knowledge",
             "Description": "Alternate Driver Architectures",
@@ -4015,6 +4007,14 @@
             "Source": []
         },
         {
+            "Label": "K0492",
+            "Type": "Knowledge",
+            "Description": "Shadow System Service Dispatch Table (SSDT)",
+            "Topic": "Windows Kernel Development",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "K0493",
             "Type": "Knowledge",
             "Description": "Windows Executive Systems",
@@ -4031,10 +4031,10 @@
             "Source": []
         },
         {
-            "Label": "K0492",
+            "Label": "K0496",
             "Type": "Knowledge",
-            "Description": "Shadow System Service Dispatch Table (SSDT)",
-            "Topic": "Windows Kernel Development",
+            "Description": "Makefiles",
+            "Topic": "*nix",
             "OPR": "",
             "Source": []
         },
@@ -4319,10 +4319,10 @@
             "Source": []
         },
         {
-            "Label": "K0535",
+            "Label": "K0419",
             "Type": "Knowledge",
-            "Description": "Rules: protection of scripts (execution prevention)",
-            "Topic": "PowerShell",
+            "Description": "Understand criteria for ordering the Product Backlog.",
+            "Topic": "Agile",
             "OPR": "",
             "Source": []
         },
@@ -4455,6 +4455,14 @@
             "Source": []
         },
         {
+            "Label": "K0535",
+            "Type": "Knowledge",
+            "Description": "Rules: protection of scripts (execution prevention)",
+            "Topic": "PowerShell",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "K0552",
             "Type": "Knowledge",
             "Description": "PowerShell case studies: Active Directory",
@@ -4475,14 +4483,6 @@
             "Type": "Knowledge",
             "Description": "PowerShell case studies: Web",
             "Topic": "PowerShell injection/injection techniques",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0555",
-            "Type": "Knowledge",
-            "Description": "Filter file contents",
-            "Topic": "PowerShell case studies: Domain Name System (DNS)",
             "OPR": "",
             "Source": []
         },
@@ -4799,10 +4799,10 @@
             "Source": []
         },
         {
-            "Label": "K0496",
+            "Label": "K0610",
             "Type": "Knowledge",
-            "Description": "Makefiles",
-            "Topic": "*nix",
+            "Description": "Understand how to utilize ports and protocols in network programming.",
+            "Topic": "Networking Concepts",
             "OPR": "",
             "Source": []
         },
@@ -4983,6 +4983,14 @@
             "Source": []
         },
         {
+            "Label": "K0555",
+            "Type": "Knowledge",
+            "Description": "Filter file contents",
+            "Topic": "PowerShell case studies: Domain Name System (DNS)",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "K0634",
             "Type": "Knowledge",
             "Description": "Reading Capability Requirements Specifications",
@@ -5002,14 +5010,6 @@
             "Label": "K0637",
             "Type": "Knowledge",
             "Description": "Write/Modify Statement of Requirements",
-            "Topic": "Technical Writing",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0639",
-            "Type": "Knowledge",
-            "Description": "Write/Modify Test Plan/Report",
             "Topic": "Technical Writing",
             "OPR": "",
             "Source": []
@@ -5071,10 +5071,10 @@
             "Source": []
         },
         {
-            "Label": "K0610",
+            "Label": "K0649",
             "Type": "Knowledge",
-            "Description": "Understand how to utilize ports and protocols in network programming.",
-            "Topic": "Networking Concepts",
+            "Description": "Outline relationship between the PO and other scrum members.",
+            "Topic": "Agile",
             "OPR": "",
             "Source": []
         },
@@ -5087,9 +5087,9 @@
             "Source": []
         },
         {
-            "Label": "K0649",
+            "Label": "K0651",
             "Type": "Knowledge",
-            "Description": "Outline relationship between the PO and other scrum members.",
+            "Description": "Illustrate ability to use software technologies that aid the role of a PO.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -5119,10 +5119,10 @@
             "Source": []
         },
         {
-            "Label": "K0658",
+            "Label": "K0639",
             "Type": "Knowledge",
-            "Description": "Identify features associated with Git",
-            "Topic": "Git",
+            "Description": "Write/Modify Test Plan/Report",
+            "Topic": "Technical Writing",
             "OPR": "",
             "Source": []
         },
@@ -5143,10 +5143,10 @@
             "Source": []
         },
         {
-            "Label": "K0664",
+            "Label": "K0658",
             "Type": "Knowledge",
-            "Description": "Distinguish between user stories, tasks, and subtasks.",
-            "Topic": "Agile",
+            "Description": "Identify features associated with Git",
+            "Topic": "Git",
             "OPR": "",
             "Source": []
         },
@@ -5255,14 +5255,6 @@
             ]
         },
         {
-            "Label": "K0651",
-            "Type": "Knowledge",
-            "Description": "Illustrate ability to use software technologies that aid the role of a PO.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0678",
             "Type": "Knowledge",
             "Description": "(U) Describe supported organizations requirements processes.",
@@ -5287,6 +5279,16 @@
             "Type": "Knowledge",
             "Description": "(U) Describe relevant mission processes including version control processes, release processes, documentation requirements, and testing requirements.",
             "Topic": "Mission",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
+            "Label": "K0681",
+            "Type": "Knowledge",
+            "Description": "(U) Explain how to apply modern software engineering practices.",
+            "Topic": "Software Engineering",
             "OPR": "USCYBERCOM/J7",
             "Source": [
                 "JCT&CS"
@@ -5323,6 +5325,14 @@
             ]
         },
         {
+            "Label": "K0664",
+            "Type": "Knowledge",
+            "Description": "Distinguish between user stories, tasks, and subtasks.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "K0685",
             "Type": "Knowledge",
             "Description": "(U) Explain terms and concepts of operating system fundamentals (e.g. File systems, I/O, Memory Management, Process Abstraction, etc.)",
@@ -5353,20 +5363,10 @@
             ]
         },
         {
-            "Label": "K0688",
+            "Label": "K0689",
             "Type": "Knowledge",
-            "Description": "(U) Explain how to utilize reference documentation for C, Python, assembly, and other international technical standards and specifications (IEEE, ISO, IETF, etc.)",
-            "Topic": "Standards",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "K0681",
-            "Type": "Knowledge",
-            "Description": "(U) Explain how to apply modern software engineering practices.",
-            "Topic": "Software Engineering",
+            "Description": "(U) Explain the purpose and usage of elements and components of the C programming language",
+            "Topic": "C",
             "OPR": "USCYBERCOM/J7",
             "Source": [
                 "JCT&CS"
@@ -5655,13 +5655,13 @@
             ]
         },
         {
-            "Label": "K0723",
+            "Label": "K0688",
             "Type": "Knowledge",
-            "Description": "Describe how to merge a branch in Git.",
-            "Topic": "Git",
-            "OPR": "ACC A3/2/6KO",
+            "Description": "(U) Explain how to utilize reference documentation for C, Python, assembly, and other international technical standards and specifications (IEEE, ISO, IETF, etc.)",
+            "Topic": "Standards",
+            "OPR": "USCYBERCOM/J7",
             "Source": [
-                "ACC CCD CDD TTL"
+                "JCT&CS"
             ]
         },
         {
@@ -5815,6 +5815,16 @@
             "Source": []
         },
         {
+            "Label": "K0723",
+            "Type": "Knowledge",
+            "Description": "Describe how to merge a branch in Git.",
+            "Topic": "Git",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
             "Label": "K0743",
             "Type": "Knowledge",
             "Description": "Understand how to create and delete a new file.",
@@ -5835,24 +5845,6 @@
             "Type": "Knowledge",
             "Description": "Understand how to determine location of content within a file.",
             "Topic": "Python",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0689",
-            "Type": "Knowledge",
-            "Description": "(U) Explain the purpose and usage of elements and components of the C programming language",
-            "Topic": "C",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
-        },
-        {
-            "Label": "K0746",
-            "Type": "Knowledge",
-            "Description": "Understand how to open and close an existing file.",
-            "Topic": "C",
             "OPR": "",
             "Source": []
         },
@@ -5985,9 +5977,9 @@
             "Source": []
         },
         {
-            "Label": "K0764",
+            "Label": "K0746",
             "Type": "Knowledge",
-            "Description": "Understand the purpose and use of the increment and decrement operators.",
+            "Description": "Understand how to open and close an existing file.",
             "Topic": "C",
             "OPR": "",
             "Source": []
@@ -6081,6 +6073,14 @@
             "Source": []
         },
         {
+            "Label": "K0790",
+            "Type": "Knowledge",
+            "Description": "Understand the rotate instructions.",
+            "Topic": "Assembly Programming",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "K0794",
             "Type": "Knowledge",
             "Description": "Understand the purpose of the cmp instruction.",
@@ -6089,9 +6089,9 @@
             "Source": []
         },
         {
-            "Label": "K0790",
+            "Label": "K0796",
             "Type": "Knowledge",
-            "Description": "Understand the rotate instructions.",
+            "Description": "Understand the purpose of the jcc and other conditional jump instructions.",
             "Topic": "Assembly Programming",
             "OPR": "",
             "Source": []
@@ -6129,6 +6129,14 @@
             "Source": []
         },
         {
+            "Label": "K0764",
+            "Type": "Knowledge",
+            "Description": "Understand the purpose and use of the increment and decrement operators.",
+            "Topic": "C",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "K0807",
             "Type": "Knowledge",
             "Description": "Understand the purpose of the cld instruction.",
@@ -6148,14 +6156,6 @@
             "Label": "K0809",
             "Type": "Knowledge",
             "Description": "Understand how to utilize bit operations.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0810",
-            "Type": "Knowledge",
-            "Description": "Understand how to utilize flags.",
             "Topic": "Assembly Programming",
             "OPR": "",
             "Source": []
@@ -6241,17 +6241,9 @@
             "Source": []
         },
         {
-            "Label": "K0796",
+            "Label": "K0810",
             "Type": "Knowledge",
-            "Description": "Understand the purpose of the jcc and other conditional jump instructions.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "K0821",
-            "Type": "Knowledge",
-            "Description": "Understand different processor modes.",
+            "Description": "Understand how to utilize flags.",
             "Topic": "Assembly Programming",
             "OPR": "",
             "Source": []
@@ -6265,9 +6257,17 @@
             "Source": []
         },
         {
-            "Label": "K0823",
+            "Label": "K0821",
             "Type": "Knowledge",
-            "Description": "Understand how to zero-out allocated memory.",
+            "Description": "Understand different processor modes.",
+            "Topic": "Assembly Programming",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0824",
+            "Type": "Knowledge",
+            "Description": "Understand how to find information in MSDN documents.",
             "Topic": "C",
             "OPR": "",
             "Source": []
@@ -6413,18 +6413,18 @@
             "Source": []
         },
         {
-            "Label": "K0843",
+            "Label": "K0823",
             "Type": "Knowledge",
-            "Description": "Identify the purpose of the RUN instruction",
-            "Topic": "Docker",
+            "Description": "Understand how to zero-out allocated memory.",
+            "Topic": "C",
             "OPR": "",
             "Source": []
         },
         {
-            "Label": "K0824",
+            "Label": "K0843",
             "Type": "Knowledge",
-            "Description": "Understand how to find information in MSDN documents.",
-            "Topic": "C",
+            "Description": "Identify the purpose of the RUN instruction",
+            "Topic": "Docker",
             "OPR": "",
             "Source": []
         },
@@ -6445,9 +6445,9 @@
             "Source": []
         },
         {
-            "Label": "K0846",
+            "Label": "K0847",
             "Type": "Knowledge",
-            "Description": "Identify the purpose of the ENV instruction",
+            "Description": "Identify the purpose of the ADD instruction",
             "Topic": "Docker",
             "OPR": "",
             "Source": []
@@ -6581,9 +6581,9 @@
             "Source": []
         },
         {
-            "Label": "K0864",
+            "Label": "K0846",
             "Type": "Knowledge",
-            "Description": "Identify the purpose of the 'rmi' CLI command",
+            "Description": "Identify the purpose of the ENV instruction",
             "Topic": "Docker",
             "OPR": "",
             "Source": []
@@ -6709,14 +6709,6 @@
             "Source": []
         },
         {
-            "Label": "K0847",
-            "Type": "Knowledge",
-            "Description": "Identify the purpose of the ADD instruction",
-            "Topic": "Docker",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "K0880",
             "Type": "Knowledge",
             "Description": "Identify docker container best practices and why they're important",
@@ -6728,6 +6720,14 @@
             "Label": "K0881",
             "Type": "Knowledge",
             "Description": "Identify dockerfile best practices and why they're important",
+            "Topic": "Docker",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "K0882",
+            "Type": "Knowledge",
+            "Description": "List what docker orchestration tools are available when using docker in a production environment",
             "Topic": "Docker",
             "OPR": "",
             "Source": []
@@ -7093,10 +7093,10 @@
             "Source": []
         },
         {
-            "Label": "K0933",
+            "Label": "K0864",
             "Type": "Knowledge",
-            "Description": "Understand the purpose and goal of the Project Kickoff Meeting.",
-            "Topic": "",
+            "Description": "Identify the purpose of the 'rmi' CLI command",
+            "Topic": "Docker",
             "OPR": "",
             "Source": []
         },
@@ -7117,10 +7117,10 @@
             "Source": []
         },
         {
-            "Label": "K0882",
+            "Label": "K0933",
             "Type": "Knowledge",
-            "Description": "List what docker orchestration tools are available when using docker in a production environment",
-            "Topic": "Docker",
+            "Description": "Understand the purpose and goal of the Project Kickoff Meeting.",
+            "Topic": "",
             "OPR": "",
             "Source": []
         },
@@ -7128,16 +7128,6 @@
             "Label": "S0001",
             "Type": "Skills",
             "Description": "Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.",
-            "Topic": "",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "NCWF"
-            ]
-        },
-        {
-            "Label": "S0002",
-            "Type": "Skills",
-            "Description": "Skill in conducting software debugging.",
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
@@ -7175,9 +7165,9 @@
             ]
         },
         {
-            "Label": "S0006",
+            "Label": "S0002",
             "Type": "Skills",
-            "Description": "Skill in discerning the protection needs (i.e., security controls) of information systems and networks.",
+            "Description": "Skill in conducting software debugging.",
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
@@ -7185,9 +7175,9 @@
             ]
         },
         {
-            "Label": "S0007",
+            "Label": "S0006",
             "Type": "Skills",
-            "Description": "Skill in writing code in a currently supported programming language (e.g., Java, C++).",
+            "Description": "Skill in discerning the protection needs (i.e., security controls) of information systems and networks.",
             "Topic": "",
             "OPR": "USCYBERCOM/J7",
             "Source": [
@@ -7333,6 +7323,16 @@
             "Source": []
         },
         {
+            "Label": "S0023",
+            "Type": "Skills",
+            "Description": "Declare and implement data types.",
+            "Topic": "Python",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
             "Label": "S0024",
             "Type": "Skills",
             "Description": "Declare and/or implement container data type.",
@@ -7350,6 +7350,16 @@
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "S0007",
+            "Type": "Skills",
+            "Description": "Skill in writing code in a currently supported programming language (e.g., Java, C++).",
+            "Topic": "",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "NCWF"
             ]
         },
         {
@@ -7373,10 +7383,10 @@
             ]
         },
         {
-            "Label": "S0023",
+            "Label": "S0029",
             "Type": "Skills",
-            "Description": "Declare and implement data types.",
-            "Topic": "Python",
+            "Description": "Utilize arithmetic operators (PEMDAS +, -, *, /, %) in mathematical equations.",
+            "Topic": "Programming Fundamentals",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -7386,16 +7396,6 @@
             "Label": "S0030",
             "Type": "Skills",
             "Description": "Utilize bitwise operators to manipulate binary values.",
-            "Topic": "Programming Fundamentals",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "S0029",
-            "Type": "Skills",
-            "Description": "Utilize arithmetic operators (PEMDAS +, -, *, /, %) in mathematical equations.",
             "Topic": "Programming Fundamentals",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -7413,9 +7413,9 @@
             ]
         },
         {
-            "Label": "S0032",
+            "Label": "S0033",
             "Type": "Skills",
-            "Description": "Utilize relational operators to formulate boolean expressions.",
+            "Description": "Utilize assignment operators to update a variable.",
             "Topic": "Programming Fundamentals",
             "OPR": "",
             "Source": []
@@ -7447,9 +7447,9 @@
             "Source": []
         },
         {
-            "Label": "S0033",
+            "Label": "S0032",
             "Type": "Skills",
-            "Description": "Utilize assignment operators to update a variable.",
+            "Description": "Utilize relational operators to formulate boolean expressions.",
             "Topic": "Programming Fundamentals",
             "OPR": "",
             "Source": []
@@ -7537,9 +7537,9 @@
             ]
         },
         {
-            "Label": "S0038",
+            "Label": "S0047",
             "Type": "Skills",
-            "Description": "Read, parse, write (append, insert, modify) file data.",
+            "Description": "Implement a function that returns multiple values.",
             "Topic": "Python",
             "OPR": "",
             "Source": []
@@ -7548,6 +7548,24 @@
             "Label": "S0048",
             "Type": "Skills",
             "Description": "Implement a function that receives input parameters.",
+            "Topic": "Programming Fundamentals",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "S0038",
+            "Type": "Skills",
+            "Description": "Read, parse, write (append, insert, modify) file data.",
+            "Topic": "Python",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0050",
+            "Type": "Skills",
+            "Description": "Implement a function that doesn't return a value.",
             "Topic": "Programming Fundamentals",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -7565,38 +7583,20 @@
             ]
         },
         {
-            "Label": "S0047",
-            "Type": "Skills",
-            "Description": "Implement a function that returns multiple values.",
-            "Topic": "Python",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0051",
-            "Type": "Skills",
-            "Description": "Implement a function with pass by reference using the & reference operator.",
-            "Topic": "C",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
-            "Label": "S0050",
-            "Type": "Skills",
-            "Description": "Implement a function that doesn't return a value.",
-            "Topic": "Programming Fundamentals",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "S0052",
             "Type": "Skills",
             "Description": "Implement a function that returns a single value.",
             "Topic": "Programming Fundamentals",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "S0053",
+            "Type": "Skills",
+            "Description": "Implement a function that returns a memory reference.",
+            "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -7763,10 +7763,20 @@
             ]
         },
         {
-            "Label": "S0053",
+            "Label": "S0051",
             "Type": "Skills",
-            "Description": "Implement a function that returns a memory reference.",
+            "Description": "Implement a function with pass by reference using the & reference operator.",
             "Topic": "C",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "S0070",
+            "Type": "Skills",
+            "Description": "Add and remove nodes from a Circularly Linked List.",
+            "Topic": "Data Structures",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -7871,16 +7881,6 @@
             ]
         },
         {
-            "Label": "S0070",
-            "Type": "Skills",
-            "Description": "Add and remove nodes from a Circularly Linked List.",
-            "Topic": "Data Structures",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "S0082",
             "Type": "Skills",
             "Description": "Implement conditional control flow constructs.",
@@ -7901,10 +7901,10 @@
             ]
         },
         {
-            "Label": "S0085",
+            "Label": "S0081",
             "Type": "Skills",
-            "Description": "Use a cross-compiler to compile position-independent code.",
-            "Topic": "C",
+            "Description": "Implement a looping construct.",
+            "Topic": "Programming Fundamentals",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -7921,9 +7921,9 @@
             ]
         },
         {
-            "Label": "S0089",
+            "Label": "S0085",
             "Type": "Skills",
-            "Description": "Use of Valgrind to identify and correct memory leaks and context errors.",
+            "Description": "Use a cross-compiler to compile position-independent code.",
             "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -7939,14 +7939,12 @@
             "Source": []
         },
         {
-            "Label": "S0081",
+            "Label": "S0091",
             "Type": "Skills",
-            "Description": "Implement a looping construct.",
-            "Topic": "Programming Fundamentals",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
+            "Description": "Unallocating memory from the heap (free).",
+            "Topic": "C",
+            "OPR": "",
+            "Source": []
         },
         {
             "Label": "S0092",
@@ -7999,12 +7997,14 @@
             ]
         },
         {
-            "Label": "S0091",
+            "Label": "S0097",
             "Type": "Skills",
-            "Description": "Unallocating memory from the heap (free).",
+            "Description": "Create and use pointers.",
             "Topic": "C",
-            "OPR": "",
-            "Source": []
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
         },
         {
             "Label": "S0098",
@@ -8079,9 +8079,9 @@
             "Source": []
         },
         {
-            "Label": "S0097",
+            "Label": "S0089",
             "Type": "Skills",
-            "Description": "Create and use pointers.",
+            "Description": "Use of Valgrind to identify and correct memory leaks and context errors.",
             "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -8279,14 +8279,12 @@
             ]
         },
         {
-            "Label": "S0108",
+            "Label": "S0130",
             "Type": "Skills",
-            "Description": "Utilize post and pre increment/decrement operators.",
-            "Topic": "C",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
+            "Description": "Utilize a GDB debugger to identify errors in a program.",
+            "Topic": "Assembly Programming",
+            "OPR": "",
+            "Source": []
         },
         {
             "Label": "S0131",
@@ -8471,14 +8469,6 @@
             ]
         },
         {
-            "Label": "S0130",
-            "Type": "Skills",
-            "Description": "Utilize a GDB debugger to identify errors in a program.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0151",
             "Type": "Skills",
             "Description": "Zero-out memory securely",
@@ -8492,6 +8482,16 @@
             "Label": "S0152",
             "Type": "Skills",
             "Description": "Perform Windows API error analysis",
+            "Topic": "C",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "S0153",
+            "Type": "Skills",
+            "Description": "Utilize Windows API File IO",
             "Topic": "C",
             "OPR": "ACC A3/2/6KO",
             "Source": [
@@ -8527,12 +8527,14 @@
             "Source": []
         },
         {
-            "Label": "S0157",
+            "Label": "S0108",
             "Type": "Skills",
-            "Description": "Utilize the process stack.",
-            "Topic": "Assembly Programming",
-            "OPR": "",
-            "Source": []
+            "Description": "Utilize post and pre increment/decrement operators.",
+            "Topic": "C",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
         },
         {
             "Label": "S0158",
@@ -8631,16 +8633,6 @@
             "Source": []
         },
         {
-            "Label": "S0153",
-            "Type": "Skills",
-            "Description": "Utilize Windows API File IO",
-            "Topic": "C",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "S0170",
             "Type": "Skills",
             "Description": "Incorporate analysis of collected data into automated CI/CD process.",
@@ -8663,6 +8655,16 @@
             "Type": "Skills",
             "Description": "Write Pseudocode with repeating steps to the process",
             "Topic": "Programming Fundamentals",
+            "OPR": "ACC A3/2/6KO",
+            "Source": [
+                "ACC CCD CDD TTL"
+            ]
+        },
+        {
+            "Label": "S0173",
+            "Type": "Skills",
+            "Description": "Write code that implements interrupts",
+            "Topic": "Computer Architecture",
             "OPR": "ACC A3/2/6KO",
             "Source": [
                 "ACC CCD CDD TTL"
@@ -8707,6 +8709,14 @@
             "Source": []
         },
         {
+            "Label": "S0157",
+            "Type": "Skills",
+            "Description": "Utilize the process stack.",
+            "Topic": "Assembly Programming",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "S0178",
             "Type": "Skills",
             "Description": "Reverse engineer a basic binary program to write high-level pseudocode.",
@@ -8735,14 +8745,6 @@
             "Source": [
                 "ACC CCD CDD TTL"
             ]
-        },
-        {
-            "Label": "S0181",
-            "Type": "Skills",
-            "Description": "Analyze binaries to identify function calls",
-            "Topic": "Reverse Engineering",
-            "OPR": "",
-            "Source": []
         },
         {
             "Label": "S0182",
@@ -8807,16 +8809,6 @@
             "Source": []
         },
         {
-            "Label": "S0173",
-            "Type": "Skills",
-            "Description": "Write code that implements interrupts",
-            "Topic": "Computer Architecture",
-            "OPR": "ACC A3/2/6KO",
-            "Source": [
-                "ACC CCD CDD TTL"
-            ]
-        },
-        {
             "Label": "S0189",
             "Type": "Skills",
             "Description": "Demonstrate techniques to interact with stakeholders over multiple Sprints.",
@@ -8825,10 +8817,18 @@
             "Source": []
         },
         {
-            "Label": "S0192",
+            "Label": "S0190",
             "Type": "Skills",
-            "Description": "Identify purpose or define strategy.",
+            "Description": "Demonstrate facilitative listening techniques.",
             "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0181",
+            "Type": "Skills",
+            "Description": "Analyze binaries to identify function calls",
+            "Topic": "Reverse Engineering",
             "OPR": "",
             "Source": []
         },
@@ -8849,25 +8849,17 @@
             "Source": []
         },
         {
+            "Label": "S0192",
+            "Type": "Skills",
+            "Description": "Identify purpose or define strategy.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "S0196",
             "Type": "Skills",
             "Description": "Use proper techniques to connect teams directly to customers and users.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0197",
-            "Type": "Skills",
-            "Description": "Demonstrate techniques of product discovery.",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0190",
-            "Type": "Skills",
-            "Description": "Demonstrate facilitative listening techniques.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -8889,9 +8881,17 @@
             "Source": []
         },
         {
-            "Label": "S0200",
+            "Label": "S0197",
             "Type": "Skills",
-            "Description": "Create Product Backlog item that includes description of desired outcome and value.",
+            "Description": "Demonstrate techniques of product discovery.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0202",
+            "Type": "Skills",
+            "Description": "Model and measure value.",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -8961,10 +8961,10 @@
             "Source": []
         },
         {
-            "Label": "S0202",
+            "Label": "S0212",
             "Type": "Skills",
-            "Description": "Model and measure value.",
-            "Topic": "Agile",
+            "Description": "Carry out the configuration of docker networking",
+            "Topic": "Docker",
             "OPR": "",
             "Source": []
         },
@@ -9079,12 +9079,14 @@
             ]
         },
         {
-            "Label": "S0212",
+            "Label": "S0224",
             "Type": "Skills",
-            "Description": "Carry out the configuration of docker networking",
-            "Topic": "Docker",
+            "Description": "Assign additional training for discrepancies where a debrief is not the proper remedial action.",
+            "Topic": "Stan/Eval",
             "OPR": "",
-            "Source": []
+            "Source": [
+                "ACCI 17-202v2 "
+            ]
         },
         {
             "Label": "S0225",
@@ -9227,16 +9229,6 @@
             ]
         },
         {
-            "Label": "S0224",
-            "Type": "Skills",
-            "Description": "Assign additional training for discrepancies where a debrief is not the proper remedial action.",
-            "Topic": "Stan/Eval",
-            "OPR": "",
-            "Source": [
-                "ACCI 17-202v2 "
-            ]
-        },
-        {
             "Label": "S0239",
             "Type": "Skills",
             "Description": "If applicable,  take over examinee position if/when examinee performance exhibited breaches of safety",
@@ -9245,6 +9237,14 @@
             "Source": [
                 "ACCI 17-202v2 "
             ]
+        },
+        {
+            "Label": "S0240",
+            "Type": "Skills",
+            "Description": "Utilize the Windows Application Programming Interface (API) for Events",
+            "Topic": "Windows Operating System",
+            "OPR": "",
+            "Source": []
         },
         {
             "Label": "S0241",
@@ -9258,14 +9258,6 @@
             "Label": "S0243",
             "Type": "Skills",
             "Description": "Configure and setup a Win32 environment",
-            "Topic": "Windows Operating System",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0240",
-            "Type": "Skills",
-            "Description": "Utilize the Windows Application Programming Interface (API) for Events",
             "Topic": "Windows Operating System",
             "OPR": "",
             "Source": []
@@ -9295,14 +9287,6 @@
             "Source": []
         },
         {
-            "Label": "S0248",
-            "Type": "Skills",
-            "Description": "Synchronize threads",
-            "Topic": "Operating System",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0247",
             "Type": "Skills",
             "Description": "Create and utilize threads",
@@ -9311,10 +9295,10 @@
             "Source": []
         },
         {
-            "Label": "S0250",
+            "Label": "S0248",
             "Type": "Skills",
-            "Description": "Utilize the virtual alloc Application Programming Interface (API)",
-            "Topic": "Windows Operating System",
+            "Description": "Synchronize threads",
+            "Topic": "Operating System",
             "OPR": "",
             "Source": []
         },
@@ -9327,9 +9311,9 @@
             "Source": []
         },
         {
-            "Label": "S0252",
+            "Label": "S0250",
             "Type": "Skills",
-            "Description": "Utilize the file mapping Application Programming Interface (API)",
+            "Description": "Utilize the virtual alloc Application Programming Interface (API)",
             "Topic": "Windows Operating System",
             "OPR": "",
             "Source": []
@@ -9343,25 +9327,25 @@
             "Source": []
         },
         {
+            "Label": "S0252",
+            "Type": "Skills",
+            "Description": "Utilize the file mapping Application Programming Interface (API)",
+            "Topic": "Windows Operating System",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0200",
+            "Type": "Skills",
+            "Description": "Create Product Backlog item that includes description of desired outcome and value.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "S0254",
             "Type": "Skills",
             "Description": "Create and utilize winsock clients",
-            "Topic": "Windows Operating System",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0253",
-            "Type": "Skills",
-            "Description": "Create and utilize winsock servers",
-            "Topic": "Windows Operating System",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0257",
-            "Type": "Skills",
-            "Description": "Implement asynchronous Input/Output",
             "Topic": "Windows Operating System",
             "OPR": "",
             "Source": []
@@ -9375,10 +9359,10 @@
             "Source": []
         },
         {
-            "Label": "S0260",
+            "Label": "S0257",
             "Type": "Skills",
-            "Description": "Manipulate Windows handles",
-            "Topic": "Windows Internals ",
+            "Description": "Implement asynchronous Input/Output",
+            "Topic": "Windows Operating System",
             "OPR": "",
             "Source": []
         },
@@ -9386,6 +9370,14 @@
             "Label": "S0259",
             "Type": "Skills",
             "Description": "Utilize native Application Programming Interface (API) Calls",
+            "Topic": "Windows Internals ",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0260",
+            "Type": "Skills",
+            "Description": "Manipulate Windows handles",
             "Topic": "Windows Internals ",
             "OPR": "",
             "Source": []
@@ -9399,6 +9391,14 @@
             "Source": []
         },
         {
+            "Label": "S0262",
+            "Type": "Skills",
+            "Description": "Manipulate Processes",
+            "Topic": "Windows Internals ",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "S0263",
             "Type": "Skills",
             "Description": "Navigate Portable Executable Images",
@@ -9407,9 +9407,9 @@
             "Source": []
         },
         {
-            "Label": "S0262",
+            "Label": "S0265",
             "Type": "Skills",
-            "Description": "Manipulate Processes",
+            "Description": "Load and utilize modules",
             "Topic": "Windows Internals ",
             "OPR": "",
             "Source": []
@@ -9423,10 +9423,10 @@
             "Source": []
         },
         {
-            "Label": "S0265",
+            "Label": "S0253",
             "Type": "Skills",
-            "Description": "Load and utilize modules",
-            "Topic": "Windows Internals ",
+            "Description": "Create and utilize winsock servers",
+            "Topic": "Windows Operating System",
             "OPR": "",
             "Source": []
         },
@@ -9455,14 +9455,6 @@
             "Source": []
         },
         {
-            "Label": "S0272",
-            "Type": "Skills",
-            "Description": "Utilize Windows Remote Procedure Call (RPC)",
-            "Topic": "Windows Internals ",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0267",
             "Type": "Skills",
             "Description": "Utilize the Process Environment Block (PEB)",
@@ -9474,6 +9466,14 @@
             "Label": "S0274",
             "Type": "Skills",
             "Description": "Inject Position Independent Code (PIC) into memory",
+            "Topic": "CNO User Mode Development",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0275",
+            "Type": "Skills",
+            "Description": "Execute Position Independent Code (PIC)",
             "Topic": "CNO User Mode Development",
             "OPR": "",
             "Source": []
@@ -9495,18 +9495,18 @@
             "Source": []
         },
         {
-            "Label": "S0275",
-            "Type": "Skills",
-            "Description": "Execute Position Independent Code (PIC)",
-            "Topic": "CNO User Mode Development",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0278",
             "Type": "Skills",
             "Description": "Debug a kernel application",
             "Topic": "Windows Kernel Development",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0272",
+            "Type": "Skills",
+            "Description": "Utilize Windows Remote Procedure Call (RPC)",
+            "Topic": "Windows Internals ",
             "OPR": "",
             "Source": []
         },
@@ -9527,9 +9527,9 @@
             "Source": []
         },
         {
-            "Label": "S0279",
+            "Label": "S0282",
             "Type": "Skills",
-            "Description": "Utilize synchronization mechanisms",
+            "Description": "Utilize key Kernel Structures",
             "Topic": "Windows Kernel Development",
             "OPR": "",
             "Source": []
@@ -9543,25 +9543,9 @@
             "Source": []
         },
         {
-            "Label": "S0282",
-            "Type": "Skills",
-            "Description": "Utilize key Kernel Structures",
-            "Topic": "Windows Kernel Development",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0286",
             "Type": "Skills",
             "Description": "Manage input/output request packets (IRP)",
-            "Topic": "Windows Kernel Development",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0288",
-            "Type": "Skills",
-            "Description": "Manage Windows memory",
             "Topic": "Windows Kernel Development",
             "OPR": "",
             "Source": []
@@ -9575,9 +9559,9 @@
             "Source": []
         },
         {
-            "Label": "S0290",
+            "Label": "S0288",
             "Type": "Skills",
-            "Description": "Utilize System Service Dispatch Table (SSDT) to access kernel routines.",
+            "Description": "Manage Windows memory",
             "Topic": "Windows Kernel Development",
             "OPR": "",
             "Source": []
@@ -9591,9 +9575,9 @@
             "Source": []
         },
         {
-            "Label": "S0292",
+            "Label": "S0290",
             "Type": "Skills",
-            "Description": "Utilize the Windows scheduler",
+            "Description": "Utilize System Service Dispatch Table (SSDT) to access kernel routines.",
             "Topic": "Windows Kernel Development",
             "OPR": "",
             "Source": []
@@ -9607,10 +9591,10 @@
             "Source": []
         },
         {
-            "Label": "S0294",
+            "Label": "S0292",
             "Type": "Skills",
-            "Description": "Navigate files and directories",
-            "Topic": "*nix",
+            "Description": "Utilize the Windows scheduler",
+            "Topic": "Windows Kernel Development",
             "OPR": "",
             "Source": []
         },
@@ -9623,9 +9607,9 @@
             "Source": []
         },
         {
-            "Label": "S0296",
+            "Label": "S0294",
             "Type": "Skills",
-            "Description": "Utilize input/output redirection/pipes",
+            "Description": "Navigate files and directories",
             "Topic": "*nix",
             "OPR": "",
             "Source": []
@@ -9639,9 +9623,25 @@
             "Source": []
         },
         {
+            "Label": "S0296",
+            "Type": "Skills",
+            "Description": "Utilize input/output redirection/pipes",
+            "Topic": "*nix",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "S0297",
             "Type": "Skills",
             "Description": "Create and utilize regular expressions",
+            "Topic": "*nix",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0298",
+            "Type": "Skills",
+            "Description": "Modify file ownership",
             "Topic": "*nix",
             "OPR": "",
             "Source": []
@@ -9651,6 +9651,14 @@
             "Type": "Skills",
             "Description": "Modify file permissions",
             "Topic": "*nix",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0279",
+            "Type": "Skills",
+            "Description": "Utilize synchronization mechanisms",
+            "Topic": "Windows Kernel Development",
             "OPR": "",
             "Source": []
         },
@@ -9674,14 +9682,6 @@
             "Label": "S0302",
             "Type": "Skills",
             "Description": "Create and utilize personal utilities",
-            "Topic": "Linux Kernel Development",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0303",
-            "Type": "Skills",
-            "Description": "Utilize text handling utilities",
             "Topic": "Linux Kernel Development",
             "OPR": "",
             "Source": []
@@ -9743,14 +9743,6 @@
             "Source": []
         },
         {
-            "Label": "S0298",
-            "Type": "Skills",
-            "Description": "Modify file ownership",
-            "Topic": "*nix",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0311",
             "Type": "Skills",
             "Description": "Utilize communication utilities",
@@ -9770,6 +9762,14 @@
             "Label": "S0315",
             "Type": "Skills",
             "Description": "Generate filenames",
+            "Topic": "Linux Kernel Development",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0316",
+            "Type": "Skills",
+            "Description": "Create and manage processes",
             "Topic": "Linux Kernel Development",
             "OPR": "",
             "Source": []
@@ -9807,9 +9807,9 @@
             "Source": []
         },
         {
-            "Label": "S0316",
+            "Label": "S0325",
             "Type": "Skills",
-            "Description": "Create and manage processes",
+            "Description": "Administer users and groups",
             "Topic": "Linux Kernel Development",
             "OPR": "",
             "Source": []
@@ -9826,6 +9826,14 @@
             "Label": "S0327",
             "Type": "Skills",
             "Description": "Administer security",
+            "Topic": "Linux Kernel Development",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0303",
+            "Type": "Skills",
+            "Description": "Utilize text handling utilities",
             "Topic": "Linux Kernel Development",
             "OPR": "",
             "Source": []
@@ -9850,14 +9858,6 @@
             "Label": "S0331",
             "Type": "Skills",
             "Description": "Utilize ioctl calls",
-            "Topic": "Linux Kernel Development",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0332",
-            "Type": "Skills",
-            "Description": "Utilize block and memory device drivers",
             "Topic": "Linux Kernel Development",
             "OPR": "",
             "Source": []
@@ -9919,17 +9919,17 @@
             "Source": []
         },
         {
-            "Label": "S0325",
+            "Label": "S0344",
             "Type": "Skills",
-            "Description": "Administer users and groups",
-            "Topic": "Linux Kernel Development",
+            "Description": "Develop and manage Epic/user story criteria",
+            "Topic": "Agile",
             "OPR": "",
             "Source": []
         },
         {
-            "Label": "S0344",
+            "Label": "S0345",
             "Type": "Skills",
-            "Description": "Develop and manage Epic/user story criteria",
+            "Description": "Create documentation relaying leadership/customer vision",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -9951,9 +9951,9 @@
             "Source": []
         },
         {
-            "Label": "S0345",
+            "Label": "S0349",
             "Type": "Skills",
-            "Description": "Create documentation relaying leadership/customer vision",
+            "Description": "Relate and demonstrate tools commonly used by 90 COS dev teams for communication (e.g. Slack)",
             "Topic": "Agile",
             "OPR": "",
             "Source": []
@@ -10007,6 +10007,14 @@
             "Source": []
         },
         {
+            "Label": "S0332",
+            "Type": "Skills",
+            "Description": "Utilize block and memory device drivers",
+            "Topic": "Linux Kernel Development",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "S0362",
             "Type": "Skills",
             "Description": "Create effective acceptance criteria.",
@@ -10031,14 +10039,6 @@
             "Source": []
         },
         {
-            "Label": "S0365",
-            "Type": "Skills",
-            "Description": "Conduct an effective Product Backlog Grooming Meeting in accordance with squadron standards.",
-            "Topic": "90 MQT",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0366",
             "Type": "Skills",
             "Description": "Facilitate an effective Sprint Planning Meeting in accordance with squadron standards.",
@@ -10050,6 +10050,14 @@
             "Label": "S0367",
             "Type": "Skills",
             "Description": "Develop and present a brief for the DO meeting in accordance with squadron standards.",
+            "Topic": "90 MQT",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0365",
+            "Type": "Skills",
+            "Description": "Conduct an effective Product Backlog Grooming Meeting in accordance with squadron standards.",
             "Topic": "90 MQT",
             "OPR": "",
             "Source": []
@@ -10071,14 +10079,6 @@
             "Source": []
         },
         {
-            "Label": "S0371",
-            "Type": "Skills",
-            "Description": "Explain the effects of configuring estimation and time tracking on Scrum boards",
-            "Topic": "Jira",
-            "OPR": "",
-            "Source": []
-        },
-        {
             "Label": "S0372",
             "Type": "Skills",
             "Description": "Explain the concepts of using epics and versions in a Software project.",
@@ -10087,9 +10087,9 @@
             "Source": []
         },
         {
-            "Label": "S0373",
+            "Label": "S0371",
             "Type": "Skills",
-            "Description": "Describe unique characteristics of different issue types when used in a Jira Software context (epics, standard issue types, sub-task issue types).",
+            "Description": "Explain the effects of configuring estimation and time tracking on Scrum boards",
             "Topic": "Jira",
             "OPR": "",
             "Source": []
@@ -10103,17 +10103,17 @@
             "Source": []
         },
         {
-            "Label": "S0375",
+            "Label": "S0373",
             "Type": "Skills",
-            "Description": "Explain the concept and impact of ranking issues.",
+            "Description": "Describe unique characteristics of different issue types when used in a Jira Software context (epics, standard issue types, sub-task issue types).",
             "Topic": "Jira",
             "OPR": "",
             "Source": []
         },
         {
-            "Label": "S0376",
+            "Label": "S0375",
             "Type": "Skills",
-            "Description": "Manage releases (versions/sprints) in Software projects using boards or the Release Hub.",
+            "Description": "Explain the concept and impact of ranking issues.",
             "Topic": "Jira",
             "OPR": "",
             "Source": []
@@ -10159,10 +10159,10 @@
             "Source": []
         },
         {
-            "Label": "S0382",
+            "Label": "S0376",
             "Type": "Skills",
-            "Description": "Create a class constructor or destructor",
-            "Topic": "Python",
+            "Description": "Manage releases (versions/sprints) in Software projects using boards or the Release Hub.",
+            "Topic": "Jira",
             "OPR": "",
             "Source": []
         },
@@ -10207,26 +10207,10 @@
             "Source": []
         },
         {
-            "Label": "S0390",
+            "Label": "S0382",
             "Type": "Skills",
-            "Description": "Merge a branch.",
-            "Topic": "Git",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0349",
-            "Type": "Skills",
-            "Description": "Relate and demonstrate tools commonly used by 90 COS dev teams for communication (e.g. Slack)",
-            "Topic": "Agile",
-            "OPR": "",
-            "Source": []
-        },
-        {
-            "Label": "S0392",
-            "Type": "Skills",
-            "Description": "Use the Management and Development Processes (MADP) Agile Process Improvemnt Coaching (APIC) templates to create a project charter.",
-            "Topic": "Agile",
+            "Description": "Create a class constructor or destructor",
+            "Topic": "Python",
             "OPR": "",
             "Source": []
         },
@@ -10239,6 +10223,22 @@
             "Source": []
         },
         {
+            "Label": "S0390",
+            "Type": "Skills",
+            "Description": "Merge a branch.",
+            "Topic": "Git",
+            "OPR": "",
+            "Source": []
+        },
+        {
+            "Label": "S0393",
+            "Type": "Skills",
+            "Description": "Use the Management and Development Processes (MADP) Agile Process Improvemnt Coaching (APIC) templates to create a project kickoff meeting agenda.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "S0394",
             "Type": "Skills",
             "Description": "Implement conditional control flow constructs.",
@@ -10247,19 +10247,17 @@
             "Source": []
         },
         {
+            "Label": "S0392",
+            "Type": "Skills",
+            "Description": "Use the Management and Development Processes (MADP) Agile Process Improvemnt Coaching (APIC) templates to create a project charter.",
+            "Topic": "Agile",
+            "OPR": "",
+            "Source": []
+        },
+        {
             "Label": "S0395",
             "Type": "Skills",
             "Description": "Configure Gitlab CI YAML files to define stages and jobs.",
-            "Topic": "CI/CD",
-            "OPR": "90COS/CYK",
-            "Source": [
-                "https://gitlab.com/90cos/public/mttl/-/merge_requests/17"
-            ]
-        },
-        {
-            "Label": "S0396",
-            "Type": "Skills",
-            "Description": "Configure Gitlab CI YAML files generate and store artifacts.",
             "Topic": "CI/CD",
             "OPR": "90COS/CYK",
             "Source": [
@@ -10309,10 +10307,10 @@
             "Source": []
         },
         {
-            "Label": "S0393",
+            "Label": "S0402",
             "Type": "Skills",
-            "Description": "Use the Management and Development Processes (MADP) Agile Process Improvemnt Coaching (APIC) templates to create a project kickoff meeting agenda.",
-            "Topic": "Agile",
+            "Description": "Generate shell code.",
+            "Topic": "Vulnerability Research",
             "OPR": "",
             "Source": []
         },
@@ -10337,19 +10335,19 @@
             ]
         },
         {
-            "Label": "S0405",
+            "Label": "S0396",
             "Type": "Skills",
-            "Description": "Submit files to MetaTotal.",
-            "Topic": "MetaTotal",
+            "Description": "Configure Gitlab CI YAML files generate and store artifacts.",
+            "Topic": "CI/CD",
             "OPR": "90COS/CYK",
             "Source": [
                 "https://gitlab.com/90cos/public/mttl/-/merge_requests/17"
             ]
         },
         {
-            "Label": "S0406",
+            "Label": "S0405",
             "Type": "Skills",
-            "Description": "View and interpret MetaTotal scan results.",
+            "Description": "Submit files to MetaTotal.",
             "Topic": "MetaTotal",
             "OPR": "90COS/CYK",
             "Source": [
@@ -10367,12 +10365,14 @@
             ]
         },
         {
-            "Label": "S0402",
+            "Label": "S0406",
             "Type": "Skills",
-            "Description": "Generate shell code.",
-            "Topic": "Vulnerability Research",
-            "OPR": "",
-            "Source": []
+            "Description": "View and interpret MetaTotal scan results.",
+            "Topic": "MetaTotal",
+            "OPR": "90COS/CYK",
+            "Source": [
+                "https://gitlab.com/90cos/public/mttl/-/merge_requests/17"
+            ]
         },
         {
             "Label": "T0001",
@@ -10717,9 +10717,9 @@
             ]
         },
         {
-            "Label": "T0023",
+            "Label": "T0036",
             "Type": "Tasks",
-            "Description": "(U) Design and develop data requirements, database structure, process flow, systematic procedures, algorithms, data analysis, and file structures.",
+            "Description": "(U) Enhance capability design strategies and tactics by synthesizing information, processes, and techniques in the areas of malicious software, vulnerabilities, reverse engineering, secure software engineering, and exploitation.",
             "Topic": "Software Engineering",
             "OPR": "USCYBERCOM/J7",
             "Source": [
@@ -10769,6 +10769,16 @@
             "Source": []
         },
         {
+            "Label": "T0023",
+            "Type": "Tasks",
+            "Description": "(U) Design and develop data requirements, database structure, process flow, systematic procedures, algorithms, data analysis, and file structures.",
+            "Topic": "Software Engineering",
+            "OPR": "USCYBERCOM/J7",
+            "Source": [
+                "JCT&CS"
+            ]
+        },
+        {
             "Label": "T0042",
             "Type": "Tasks",
             "Description": "Utilize virtualization software to develop, emulate, and execute tools and systems",
@@ -10791,31 +10801,9 @@
             "Topic": "security classification",
             "OPR": "",
             "Source": []
-        },
-        {
-            "Label": "T0036",
-            "Type": "Tasks",
-            "Description": "(U) Enhance capability design strategies and tactics by synthesizing information, processes, and techniques in the areas of malicious software, vulnerabilities, reverse engineering, secure software engineering, and exploitation.",
-            "Topic": "Software Engineering",
-            "OPR": "USCYBERCOM/J7",
-            "Source": [
-                "JCT&CS"
-            ]
         }
     ],
     "connections": [
-        {
-            "From": "A0004",
-            "To": "T0012"
-        },
-        {
-            "From": "A0004",
-            "To": "T0023"
-        },
-        {
-            "From": "A0004",
-            "To": "T0025"
-        },
         {
             "From": "A0018",
             "To": "T0023"
@@ -10835,6 +10823,14 @@
         {
             "From": "A0047",
             "To": "T0010"
+        },
+        {
+            "From": "A0061",
+            "To": "T0010"
+        },
+        {
+            "From": "A0061",
+            "To": "T0009"
         },
         {
             "From": "A0077",
@@ -10861,8 +10857,16 @@
             "To": "T0011"
         },
         {
-            "From": "A0117",
-            "To": "T0011"
+            "From": "A0004",
+            "To": "T0012"
+        },
+        {
+            "From": "A0004",
+            "To": "T0023"
+        },
+        {
+            "From": "A0004",
+            "To": "T0025"
         },
         {
             "From": "A0179",
@@ -10913,32 +10917,28 @@
             "To": "A0419"
         },
         {
-            "From": "A0061",
-            "To": "T0010"
-        },
-        {
-            "From": "A0061",
-            "To": "T0009"
-        },
-        {
-            "From": "A0359",
-            "To": "A0408"
-        },
-        {
-            "From": "A0359",
-            "To": "A0419"
-        },
-        {
-            "From": "A0360",
-            "To": "A0408"
-        },
-        {
-            "From": "A0360",
-            "To": "A0419"
-        },
-        {
             "From": "A0358",
             "To": "A0355"
+        },
+        {
+            "From": "A0359",
+            "To": "A0408"
+        },
+        {
+            "From": "A0359",
+            "To": "A0419"
+        },
+        {
+            "From": "A0360",
+            "To": "A0408"
+        },
+        {
+            "From": "A0360",
+            "To": "A0419"
+        },
+        {
+            "From": "A0408",
+            "To": "T0005"
         },
         {
             "From": "A0410",
@@ -10997,23 +10997,23 @@
             "To": "A0419"
         },
         {
-            "From": "A0408",
-            "To": "T0005"
+            "From": "A0117",
+            "To": "T0011"
+        },
+        {
+            "From": "A0459",
+            "To": "T0035"
         },
         {
             "From": "A0563",
             "To": "T0010"
         },
         {
-            "From": "A0579",
-            "To": "T0039"
-        },
-        {
             "From": "A0580",
             "To": "T0039"
         },
         {
-            "From": "A0581",
+            "From": "A0579",
             "To": "T0039"
         },
         {
@@ -11021,43 +11021,43 @@
             "To": "T0039"
         },
         {
-            "From": "A0459",
-            "To": "T0035"
+            "From": "A0581",
+            "To": "T0039"
         },
         {
             "From": "A0608",
             "To": "T0011"
         },
         {
-            "From": "A0611",
+            "From": "A0612",
             "To": "T0018"
         },
         {
-            "From": "A0611",
+            "From": "A0612",
             "To": "T0020"
         },
         {
-            "From": "A0611",
+            "From": "A0612",
             "To": "T0021"
         },
         {
-            "From": "A0611",
+            "From": "A0612",
             "To": "T0022"
         },
         {
-            "From": "A0612",
+            "From": "A0611",
             "To": "T0018"
         },
         {
-            "From": "A0612",
+            "From": "A0611",
             "To": "T0020"
         },
         {
-            "From": "A0612",
+            "From": "A0611",
             "To": "T0021"
         },
         {
-            "From": "A0612",
+            "From": "A0611",
             "To": "T0022"
         },
         {
@@ -11071,10 +11071,6 @@
         {
             "From": "A0623",
             "To": "T0041"
-        },
-        {
-            "From": "A0628",
-            "To": "T0009"
         },
         {
             "From": "A0736",
@@ -11099,6 +11095,10 @@
         {
             "From": "A0741",
             "To": "T0014"
+        },
+        {
+            "From": "A0628",
+            "To": "T0009"
         },
         {
             "From": "A0745",
@@ -11149,6 +11149,10 @@
             "To": "A0061"
         },
         {
+            "From": "K0011",
+            "To": "A0061"
+        },
+        {
             "From": "K0012",
             "To": "S0052"
         },
@@ -11157,8 +11161,8 @@
             "To": "T0010"
         },
         {
-            "From": "K0011",
-            "To": "A0061"
+            "From": "K0014",
+            "To": "S0024"
         },
         {
             "From": "K0015",
@@ -11197,8 +11201,8 @@
             "To": "K0031"
         },
         {
-            "From": "K0014",
-            "To": "S0024"
+            "From": "K0021",
+            "To": "K0004"
         },
         {
             "From": "K0022",
@@ -11207,10 +11211,6 @@
         {
             "From": "K0023",
             "To": "T0010"
-        },
-        {
-            "From": "K0024",
-            "To": "S0026"
         },
         {
             "From": "K0031",
@@ -11277,10 +11277,6 @@
             "To": "K0030"
         },
         {
-            "From": "K0021",
-            "To": "K0004"
-        },
-        {
             "From": "K0045",
             "To": "A0087"
         },
@@ -11289,11 +11285,19 @@
             "To": "A0093"
         },
         {
+            "From": "K0024",
+            "To": "S0026"
+        },
+        {
             "From": "K0047",
             "To": "K0045"
         },
         {
             "From": "K0048",
+            "To": "K0045"
+        },
+        {
+            "From": "K0046",
             "To": "K0045"
         },
         {
@@ -11318,10 +11322,6 @@
         },
         {
             "From": "K0052",
-            "To": "K0050"
-        },
-        {
-            "From": "K0053",
             "To": "K0050"
         },
         {
@@ -11453,16 +11453,20 @@
             "To": "K0696"
         },
         {
-            "From": "K0046",
-            "To": "K0045"
-        },
-        {
             "From": "K0066",
             "To": "K0063"
         },
         {
             "From": "K0066",
             "To": "K0696"
+        },
+        {
+            "From": "K0068",
+            "To": "S0096"
+        },
+        {
+            "From": "K0068",
+            "To": "S0103"
         },
         {
             "From": "K0071",
@@ -11493,8 +11497,8 @@
             "To": "T0011"
         },
         {
-            "From": "K0081",
-            "To": "K0071"
+            "From": "K0053",
+            "To": "K0050"
         },
         {
             "From": "K0082",
@@ -11561,20 +11565,16 @@
             "To": "S0158"
         },
         {
-            "From": "K0068",
-            "To": "S0096"
-        },
-        {
-            "From": "K0068",
-            "To": "S0103"
-        },
-        {
-            "From": "K0103",
-            "To": "S0097"
+            "From": "K0081",
+            "To": "K0071"
         },
         {
             "From": "K0104",
             "To": "S0035"
+        },
+        {
+            "From": "K0106",
+            "To": "S0159"
         },
         {
             "From": "K0107",
@@ -11601,8 +11601,8 @@
             "To": "S0077"
         },
         {
-            "From": "K0106",
-            "To": "S0159"
+            "From": "K0111",
+            "To": "S0030"
         },
         {
             "From": "K0119",
@@ -11661,8 +11661,8 @@
             "To": "S0036"
         },
         {
-            "From": "K0132",
-            "To": "A0093"
+            "From": "K0103",
+            "To": "S0097"
         },
         {
             "From": "K0133",
@@ -11697,19 +11697,15 @@
             "To": "A0093"
         },
         {
-            "From": "K0111",
-            "To": "S0030"
+            "From": "K0137",
+            "To": "A0087"
+        },
+        {
+            "From": "K0137",
+            "To": "A0093"
         },
         {
             "From": "K0139",
-            "To": "A0093"
-        },
-        {
-            "From": "K0137",
-            "To": "A0087"
-        },
-        {
-            "From": "K0137",
             "To": "A0093"
         },
         {
@@ -11719,6 +11715,10 @@
         {
             "From": "K0154",
             "To": "S0247"
+        },
+        {
+            "From": "K0132",
+            "To": "A0093"
         },
         {
             "From": "K0164",
@@ -11833,15 +11833,11 @@
             "To": "S0134"
         },
         {
-            "From": "K0215",
-            "To": "S0134"
-        },
-        {
             "From": "K0216",
             "To": "S0134"
         },
         {
-            "From": "K0217",
+            "From": "K0215",
             "To": "S0134"
         },
         {
@@ -11901,6 +11897,10 @@
             "To": "K0227"
         },
         {
+            "From": "K0232",
+            "To": "S0119"
+        },
+        {
             "From": "K0233",
             "To": "S0119"
         },
@@ -11913,16 +11913,16 @@
             "To": "S0119"
         },
         {
+            "From": "K0217",
+            "To": "S0134"
+        },
+        {
             "From": "K0236",
             "To": "S0119"
         },
         {
-            "From": "K0237",
+            "From": "K0238",
             "To": "S0138"
-        },
-        {
-            "From": "K0232",
-            "To": "S0119"
         },
         {
             "From": "K0239",
@@ -11933,8 +11933,8 @@
             "To": "S0138"
         },
         {
-            "From": "K0238",
-            "To": "S0138"
+            "From": "K0241",
+            "To": "S0120"
         },
         {
             "From": "K0242",
@@ -11981,6 +11981,10 @@
             "To": "S0200"
         },
         {
+            "From": "K0237",
+            "To": "S0138"
+        },
+        {
             "From": "K0264",
             "To": "A0355"
         },
@@ -11989,24 +11993,12 @@
             "To": "S0153"
         },
         {
-            "From": "K0268",
-            "To": "A0430"
-        },
-        {
-            "From": "K0268",
-            "To": "A0433"
-        },
-        {
             "From": "K0273",
             "To": "A0430"
         },
         {
             "From": "K0273",
             "To": "A0433"
-        },
-        {
-            "From": "K0241",
-            "To": "S0120"
         },
         {
             "From": "K0278",
@@ -12037,6 +12029,22 @@
             "To": "A0429"
         },
         {
+            "From": "K0292",
+            "To": "A0412"
+        },
+        {
+            "From": "K0292",
+            "To": "A0414"
+        },
+        {
+            "From": "K0292",
+            "To": "A0416"
+        },
+        {
+            "From": "K0292",
+            "To": "A0429"
+        },
+        {
             "From": "K0296",
             "To": "A0412"
         },
@@ -12051,26 +12059,18 @@
         {
             "From": "K0296",
             "To": "A0429"
+        },
+        {
+            "From": "K0268",
+            "To": "A0430"
+        },
+        {
+            "From": "K0268",
+            "To": "A0433"
         },
         {
             "From": "K0308",
             "To": "S0397"
-        },
-        {
-            "From": "K0292",
-            "To": "A0412"
-        },
-        {
-            "From": "K0292",
-            "To": "A0414"
-        },
-        {
-            "From": "K0292",
-            "To": "A0416"
-        },
-        {
-            "From": "K0292",
-            "To": "A0429"
         },
         {
             "From": "K0321",
@@ -12225,10 +12225,6 @@
             "To": "T0040"
         },
         {
-            "From": "K0535",
-            "To": "T0040"
-        },
-        {
             "From": "K0536",
             "To": "T0040"
         },
@@ -12293,6 +12289,10 @@
             "To": "T0040"
         },
         {
+            "From": "K0535",
+            "To": "T0040"
+        },
+        {
             "From": "K0552",
             "To": "T0040"
         },
@@ -12302,10 +12302,6 @@
         },
         {
             "From": "K0554",
-            "To": "T0040"
-        },
-        {
-            "From": "K0555",
             "To": "T0040"
         },
         {
@@ -12355,6 +12351,14 @@
         {
             "From": "K0609",
             "To": "T0041"
+        },
+        {
+            "From": "K0610",
+            "To": "A0117"
+        },
+        {
+            "From": "K0610",
+            "To": "A0628"
         },
         {
             "From": "K0611",
@@ -12409,6 +12413,10 @@
             "To": "T0032"
         },
         {
+            "From": "K0555",
+            "To": "T0040"
+        },
+        {
             "From": "K0634",
             "To": "T0032"
         },
@@ -12421,10 +12429,6 @@
             "To": "T0032"
         },
         {
-            "From": "K0639",
-            "To": "T0032"
-        },
-        {
             "From": "K0648",
             "To": "S0016"
         },
@@ -12433,12 +12437,8 @@
             "To": "S0017"
         },
         {
-            "From": "K0610",
-            "To": "A0117"
-        },
-        {
-            "From": "K0610",
-            "To": "A0628"
+            "From": "K0639",
+            "To": "T0032"
         },
         {
             "From": "K0677",
@@ -12533,14 +12533,6 @@
             "To": "K0680"
         },
         {
-            "From": "K0723",
-            "To": "S0019"
-        },
-        {
-            "From": "K0723",
-            "To": "K0680"
-        },
-        {
             "From": "K0724",
             "To": "S0020"
         },
@@ -12629,6 +12621,14 @@
             "To": "S0038"
         },
         {
+            "From": "K0723",
+            "To": "S0019"
+        },
+        {
+            "From": "K0723",
+            "To": "K0680"
+        },
+        {
             "From": "K0743",
             "To": "S0039"
         },
@@ -12639,10 +12639,6 @@
         {
             "From": "K0745",
             "To": "S0041"
-        },
-        {
-            "From": "K0746",
-            "To": "S0042"
         },
         {
             "From": "K0747",
@@ -12725,8 +12721,8 @@
             "To": "S0105"
         },
         {
-            "From": "K0764",
-            "To": "S0108"
+            "From": "K0746",
+            "To": "S0042"
         },
         {
             "From": "K0765",
@@ -12769,12 +12765,16 @@
             "To": "S0139"
         },
         {
+            "From": "K0790",
+            "To": "S0139"
+        },
+        {
             "From": "K0794",
             "To": "S0128"
         },
         {
-            "From": "K0790",
-            "To": "S0139"
+            "From": "K0796",
+            "To": "S0128"
         },
         {
             "From": "K0797",
@@ -12793,6 +12793,10 @@
             "To": "S0129"
         },
         {
+            "From": "K0764",
+            "To": "S0108"
+        },
+        {
             "From": "K0807",
             "To": "S0129"
         },
@@ -12803,10 +12807,6 @@
         {
             "From": "K0809",
             "To": "S0115"
-        },
-        {
-            "From": "K0810",
-            "To": "S0138"
         },
         {
             "From": "K0811",
@@ -12849,20 +12849,20 @@
             "To": "S0131"
         },
         {
-            "From": "K0796",
-            "To": "S0128"
-        },
-        {
-            "From": "K0821",
-            "To": "S0132"
+            "From": "K0810",
+            "To": "S0138"
         },
         {
             "From": "K0822",
             "To": "S0150"
         },
         {
-            "From": "K0823",
-            "To": "S0151"
+            "From": "K0821",
+            "To": "S0132"
+        },
+        {
+            "From": "K0824",
+            "To": "S0154"
         },
         {
             "From": "K0825",
@@ -12937,12 +12937,12 @@
             "To": "S0206"
         },
         {
-            "From": "K0843",
-            "To": "S0206"
+            "From": "K0823",
+            "To": "S0151"
         },
         {
-            "From": "K0824",
-            "To": "S0154"
+            "From": "K0843",
+            "To": "S0206"
         },
         {
             "From": "K0844",
@@ -12953,7 +12953,7 @@
             "To": "S0206"
         },
         {
-            "From": "K0846",
+            "From": "K0847",
             "To": "S0206"
         },
         {
@@ -13021,8 +13021,8 @@
             "To": "A0739"
         },
         {
-            "From": "K0864",
-            "To": "A0739"
+            "From": "K0846",
+            "To": "S0206"
         },
         {
             "From": "K0865",
@@ -13085,16 +13085,16 @@
             "To": "S0208"
         },
         {
-            "From": "K0847",
-            "To": "S0206"
-        },
-        {
             "From": "K0880",
             "To": "A0739"
         },
         {
             "From": "K0881",
             "To": "S0206"
+        },
+        {
+            "From": "K0882",
+            "To": "A0739"
         },
         {
             "From": "K0883",
@@ -13129,27 +13129,27 @@
             "To": "S0015"
         },
         {
+            "From": "K0864",
+            "To": "A0739"
+        },
+        {
             "From": "K0935",
             "To": "S0016"
         },
         {
-            "From": "K0882",
-            "To": "A0739"
-        },
-        {
-            "From": "S0002",
+            "From": "S0003",
             "To": "T0009"
         },
         {
-            "From": "S0002",
+            "From": "S0003",
             "To": "T0010"
         },
         {
-            "From": "S0003",
+            "From": "S0002",
             "To": "T0009"
         },
         {
-            "From": "S0003",
+            "From": "S0002",
             "To": "T0010"
         },
         {
@@ -13197,6 +13197,10 @@
             "To": "T0013"
         },
         {
+            "From": "S0023",
+            "To": "T0010"
+        },
+        {
             "From": "S0024",
             "To": "T0010"
         },
@@ -13213,7 +13217,11 @@
             "To": "T0010"
         },
         {
-            "From": "S0023",
+            "From": "S0029",
+            "To": "T0009"
+        },
+        {
+            "From": "S0029",
             "To": "T0010"
         },
         {
@@ -13225,14 +13233,6 @@
             "To": "T0010"
         },
         {
-            "From": "S0029",
-            "To": "T0009"
-        },
-        {
-            "From": "S0029",
-            "To": "T0010"
-        },
-        {
             "From": "S0031",
             "To": "T0009"
         },
@@ -13241,11 +13241,11 @@
             "To": "T0010"
         },
         {
-            "From": "S0032",
+            "From": "S0033",
             "To": "T0009"
         },
         {
-            "From": "S0032",
+            "From": "S0033",
             "To": "T0010"
         },
         {
@@ -13261,11 +13261,11 @@
             "To": "T0009"
         },
         {
-            "From": "S0033",
+            "From": "S0032",
             "To": "T0009"
         },
         {
-            "From": "S0033",
+            "From": "S0032",
             "To": "T0010"
         },
         {
@@ -13305,11 +13305,19 @@
             "To": "A0179"
         },
         {
+            "From": "S0047",
+            "To": "A0061"
+        },
+        {
+            "From": "S0048",
+            "To": "A0061"
+        },
+        {
             "From": "S0038",
             "To": "A0047"
         },
         {
-            "From": "S0048",
+            "From": "S0050",
             "To": "A0061"
         },
         {
@@ -13317,19 +13325,11 @@
             "To": "A0061"
         },
         {
-            "From": "S0047",
-            "To": "A0061"
-        },
-        {
-            "From": "S0051",
-            "To": "A0061"
-        },
-        {
-            "From": "S0050",
-            "To": "A0061"
-        },
-        {
             "From": "S0052",
+            "To": "A0061"
+        },
+        {
+            "From": "S0053",
             "To": "A0061"
         },
         {
@@ -13397,8 +13397,12 @@
             "To": "S0397"
         },
         {
-            "From": "S0053",
+            "From": "S0051",
             "To": "A0061"
+        },
+        {
+            "From": "S0070",
+            "To": "S0397"
         },
         {
             "From": "S0071",
@@ -13445,10 +13449,6 @@
             "To": "S0110"
         },
         {
-            "From": "S0070",
-            "To": "S0397"
-        },
-        {
             "From": "S0082",
             "To": "T0009"
         },
@@ -13461,8 +13461,12 @@
             "To": "T0009"
         },
         {
-            "From": "S0085",
+            "From": "S0081",
             "To": "T0009"
+        },
+        {
+            "From": "S0081",
+            "To": "T0010"
         },
         {
             "From": "S0087",
@@ -13473,20 +13477,16 @@
             "To": "S0160"
         },
         {
-            "From": "S0089",
-            "To": "A0082"
+            "From": "S0085",
+            "To": "T0009"
         },
         {
             "From": "S0090",
             "To": "T0009"
         },
         {
-            "From": "S0081",
+            "From": "S0091",
             "To": "T0009"
-        },
-        {
-            "From": "S0081",
-            "To": "T0010"
         },
         {
             "From": "S0092",
@@ -13509,7 +13509,7 @@
             "To": "A0117"
         },
         {
-            "From": "S0091",
+            "From": "S0097",
             "To": "T0009"
         },
         {
@@ -13545,8 +13545,8 @@
             "To": "T0017"
         },
         {
-            "From": "S0097",
-            "To": "T0009"
+            "From": "S0089",
+            "To": "A0082"
         },
         {
             "From": "S0109",
@@ -13641,8 +13641,8 @@
             "To": "T0017"
         },
         {
-            "From": "S0108",
-            "To": "T0009"
+            "From": "S0130",
+            "To": "T0017"
         },
         {
             "From": "S0131",
@@ -13737,10 +13737,6 @@
             "To": "T0009"
         },
         {
-            "From": "S0130",
-            "To": "T0017"
-        },
-        {
             "From": "S0151",
             "To": "T0009"
         },
@@ -13758,6 +13754,18 @@
         },
         {
             "From": "S0152",
+            "To": "A0419"
+        },
+        {
+            "From": "S0153",
+            "To": "T0009"
+        },
+        {
+            "From": "S0153",
+            "To": "A0408"
+        },
+        {
+            "From": "S0153",
             "To": "A0419"
         },
         {
@@ -13789,8 +13797,8 @@
             "To": "T0009"
         },
         {
-            "From": "S0157",
-            "To": "T0011"
+            "From": "S0108",
+            "To": "T0009"
         },
         {
             "From": "S0158",
@@ -13841,18 +13849,6 @@
             "To": "T0014"
         },
         {
-            "From": "S0153",
-            "To": "T0009"
-        },
-        {
-            "From": "S0153",
-            "To": "A0408"
-        },
-        {
-            "From": "S0153",
-            "To": "A0419"
-        },
-        {
             "From": "S0170",
             "To": "T0014"
         },
@@ -13863,6 +13859,10 @@
         {
             "From": "S0172",
             "To": "A0004"
+        },
+        {
+            "From": "S0173",
+            "To": "A0564"
         },
         {
             "From": "S0174",
@@ -13879,6 +13879,10 @@
         {
             "From": "S0177",
             "To": "T0017"
+        },
+        {
+            "From": "S0157",
+            "To": "T0011"
         },
         {
             "From": "S0178",
@@ -13898,14 +13902,6 @@
         },
         {
             "From": "S0180",
-            "To": "A0344"
-        },
-        {
-            "From": "S0181",
-            "To": "A0343"
-        },
-        {
-            "From": "S0181",
             "To": "A0344"
         },
         {
@@ -13929,12 +13925,12 @@
             "To": "A0355"
         },
         {
-            "From": "S0173",
-            "To": "A0564"
+            "From": "S0181",
+            "To": "A0343"
         },
         {
-            "From": "S0200",
-            "To": "A0459"
+            "From": "S0181",
+            "To": "A0344"
         },
         {
             "From": "S0204",
@@ -13975,6 +13971,10 @@
         {
             "From": "S0212",
             "To": "A0742"
+        },
+        {
+            "From": "S0200",
+            "To": "A0459"
         },
         {
             "From": "S0334",
@@ -14037,18 +14037,6 @@
             "To": "T0035"
         },
         {
-            "From": "S0365",
-            "To": "T0007"
-        },
-        {
-            "From": "S0365",
-            "To": "T0033"
-        },
-        {
-            "From": "S0365",
-            "To": "T0035"
-        },
-        {
             "From": "S0366",
             "To": "T0007"
         },
@@ -14065,6 +14053,18 @@
             "To": "T0007"
         },
         {
+            "From": "S0365",
+            "To": "T0007"
+        },
+        {
+            "From": "S0365",
+            "To": "T0033"
+        },
+        {
+            "From": "S0365",
+            "To": "T0035"
+        },
+        {
             "From": "S0368",
             "To": "T0007"
         },
@@ -14089,14 +14089,6 @@
             "To": "T0035"
         },
         {
-            "From": "S0371",
-            "To": "T0033"
-        },
-        {
-            "From": "S0371",
-            "To": "T0035"
-        },
-        {
             "From": "S0372",
             "To": "T0033"
         },
@@ -14105,11 +14097,11 @@
             "To": "T0035"
         },
         {
-            "From": "S0373",
+            "From": "S0371",
             "To": "T0033"
         },
         {
-            "From": "S0373",
+            "From": "S0371",
             "To": "T0035"
         },
         {
@@ -14121,19 +14113,19 @@
             "To": "T0035"
         },
         {
-            "From": "S0375",
+            "From": "S0373",
             "To": "T0033"
         },
         {
-            "From": "S0375",
+            "From": "S0373",
             "To": "T0035"
         },
         {
-            "From": "S0376",
+            "From": "S0375",
             "To": "T0033"
         },
         {
-            "From": "S0376",
+            "From": "S0375",
             "To": "T0035"
         },
         {
@@ -14149,11 +14141,15 @@
             "To": "T0033"
         },
         {
-            "From": "S0395",
-            "To": "T0014"
+            "From": "S0376",
+            "To": "T0033"
         },
         {
-            "From": "S0396",
+            "From": "S0376",
+            "To": "T0035"
+        },
+        {
+            "From": "S0395",
             "To": "T0014"
         },
         {
@@ -14175,6 +14171,10 @@
         {
             "From": "S0402",
             "To": "T0041"
+        },
+        {
+            "From": "S0396",
+            "To": "T0014"
         },
         {
             "From": "T0005",
@@ -14645,19 +14645,19 @@
             "To": "T0004"
         },
         {
-            "From": "T0023",
+            "From": "T0036",
             "To": "T0001"
         },
         {
-            "From": "T0023",
+            "From": "T0036",
             "To": "T0002"
         },
         {
-            "From": "T0023",
+            "From": "T0036",
             "To": "T0003"
         },
         {
-            "From": "T0023",
+            "From": "T0036",
             "To": "T0004"
         },
         {
@@ -14681,19 +14681,19 @@
             "To": "T0022"
         },
         {
-            "From": "T0036",
+            "From": "T0023",
             "To": "T0001"
         },
         {
-            "From": "T0036",
+            "From": "T0023",
             "To": "T0002"
         },
         {
-            "From": "T0036",
+            "From": "T0023",
             "To": "T0003"
         },
         {
-            "From": "T0036",
+            "From": "T0023",
             "To": "T0004"
         }
     ]
